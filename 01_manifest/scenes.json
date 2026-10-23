@@ -10,11 +10,30 @@
     "target_loudness_lufs": -14
   },
   "timing_rule": {
-    "pre_action": [0.0, 1.5],
-    "speech": [1.5, 7.5],
-    "reaction": [7.5, "end"],
+    "pre_action": [
+      0.0,
+      1.5
+    ],
+    "speech": [
+      1.5,
+      7.5
+    ],
+    "reaction": [
+      7.5,
+      "end"
+    ],
     "voice_start_seconds": 1.5,
-    "title_window_seconds": [0.2, 3.5]
+    "title_window_seconds": [
+      0.2,
+      3.5
+    ]
+  },
+  "image_model": {
+    "id": "gpt-image-2",
+    "aspect_ratio": "9:16",
+    "quality": "máxima disponible (max; si no la acepta, xhigh/high)",
+    "resolution": "4K (o 2K si no la acepta)",
+    "variants_per_scene": 2
   },
   "video_model": {
     "id": "bytedance-seedance-v2.5",
@@ -39,7 +58,10 @@
       },
       "voice": {
         "profile": "Voz masculina madura (48 años), autoritaria, firme, tono de mando militar al aire libre",
-        "settings": { "stability": 0.45, "similarity_boost": 0.75 },
+        "settings": {
+          "stability": 0.45,
+          "similarity_boost": 0.75
+        },
         "tts_text": "Míi-li-tees! Óm-ni-um la-bóo-rum frúuk-tus... in húi-yus di-ée-ii wik-tóo-ri-aa kon-sís-tit. ¡Síng-na in-fér-te!",
         "original": "Milites! Omnium laborum fructus in huius diei victoria consistit. Signa inferte!",
         "translation": "¡Soldados! El fruto de todos nuestros esfuerzos reside en la victoria de este día. ¡Avanzad los estandartes!",
@@ -64,7 +86,9 @@
       },
       "voice": {
         "profile": "Voz masculina solemne, resonante, pausada, ceremonial",
-        "settings": { "stability": 0.5 },
+        "settings": {
+          "stability": 0.5
+        },
         "tts_text": "Anók... Uásh-mu-a-ría Sá-tep-na-ría... Ría-ma-sé-sa Ma-ría A-máa-na. Tá-i mú-a-ta na A-máa-na Ría... jar ná-sat-af.",
         "original": "Jnk Wsr-mꜣꜥt-Rꜥ Stp-n-Rꜥ, Rꜥ-ms-sw Mry-Jmn. Dj.n(.j) mꜣꜥt n Jmn-Rꜥ ḥr nst.f",
         "translation": "Yo soy Usermaatre Setepenre, Ramsés, amado de Amón. He establecido Maat para Amón-Ra sobre su trono.",
@@ -89,7 +113,9 @@
       },
       "voice": {
         "profile": "Voz masculina joven (25 años), enérgica, clara, decidida",
-        "settings": { "stability": 0.45 },
+        "settings": {
+          "stability": 0.45
+        },
         "tts_text": "Úu klép-too teen ní-keen, óo Par-me-ní-oon... al-lá pja-ne-róos kai á-neu so-pjís-ma-tos nii-kée-soo.",
         "tts_text_alt": "Úu klép-too teen ní-keen, óo Par-me-ní-oon... al-lá p-ha-ne-róos kai á-neu so-p-hís-ma-tos nii-kée-soo.",
         "original": "Οὐ κλέπτω τὴν νίκην, ὦ Παρμενίων· ἀλλὰ φανερῶς καὶ ἄνευ σοφίσματος νικήσω.",
@@ -116,7 +142,9 @@
       },
       "voice": {
         "profile": "Voz femenina de 41 años, serena, regia, dicción castellana clara y grave",
-        "settings": { "stability": 0.5 },
+        "settings": {
+          "stability": 0.5
+        },
         "tts_text": "Se-guíd vués-tro vi-á-ye, don Cris-tó-bal... que Nos di-shí-mos a nués-tro con-sé-yo... que se fá-ga vués-tra em-pré-sa en la mar o-tsé-a-na.",
         "original": "Seguid vuestro viage, don Cristóbal; que Nos diximos a nuestro consejo que se faga vuestra empresa en la mar océana.",
         "translation": "Seguid vuestro viaje, don Cristóbal; hemos dicho a nuestro consejo que se haga vuestra empresa en el mar océano.",
@@ -142,7 +170,9 @@
       },
       "voice": {
         "profile": "Voz masculina profunda, áspera, gutural, pausada y dominante",
-        "settings": { "stability": 0.45 },
+        "settings": {
+          "stability": 0.45
+        },
         "tts_text": "Móng-ke Téng-gue-ri-yin kú-chun-dur... Ká-muk ú-lu-si kú-ri-ya-ba. ¡Nó-yat... mór-dat-kun!",
         "original": "Möngke Tenggeri-yin küčün-dür, qamuq ulus-i quriyaba. Noyad, mordatqun!",
         "translation": "Por la fuerza del Cielo Eterno, hemos unido a toda la nación. ¡Comandantes, en marcha!",
@@ -168,7 +198,9 @@
       },
       "voice": {
         "profile": "Voz masculina de 36 años, ritmo rápido, incisivo, articulación firme con erre vibrante",
-        "settings": { "stability": 0.45 },
+        "settings": {
+          "stability": 0.45
+        },
         "tts_text": "Messieurs, examinez bien ce terrain. Demain, avant le soir, cette armée est à moi.",
         "language_code": "fr",
         "original": "Messieurs, examinez bien ce terrain. Demain, avant le soir, cette armée est à moi.",

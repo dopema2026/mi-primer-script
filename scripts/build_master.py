@@ -3,8 +3,9 @@
 
 Uso:
   python scripts/build_master.py audio  <id|all>   # voz + SFX -> mezcla maestra (referencia para Seedance)
-  python scripts/build_master.py scene  <id|all>   # clip Seedance -> clip final con rótulo y marca
-  python scripts/build_master.py master            # concatena los 6 clips -> máster ~62.5 s
+  python scripts/build_master.py scene  <id|all>   # clip Seedance -> versiones «limpio» y «letras»
+  python scripts/build_master.py master            # concatena los 6 clips -> 2 másteres ~62.5 s
+  (--variant limpio|letras|ambas; por defecto ambas)
   python scripts/build_master.py check  <archivo>  # ffprobe: duración, resolución, fps
 
 Archivos esperados (por id de escena, p. ej. 01_cesar):
@@ -19,6 +20,7 @@ import os
 import subprocess
 import sys
 import tempfile
+import textwrap
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -147,7 +149,23 @@ def watermark_filter(manifest, font, tmpdir):
             f"shadowcolor=black@0.4:shadowx=1:shadowy=1")
 
 
-def build_scene(scene, manifest, font, audio_mode):
+def subtitle_filter(scene, font, tmpdir):
+    # Traducción discreta: entra cuando se va el rótulo y sale al terminar la frase.
+    text = scene["voice"].get("translation")
+    if not text:
+        return None
+    txt = Path(tmpdir) / f"{scene['id']}_sub.txt"
+    txt.write_text("\n".join(textwrap.wrap(f"«{text}»", 34)), encoding="utf-8")
+    t0, t1, fade = 3.6, 8.2, 0.3
+    alpha = (f"'if(lt(t,{t0}),0,if(lt(t,{t0 + fade}),(t-{t0})/{fade},"
+             f"if(lt(t,{t1 - fade}),1,if(lt(t,{t1}),({t1}-t)/{fade},0))))'")
+    return (f"drawtext=fontfile='{ff_path(font)}':textfile='{ff_path(txt)}':"
+            f"fontsize=40:line_spacing=10:fontcolor={TITLE_COLOR}:x=(w-text_w)/2:y=h*0.62:"
+            f"box=1:boxcolor=black@0.35:boxborderw=18:shadowcolor=black@0.6:shadowx=2:shadowy=2:"
+            f"alpha={alpha}")
+
+
+def build_scene(scene, manifest, font, audio_mode, variant):
     sid = scene["id"]
     clip = CLIPS / f"{sid}.mp4"
     if not clip.exists():
@@ -169,9 +187,13 @@ def build_scene(scene, manifest, font, audio_mode):
             f"crop={W}:{H}", "setsar=1", f"fps={fps}",
             f"tpad=stop_mode=clone:stop_duration={pad:.3f}",
             f"trim=0:{dur}", "setpts=PTS-STARTPTS",
-            *title_filters(scene, manifest, font, tmpdir),
-            watermark_filter(manifest, font, tmpdir),
         ]
+        if variant == "letras":
+            vf += title_filters(scene, manifest, font, tmpdir)
+            sub = subtitle_filter(scene, font, tmpdir)
+            if sub:
+                vf.append(sub)
+            vf.append(watermark_filter(manifest, font, tmpdir))
         graph = f"[0:v]{','.join(vf)}[v];"
         inputs = ["-i", clip]
         tail = f"aresample={SAMPLE_RATE},aformat=channel_layouts=stereo,apad,atrim=0:{dur}," \
@@ -185,7 +207,7 @@ def build_scene(scene, manifest, font, audio_mode):
             inputs += ["-i", master_audio]
             graph += (f"[0:a]volume=0.25[ca];[1:a][ca]amix=inputs=2:normalize=0,{tail}")
 
-        out = EXPORT / f"{sid}_final.mp4"
+        out = EXPORT / f"{sid}_{variant}.mp4"
         print(f"[{sid}] clip {clip_dur:.2f}s -> {dur:.2f}s (audio: {audio_mode}) -> {out.name}")
         run(["ffmpeg", "-y", "-v", "error", *inputs, "-filter_complex", graph,
              "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "slow", "-crf", "17",
@@ -195,9 +217,9 @@ def build_scene(scene, manifest, font, audio_mode):
 
 # ---------------------------------------------------------------- máster
 
-def build_master(manifest):
+def build_master(manifest, variant):
     scenes = sorted(manifest["scenes"], key=lambda s: s["order"])
-    parts = [EXPORT / f"{s['id']}_final.mp4" for s in scenes]
+    parts = [EXPORT / f"{s['id']}_{variant}.mp4" for s in scenes]
     missing = [p.name for p in parts if not p.exists()]
     if missing:
         sys.exit(f"Faltan clips finales: {', '.join(missing)}. Ejecuta antes 'scene all'.")
@@ -209,7 +231,7 @@ def build_master(manifest):
     graph = (f"{refs}concat=n={len(parts)}:v=1:a=1[v][acat];"
              f"[acat]loudnorm=I={fmt['target_loudness_lufs']}:TP=-1.5:LRA=11,"
              f"aresample={SAMPLE_RATE}[a]")
-    out = EXPORT / "master_asi_hablaban.mp4"
+    out = EXPORT / f"master_asi_hablaban_{variant}.mp4"
     print(f"Montando máster con {len(parts)} escenas -> {out.name}")
     run(["ffmpeg", "-y", "-v", "error", *inputs, "-filter_complex", graph,
          "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "slow", "-crf", "17",
@@ -239,7 +261,10 @@ def main():
     ap.add_argument("--font", help="Ruta a una fuente .ttf/.otf para rótulos y marca")
     ap.add_argument("--audio", choices=["master", "clip", "mix"], default="master",
                     help="Audio del clip final: mezcla maestra (defecto), el de Seedance o ambos")
+    ap.add_argument("--variant", choices=["limpio", "letras", "ambas"], default="ambas",
+                    help="limpio: sin ningún texto · letras: rótulo + traducción + marca · ambas (defecto)")
     args = ap.parse_args()
+    variants = ["limpio", "letras"] if args.variant == "ambas" else [args.variant]
     manifest = load_manifest()
     EXPORT.mkdir(exist_ok=True)
 
@@ -249,9 +274,11 @@ def main():
     elif args.command == "scene":
         font = find_font(args.font)
         for s in pick_scenes(manifest, args.target):
-            build_scene(s, manifest, font, args.audio)
+            for variant in variants:
+                build_scene(s, manifest, font, args.audio, variant)
     elif args.command == "master":
-        build_master(manifest)
+        for variant in variants:
+            build_master(manifest, variant)
     else:
         check(args.target, manifest)
 
