@@ -1,0 +1,186 @@
+{
+  "project": "Así hablaban los grandes personajes de la historia",
+  "brand": "@dopemaweb",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16",
+    "fps": 24,
+    "target_total_seconds": 62.5,
+    "target_loudness_lufs": -14
+  },
+  "timing_rule": {
+    "pre_action": [0.0, 1.5],
+    "speech": [1.5, 7.5],
+    "reaction": [7.5, "end"],
+    "voice_start_seconds": 1.5,
+    "title_window_seconds": [0.2, 3.5]
+  },
+  "video_model": {
+    "id": "bytedance-seedance-v2.5",
+    "aspect_ratio": "9:16",
+    "resolution": "1080p",
+    "generate_audio": true,
+    "inputs": "start_frame = imagen maestra; reference_audios = mezcla maestra (voz + SFX)",
+    "max_attempts_per_scene": 2,
+    "approval_required": true
+  },
+  "scenes": [
+    {
+      "order": 1,
+      "id": "01_cesar",
+      "name": "Julio César",
+      "role": "Gancho",
+      "final_duration": 10.0,
+      "seedance_duration": 10,
+      "title": {
+        "line1": "JULIO CÉSAR",
+        "line2": "Sitio de Alesia, Galia · 52 a. C. (Latín Clásico)"
+      },
+      "voice": {
+        "profile": "Voz masculina madura (48 años), autoritaria, firme, tono de mando militar al aire libre",
+        "settings": { "stability": 0.45, "similarity_boost": 0.75 },
+        "tts_text": "Míi-li-tees! Óm-ni-um la-bóo-rum frúuk-tus... in húi-yus di-ée-ii wik-tóo-ri-aa kon-sís-tit. ¡Síng-na in-fér-te!",
+        "original": "Milites! Omnium laborum fructus in huius diei victoria consistit. Signa inferte!",
+        "translation": "¡Soldados! El fruto de todos nuestros esfuerzos reside en la victoria de este día. ¡Avanzad los estandartes!",
+        "source_type": "recreación"
+      },
+      "sfx": {
+        "duration": 10.5,
+        "prompt": "Outdoor ancient Roman military camp in Gaul, heavy wind blowing fabric banners, clanking of iron chainmail armor and leather gear, distant soldiers murmuring quietly, realistic historical foley, no music."
+      },
+      "image_prompt": "Hyperrealistic 35mm historical film still, vertical 9:16, medium-full shot. Julius Caesar at age 48 in 52 BC at the Siege of Alesia, facial features strictly faithful to the Tusculum bust: receding hairline combed forward, gaunt cheeks, deep nasolabial folds, wrinkled neck, intense dark eyes, mouth slightly relaxed. He wears a realistic Roman bronze muscled cuirass over a red tunic and a heavy scarlet wool paludamentum cloak. NO lorica segmentata. Foreground out-of-focus shoulder of a Roman centurion in iron chainmail (lorica hamata) and bronze Montefortino helmet listening to him. Muddy Gallic fortifications and legionary standards in the overcast background. Natural cinematic lighting, photorealistic skin texture, 8k.",
+      "video_prompt": "Cinematic historical scene. In the first 1.5 seconds, Julius Caesar looks over his troops and raises his right hand in command. From 1.5s to 7.5s, Caesar speaks forcefully and naturally to the soldiers, lip-syncing to the audio in a 3/4 angle. Surrounding Roman soldiers in chainmail listen silently with mouths completely closed. Wind moves the red cloak and standards in the background. Subtle handheld 35mm camera movement."
+    },
+    {
+      "order": 2,
+      "id": "02_ramses",
+      "name": "Ramsés II",
+      "final_duration": 10.0,
+      "seedance_duration": 10,
+      "title": {
+        "line1": "RAMSÉS II",
+        "line2": "Abu Simbel · Siglo XIII a. C. (Egipcio Ramésida)"
+      },
+      "voice": {
+        "profile": "Voz masculina solemne, resonante, pausada, ceremonial",
+        "settings": { "stability": 0.5 },
+        "tts_text": "Anók... Uásh-mu-a-ría Sá-tep-na-ría... Ría-ma-sé-sa Ma-ría A-máa-na. Tá-i mú-a-ta na A-máa-na Ría... jar ná-sat-af.",
+        "original": "Jnk Wsr-mꜣꜥt-Rꜥ Stp-n-Rꜥ, Rꜥ-ms-sw Mry-Jmn. Dj.n(.j) mꜣꜥt n Jmn-Rꜥ ḥr nst.f",
+        "translation": "Yo soy Usermaatre Setepenre, Ramsés, amado de Amón. He establecido Maat para Amón-Ra sobre su trono.",
+        "source_type": "recreación (nombres atestiguados en cuneiforme)"
+      },
+      "sfx": {
+        "duration": 10.5,
+        "prompt": "Inside a massive ancient stone temple, deep architectural reverb, crackling of oil lamps, soft footsteps on stone floor, rustling of linen robes and bronze sistrum rattle fade, no music."
+      },
+      "image_prompt": "Hyperrealistic 35mm historical film still, vertical 9:16, medium shot. Pharaoh Ramesses II around age 45 in the 13th century BC inside the Great Temple of Abu Simbel. Facial features faithful to his forensic mummy reconstruction: prominent hooked aquiline nose, strong jawline, high cheekbones, weathered copper-toned skin. Wearing the blue and gold Khepresh war/ceremonial crown, intricate lapis lazuli and turquoise pectoral collar, and crisp pleated white linen shendyt. In the background, brightly painted polychrome carved temple columns illuminated by flickering oil lamps, and two shaved-head Egyptian priests wearing leopard skins bowing silently. Natural warm torchlight, photorealistic, 8k.",
+      "video_prompt": "Cinematic historical scene inside Abu Simbel temple. Ramesses II stands by a stone altar as incense smoke rises slowly. He turns his head slightly toward the priests and speaks solemnly with natural lip-sync and regal posture. Background priests bow and remain completely silent with mouths closed. Flickering torchlight casts dynamic shadows on the painted reliefs."
+    },
+    {
+      "order": 3,
+      "id": "03_alejandro",
+      "name": "Alejandro Magno",
+      "final_duration": 10.0,
+      "seedance_duration": 10,
+      "title": {
+        "line1": "ALEJANDRO MAGNO",
+        "line2": "Gaugamela · 331 a. C. (Griego Antiguo)"
+      },
+      "voice": {
+        "profile": "Voz masculina joven (25 años), enérgica, clara, decidida",
+        "settings": { "stability": 0.45 },
+        "tts_text": "Úu klép-too teen ní-keen, óo Par-me-ní-oon... al-lá pja-ne-róos kai á-neu so-pjís-ma-tos nii-kée-soo.",
+        "tts_text_alt": "Úu klép-too teen ní-keen, óo Par-me-ní-oon... al-lá p-ha-ne-róos kai á-neu so-p-hís-ma-tos nii-kée-soo.",
+        "original": "Οὐ κλέπτω τὴν νίκην, ὦ Παρμενίων· ἀλλὰ φανερῶς καὶ ἄνευ σοφίσματος νικήσω.",
+        "translation": "No robo la victoria, Parmenión; venceré abiertamente y sin engaños.",
+        "source_type": "basada en Arriano, Anábasis III.10"
+      },
+      "sfx": {
+        "duration": 10.5,
+        "prompt": "Ancient Macedonian military camp at dawn in a dusty plain, horses snorting softly, leather straps creaking, desert morning breeze, distant bronze spears clinking, realistic foley."
+      },
+      "image_prompt": "Hyperrealistic 35mm historical film still, vertical 9:16, medium-full shot. Alexander the Great at age 25 in 331 BC before the Battle of Gaugamela. Facial features based on the Azara Herm and Issus Mosaic: clean-shaven, wavy tawny-brown hair with the characteristic anastole center-parted lift, straight nose, slight natural head tilt. He wears an authentic white laminated linen linothorax armor with bronze scales and a purple Macedonian chlamys cloak fastened with a fibula, no helmet on head. Standing beside a wooden camp table with parchment maps, next to older bearded general Parmenion listening attentively. Dusty Mesopotamian plain at dawn with Macedonian phalanx soldiers carrying sarissa pikes in the background. Golden hour natural light, 8k.",
+      "video_prompt": "Cinematic historical scene at dawn. Alexander the Great gestures toward the battlefield horizon and looks at his older general Parmenion, speaking with youthful intensity and accurate lip-sync. Parmenion and background guards listen silently with closed mouths, nodding subtly. Dust motes float in the morning sunlight."
+    },
+    {
+      "order": 4,
+      "id": "04_isabel",
+      "name": "Isabel I de Castilla",
+      "role": "Ancla hispana",
+      "final_duration": 11.0,
+      "seedance_duration": 11,
+      "title": {
+        "line1": "ISABEL LA CATÓLICA",
+        "line2": "Santa Fe, Granada · 1492 (Castellano del s. XV)"
+      },
+      "voice": {
+        "profile": "Voz femenina de 41 años, serena, regia, dicción castellana clara y grave",
+        "settings": { "stability": 0.5 },
+        "tts_text": "Se-guíd vués-tro vi-á-ye, don Cris-tó-bal... que Nos di-shí-mos a nués-tro con-sé-yo... que se fá-ga vués-tra em-pré-sa en la mar o-tsé-a-na.",
+        "original": "Seguid vuestro viage, don Cristóbal; que Nos diximos a nuestro consejo que se faga vuestra empresa en la mar océana.",
+        "translation": "Seguid vuestro viaje, don Cristóbal; hemos dicho a nuestro consejo que se haga vuestra empresa en el mar océano.",
+        "source_type": "recreación",
+        "tip": "Probar una voz rioplatense: su 'y' suena [ʒ]/[ʃ], como la g/j y la x de 1492."
+      },
+      "sfx": {
+        "duration": 11.5,
+        "prompt": "Quiet 15th-century Castilian royal chamber, heavy parchment map unrolling on a wooden table, footsteps on stone and rug, soft rustle of heavy velvet and wool garments, ambient room tone."
+      },
+      "image_prompt": "Hyperrealistic 35mm historical film still, vertical 9:16, medium shot. Queen Isabella I of Castile at age 41 in April 1492 at Santa Fe, Granada. Facial features faithful to Juan de Flandes portraits: fair complexion, greenish-blue eyes, reddish-auburn hair tucked neatly under a traditional white linen Castilian cofia headdress and veil (NO fantasy golden crown), wearing an austere dark brocade and velvet late-15th-century Castilian court dress with square neckline. In the foreground corner (over-the-shoulder angle), Christopher Columbus (age 41, premature grey hair, dark wool doublet) holds a rolled nautical chart over a walnut table covered with a Mudejar rug. Natural side window lighting like a Flemish painting, 8k.",
+      "video_prompt": "Cinematic historical drama scene. Queen Isabella lifts her gaze from the parchment documents on the table toward Christopher Columbus and speaks with calm royal authority and natural lip-sync. Columbus listens respectfully in the foreground angle with his mouth closed, bowing his head slightly at the end. Soft natural light from the window."
+    },
+    {
+      "order": 5,
+      "id": "05_gengis",
+      "name": "Gengis Kan",
+      "final_duration": 10.0,
+      "seedance_duration": 10,
+      "title": {
+        "line1": "GENGIS KAN",
+        "line2": "Mongolia · Siglo XIII (Mongol Medieval)"
+      },
+      "voice": {
+        "profile": "Voz masculina profunda, áspera, gutural, pausada y dominante",
+        "settings": { "stability": 0.45 },
+        "tts_text": "Móng-ke Téng-gue-ri-yin kú-chun-dur... Ká-muk ú-lu-si kú-ri-ya-ba. ¡Nó-yat... mór-dat-kun!",
+        "original": "Möngke Tenggeri-yin küčün-dür, qamuq ulus-i quriyaba. Noyad, mordatqun!",
+        "translation": "Por la fuerza del Cielo Eterno, hemos unido a toda la nación. ¡Comandantes, en marcha!",
+        "source_type": "recreación sobre fórmula atestiguada"
+      },
+      "sfx": {
+        "duration": 10.5,
+        "prompt": "Mongolian steppe strong wind howling, sturdy horses breathing and stamping hooves on dry grass, leather saddles creaking, horsehair banners flapping in the wind."
+      },
+      "image_prompt": "Hyperrealistic 35mm historical film still, vertical 9:16, medium-full shot. Genghis Khan around age 44 in 1206 on the Mongolian steppe, based on the Yuan Imperial portrait and historical descriptions: weathered East Asian/Mongol facial structure, broad cheekbones, hazel-brown piercing eyes, sparse drooping mustache and thin braided beard with grey strands. Wearing a heavy fur-lined silk Mongol deel robe belted with bronze plaques and a traditional conical fur-trimmed malgai hat. Standing beside a stocky Mongolian horse, addressing two Mongol noyan commanders in hardened leather lamellar armor. White felt yurts (gers) and nine-tailed white horsehair Tug banners blowing in the steppe wind behind them. Overcast dramatic daylight, 8k.",
+      "video_prompt": "Cinematic historical scene on the windy steppe. Genghis Khan grips the reins of his horse, turns to his Mongol commanders and delivers a stern order with accurate lip-sync. The commanders listen silently with closed mouths while horses shift weight and fur garments and horsehair banners move naturally in the strong wind."
+    },
+    {
+      "order": 6,
+      "id": "06_napoleon",
+      "name": "Napoleón Bonaparte",
+      "role": "Clímax",
+      "final_duration": 11.5,
+      "seedance_duration": 12,
+      "title": {
+        "line1": "NAPOLEÓN BONAPARTE",
+        "line2": "Austerlitz · 1805 (Francés del s. XIX)"
+      },
+      "voice": {
+        "profile": "Voz masculina de 36 años, ritmo rápido, incisivo, articulación firme con erre vibrante",
+        "settings": { "stability": 0.45 },
+        "tts_text": "Messieurs, examinez bien ce terrain. Demain, avant le soir, cette armée est à moi.",
+        "language_code": "fr",
+        "original": "Messieurs, examinez bien ce terrain. Demain, avant le soir, cette armée est à moi.",
+        "translation": "Señores, examinad bien este terreno. Mañana, antes del anochecer, ese ejército será mío.",
+        "source_type": "basada en testimonios de la época"
+      },
+      "sfx": {
+        "duration": 12.0,
+        "prompt": "Cold night military bivouac in 1805, crackling campfire, paper maps rustling on a wooden field table, leather boots shifting on frozen mud, distant muffled wind, tense atmosphere."
+      },
+      "image_prompt": "Hyperrealistic 35mm historical film still, vertical 9:16, medium shot. Napoleon Bonaparte at age 36 in December 1805 on the eve of the Battle of Austerlitz. Historically accurate 1805 appearance: sharp jawline, lean face, short dark brown hair brushed forward, piercing grey-blue eyes. Wearing his iconic grey wool campaign overcoat (redingote grise) over the dark green and red Chasseurs-à-Cheval uniform and simple black felt bicorne hat (NO hand inside waistcoat). Leaning over a wooden field table covered in military maps of Pratzen, pointing at the map with a gloved hand while French marshals in gold-braided uniforms and plumed bicornes watch closely. Chiaroscuro lighting from warm oil lanterns and campfire against cold blue misty dawn, 8k.",
+      "video_prompt": "Cinematic historical scene at night/dawn bivouac. Napoleon taps the military map on the table, looks up sharply at his marshals, and speaks rapidly and decisively with natural lip-sync. Visible breath in the cold air, marshals listen silently with closed mouths, warm firelight flickering on their faces."
+    }
+  ]
+}

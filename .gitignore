@@ -1,0 +1,8 @@
+# Medios generados: pesan mucho, se guardan fuera de git
+02_master_images/*
+03_audio_voices/*
+04_audio_sfx/*
+05_video_clips/*
+06_final_export/*
+!*/.gitkeep
+__pycache__/
