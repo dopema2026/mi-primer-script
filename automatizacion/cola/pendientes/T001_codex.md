@@ -17,4 +17,4 @@ Comprobar que Codex lee y cumple las tareas.
 Existe `entregables/T001/hola.txt` con ese texto.
 
 ## Al acabar
-Sigue el punto 6 de `REGLAS.md`.
+Sigue el punto 7 de `REGLAS.md`.

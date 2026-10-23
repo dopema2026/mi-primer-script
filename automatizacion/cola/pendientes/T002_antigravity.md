@@ -19,4 +19,4 @@ Comprobar que Antigravity lee las tareas y usa el navegador.
 Existe `entregables/T002/titulo.txt` con el título de la página.
 
 ## Al acabar
-Sigue el punto 6 de `REGLAS.md`.
+Sigue el punto 7 de `REGLAS.md`.

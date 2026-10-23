@@ -17,5 +17,8 @@ Una frase.
 ## Terminado cuando
 Algo que se pueda comprobar (por ejemplo: existe `entregables/T000/salida.mp4` y dura 90 s).
 
+## Revisión de Claude
+Qué mirará Claude para aprobarla (por ejemplo: la imagen es 9:16, sin texto y sin marcas de agua).
+
 ## Al acabar
-Sigue el punto 6 de `REGLAS.md`.
+Sigue el punto 7 de `REGLAS.md`.
