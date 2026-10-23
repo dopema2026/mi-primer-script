@@ -1,3 +1,5 @@
+> **Histórico:** este encargo de revisión ya se aplicó. Lo vigente está en `PIPELINE_v3.md`, `CALIDAD_VISUAL.md` y `REGLAS.md`.
+
 # Encargo de revisión
 
 Eres un revisor experto en canales de YouTube y TikTok monetizados, producción de vídeo con IA y automatización con agentes. Revisa con calma y sin complacencia el sistema y el pipeline de abajo.
