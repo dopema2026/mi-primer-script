@@ -9,7 +9,11 @@ Habla al usuario fácil y breve.
    - Codex (`_codex`): código, Python, FFmpeg, archivos, trabajo por consola en masa e **imágenes**.
    - Antigravity (`_antigravity`): navegador, webs, subidas e interfaces gráficas.
    - Tú: solo decisiones, textos cortos clave y revisión.
-3. **Ejecución.** El usuario lanza a los obreros (`lanzar_codex.bat` y Antigravity con "Haz tus tareas").
+3. **Ejecución.** Lanza tú a los obreros desde esta carpeta, sin pedírselo al usuario:
+   - Codex: `codex exec --full-auto "Eres Codex. Lee REGLAS.md y haz todas las tareas de cola/pendientes que terminan en _codex."`
+   - Antigravity: `agy -p "Eres Antigravity. Lee REGLAS.md y haz todas las tareas de cola/pendientes que terminan en _antigravity."`
+   - Si no hay dependencias entre ellos, lánzalos a la vez en segundo plano.
+   - Si uno se cuelga o pide permiso, avisa al usuario y que use `lanzar_codex.bat` o `lanzar_antigravity.bat`.
 4. **Revisión (siempre).** Para cada tarea en `cola/revision/`:
    - Lee su entrada en `resultados/` y comprueba los entregables contra "Terminado cuando" y "Revisión de Claude".
    - Las imágenes, míralas tú. Los vídeos y audios, compruébalos con datos (duración, tamaño, formato), sin abrirlos enteros.
