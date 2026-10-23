@@ -1,7 +1,8 @@
 # Pipeline v2 — Caminando por el tiempo (largos y cortos)
 
 Sustituye al reparto de trabajo de `F:\ProyectoYoutube\RECORRIDOS\PIPELINE_RECORRIDOS.md`.
-Las reglas de imagen, voz y errores siguen en `TRAMPAS_IMAGEN.md`, `VOCES_E_IDIOMAS.md` y `ERRORES_APRENDIDOS.md`: los obreros las leen antes de cada tarea.
+**Calidad visual obligatoria:** `F:\automatizacion\CALIDAD_VISUAL.md` (realismo, física, dirección de vehículos y marchas, cuerpos completos).
+Además siguen vigentes `TRAMPAS_IMAGEN.md`, `VOCES_E_IDIOMAS.md` y `ERRORES_APRENDIDOS.md`: los obreros las leen antes de cada tarea.
 
 ## 1. Cómo se gana dinero
 | Pieza | Para qué | Meta |
@@ -40,8 +41,10 @@ En los largos, la mitad de las escenas son imágenes fijas con zoom y paneo lent
 | 2 | Escaleta hasta el año actual, gancho fuerte en la escena 1, presupuesto | Claude | `escaleta.json`, `ESCALETA.md`, `PRESUPUESTO.md` | ✔ 2 |
 | 3 | Prompts de imagen, uno por escena, con la estructura de 6 partes | Claude | órdenes en `cola/pendientes/` | — |
 | 4 | Generar las imágenes | **Codex** | `imagenes/` + hoja de contacto | — |
-| 5 | Revisar **todas** las imágenes (bandera, cuerpos, manos, texto, anacronismos, prueba del segundo) | Claude | `REVISION.md`; las malas vuelven al paso 4 | ✔ 3 |
-| 6 | Animar los clips en ElevenLabs (estimar antes de lanzar) | **Antigravity** | `clips/` | Solo si supera el presupuesto |
+| 5 | Revisar **todas** las imágenes con `CALIDAD_VISUAL.md` antes de gastar en animarlas | Claude | `REVISION.md`; las malas vuelven al paso 4 | ✔ 3 |
+| 6 | Animar los clips en ElevenLabs (estimar antes de lanzar; prompt de vídeo con dirección y quietud, ver `CALIDAD_VISUAL.md` §6) | **Antigravity** | `clips/` | Solo si supera el presupuesto |
+| 6b | Hoja de contacto de cada clip (un fotograma cada 0,5 s) | **Codex** | `clips/hojas/` | — |
+| 6c | Revisar cada hoja: dirección, brazos, patas, cosas que flotan, cantidades. Máx. 2 intentos de pago por escena | Claude | los malos vuelven al paso 4 o 6 | — |
 | 7 | Voces, ambientes, efectos y música | **Antigravity** | `audio/` | ✔ 4 (Domingo escucha) |
 | 8 | Montaje, movimiento en imágenes fijas, fechas, mezcla a −16 LUFS, auditoría, dos másters | **Codex** | `render/` | — |
 | 9 | Revisión técnica del máster (duración, fechas en su escena, cortes) | Claude | informe | ✔ 5 (Domingo ve el vídeo) |

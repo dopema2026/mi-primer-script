@@ -18,4 +18,5 @@ Lee esto antes de cada tarea. Claude revisa todo lo que entregas.
      - Cómo comprobé que está bien:
      - Problemas o dudas:
      ```
-8. No inventes. Si falta información, marca FALLO y explica qué falta.
+8. Si generas imágenes o vídeo, cumple `CALIDAD_VISUAL.md`.
+9. No inventes. Si falta información, marca FALLO y explica qué falta.

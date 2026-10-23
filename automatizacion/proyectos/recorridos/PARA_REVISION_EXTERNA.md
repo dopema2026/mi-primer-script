@@ -101,8 +101,10 @@ Orden: largo primero y después sus cortos, reutilizando investigación, escalet
 | 2 | Escaleta hasta el año actual, gancho fuerte en la escena 1, presupuesto | Claude | ✔ |
 | 3 | Prompts de imagen (estructura de 6 partes) como órdenes | Claude | — |
 | 4 | Generar imágenes y hoja de contacto | Codex | — |
-| 5 | Revisar **todas** las imágenes; las malas vuelven al paso 4 | Claude | ✔ |
+| 5 | Revisar **todas** las imágenes con `CALIDAD_VISUAL.md` antes de animar; las malas vuelven al paso 4 | Claude | ✔ |
 | 6 | Animar clips en ElevenLabs (estimar antes de lanzar) | Antigravity | solo si supera el presupuesto |
+| 6b | Hoja de contacto de cada clip (fotograma cada 0,5 s) | Codex | — |
+| 6c | Revisar las hojas (dirección, brazos, patas, flotar, cantidades); máx. 2 intentos de pago por escena | Claude | — |
 | 7 | Voces, ambientes, efectos, música | Antigravity | ✔ (escucha) |
 | 8 | Montaje, movimiento en fijas, fechas, mezcla −16 LUFS, auditoría, dos másters | Codex | — |
 | 9 | Revisión técnica del máster | Claude | ✔ (ve el vídeo) |
@@ -114,6 +116,13 @@ Orden: largo primero y después sus cortos, reutilizando investigación, escalet
 A los 7 días, Claude lee retención, CTR y vistas con vidIQ y apunta en `APRENDIZAJES.md` qué cambiar en el siguiente vídeo.
 
 ---
+
+## C2. Calidad visual (CALIDAD_VISUAL.md, resumen)
+Problema real: en el corto de México hubo que rehacer muchísimas escenas de vídeo. Fallos: hombres mitad caballo, caballos con dos cuerpos o al revés, carruajes marcha atrás o que van y vuelven, canoa cruzando una pasarela, mujer sin brazo, lanza y persona levitando, gente que cae, dos antorchas en lugar de una, tranvías demasiado rápidos, cosas que flotan, bandera de otro año, letrero posterior a la fecha.
+Reglas: cuerpos completos (2 brazos, 2 piernas; animales con 4 patas y 1 cuerpo); todo lo que avanza va hacia delante y el prompt dice hacia dónde; animales de tiro con la cabeza delante; barcas con la proa delante; columnas en una sola dirección; velocidad de época; gravedad (nada flota); cantidades exactas ("only one…"); sombras coherentes; prompts sin negaciones; vehículos y animales parados cuando se pueda y que se mueva la cámara.
+Proceso: revisar la imagen antes de pagar el clip, hoja de contacto de cada clip, máximo 2 intentos de pago por escena, prueba del segundo y registrar cada fallo nuevo.
+**Pide al revisor:** ¿qué más se puede hacer para que los clips salgan bien a la primera (modelo de vídeo, tipo de plano, duración del clip, prompts, fotograma final)?
+Falta por incorporar: las reglas de calidad del canal Dopema Web (`_contrato\ERRORES_APRENDIDOS.md`), que no se han copiado aún.
 
 ## D. Dudas y puntos débiles que ya vemos (atácalos)
 1. **Viralidad y seguidores casi no están en el pipeline:** no hay estrategia de miniaturas y títulos con pruebas A/B, de series o listas, de frecuencia de publicación ni de comunidad (por ejemplo, que el público vote la siguiente ciudad en los comentarios).
