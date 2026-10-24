@@ -49,11 +49,13 @@ def leer_cabecera(texto):
     m = re.search(r"^\s*(\S.*?),\s+(\d{1,2} \w{3} \d{4})\s*$", texto, re.M)
     if m:
         cab["lugar"], cab["fecha"] = m.group(1).strip(), m.group(2)
-    m = re.search(r"Buyer's premium \(\+([\d.]+)%\)\s+([\d.,]+) (\w+)", texto)
+    # "Buyer's premium (+16.50%)" o "Buyer's commission" con el porcentaje en otra línea
+    m = re.search(r"Buyer's (?:premium|commission).*?([\d.,]+) ([A-Z]{3})", texto)
     if m:
-        cab["comision_pct"] = numero(m.group(1))
-        cab["comision"] = numero(m.group(2))
-        cab["moneda"] = m.group(3)
+        cab["comision"] = numero(m.group(1))
+        cab["moneda"] = m.group(2)
+    m = re.search(r"\(\+([\d.]+)%\)", texto)
+    cab["comision_pct"] = numero(m.group(1)) if m else 0.0
     for clave, patron in [("martillo_total", r"Total hammer\s+([\d.,]+)"),
                           ("envio", r"Shipping costs[^\d]*?([\d.,]+) \w+"),
                           ("gastos_pago", r"Payment fees[^\d]*?([\d.,]+) \w+"),
@@ -66,20 +68,36 @@ def leer_cabecera(texto):
 def leer_lotes(pdf):
     """Devuelve la lista de lotes con su descripción, precio, foto y posición."""
     lotes = []
+    en_tabla = False
     for n_pag, pag in enumerate(pdf.pages):
         palabras = pag.extract_words()
         cab = next((w for w in palabras if w["text"] == "Lot" and w["x0"] < COL_LOTE_MAX_X), None)
-        if not cab:
+        if cab:
+            inicio, en_tabla = cab["top"], True
+        elif en_tabla:
+            # Páginas de continuación: la tabla empieza bajo el logotipo, sin cabecera.
+            inicio = 0
+        else:
             continue
         fin = next((w["top"] for w in palabras
-                    if w["text"] == "Lots" and w["top"] > cab["top"]), pag.height)
+                    if w["text"] == "Lots" and w["top"] > inicio), None)
+        if fin is None:
+            # La tabla sigue en la página siguiente; acaba en el pie con los datos del vendedor.
+            fin = min((w["top"] for w in palabras if w["text"] == "•"), default=pag.height)
+        else:
+            en_tabla = False
         inicios = [w for w in palabras
-                   if w["x0"] < COL_LOTE_MAX_X and cab["top"] < w["top"] < fin - 8
+                   if w["x0"] < COL_LOTE_MAX_X and inicio < w["top"] < fin - 8
                    and re.fullmatch(r"\d+[a-zA-Z]?", w["text"])]
         for i, w in enumerate(inicios):
             arriba = w["top"] - 4
             abajo = inicios[i + 1]["top"] - 4 if i + 1 < len(inicios) else fin - 8
             fila = [p for p in palabras if arriba <= p["top"] < abajo]
+            if i + 1 == len(inicios):
+                # Último lote de la página: la franja acaba bajo su texto o su foto.
+                bordes = [p["bottom"] for p in fila]
+                bordes += [im["bottom"] for im in pag.images if arriba <= im["top"] < abajo]
+                abajo = max(bordes) + 6
             lineas = {}
             for p in fila:
                 if COL_DESC_X[0] <= p["x0"] < COL_DESC_X[1]:
