@@ -120,3 +120,37 @@ El foco sigue siendo el plan general. Solo se cuelan **6 Shorts de Halloween / D
 | Sáb 31 | #16 Hipopótamos que "sudan sangre" | 🎃 Por qué la ofrenda está llena de flores NARANJAS ("altar de muertos" +255 %) |
 | Dom 1/11 | #10 Morir justo después de jubilarse | #11 REMAKE del bostezo |
 | Lun 2/11 | #15 La gacela que salta en vez de correr | #23 El zapato de 5.500 años |
+
+---
+
+## 6. Ajuste tras leer el pipeline real (Drive `EL_PORQUE_DE_LAS_COSAS/00_PIPELINE`, 24/10)
+
+**Sustituye al calendario de la sección 5** (que pisaba la cola: está llena hasta el 28 oct 20:00 y los horarios son 15:00 y 20:00).
+
+### Ideas que se caen o cambian (cruce con TEMAS_USADOS.md)
+| Idea mía | Qué pasa | Decisión |
+|---|---|---|
+| L2 "300.000 años en progresar" | Ya **descartado** por el canal: 12 clones en 4 semanas | Fuera |
+| #11 Remake del bostezo | Ya hecho (serie 2D, n1) y un tema no vuelve | Fuera |
+| L4 "5 lugares que no podemos explorar" | Veryovkina (14) y las Marianas (02) ya están hechos | Rehacer sin ellos: selva del Congo, agujero azul de Belice, isla Sentinel del Norte, Amazonas profundo, lago Vostok |
+| L3 "Tu cerebro te engaña" | Pisa el recuerdo falso (16), el efecto Mandela, el oso blanco y la memoria musical | Solo con lo nuevo: ventana de Ames, gorila invisible, palabras desordenadas, ceguera al cambio… marcado «ÁNGULO NUEVO» |
+| #24 Granito egipcio | Giza (04) ya existe, pero era otro sujeto (el poblado de los constructores) | Vale como «ÁNGULO NUEVO»: el obelisco inacabado de Asuán |
+| L5 Origen de 10 objetos | Cuidado con el «origen de instituciones» (4–6 visitas) | Vale solo con objetos concretos, nunca instituciones |
+
+### Riesgo de monetización (va primero, según la regla del canal)
+- **Medio:** asesinato más antiguo (restos humanos y violencia), pollo Mike (daño animal), momias como medicina (restos humanos), vampiros de Arnold Paole (exhumaciones), Ñatitas (calaveras reales), morir tras jubilarse (salud; el dato está discutido). Se pueden hacer con la regla de la casa (lo violento se narra, no se dibuja), pero sin cadáveres en la imagen y nunca dos seguidos.
+- **Ninguno:** el resto.
+
+### Propuesta de cola desde el primer hueco (29 oct 15:00), sin pisar nada
+Primero se gasta lo ya hecho; solo entran **4 nuevos de temporada**, que habría que producir ya.
+
+| Día | 15:00 | 20:00 |
+|---|---|---|
+| Mié 29 | 11 Göbekli Tepe (montado) | 17 Neandertal Bruniquel (montado) |
+| Jue 30 | 🎃 NUEVO «¿Qué significa REALMENTE la palabra Halloween?» | 03 Sábana Santa (montado) |
+| Vie 31 | 🎃 NUEVO «Las calabazas de Halloween eran NABOS» | 19 Dodecaedro romano (por montar) |
+| Sáb 1 nov | 🎃 NUEVO «El Día de Muertos NO es el Halloween mexicano» | 15 Hormigón romano (por montar) |
+| Dom 2 nov | 🎃 NUEVO «Por qué la ofrenda está llena de flores NARANJAS» | 18 Agujero negro (por montar) |
+| Lun 3 nov | 21 Venus (por montar) | primer nuevo del plan general |
+
+A partir del 3 nov, el plan general (sección 2) ya filtrado.
