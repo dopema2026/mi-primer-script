@@ -101,6 +101,7 @@ def main():
     story = [
         Spacer(1, 40 * mm),
         Paragraph("Catálogo de la colección", TITULO),
+        Spacer(1, 4 * mm),
         Paragraph(f"Actualizado el {date.today().strftime('%d/%m/%Y')}", SUBT),
         Spacer(1, 15 * mm),
     ]
