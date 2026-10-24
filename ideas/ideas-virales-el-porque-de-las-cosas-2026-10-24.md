@@ -161,3 +161,5 @@ A partir del 3 nov, el plan general (sección 2) ya filtrado.
 **Hormigón romano (15), agujero negro (18), dodecaedro romano (19) y Venus (21) YA ESTÁN PUBLICADOS.** Salen de la cola para siempre. No se montan, no se programan y no se vuelven a proponer. El ESTADO.md de Drive los da como "sin montar": está mal y lo corrige Claude en el PC.
 
 La cola desde el 29 oct queda en **37 Shorts**: los 3 montados (Göbekli Tepe, Neandertal Bruniquel, Sábana Santa) más los 34 temas nuevos filtrados. Son unos 18–19 días a 2 al día.
+
+**Corrección 2 (24/10):** Göbekli Tepe (11), Neandertal Bruniquel (17) y Sábana Santa (03) también quedan **fuera para siempre**. No se programan ni se proponen. La cola es **solo los 34 temas nuevos** (unos 17 días a 2 al día).
