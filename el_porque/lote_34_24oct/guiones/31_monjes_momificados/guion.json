@@ -1,0 +1,163 @@
+{
+  "titulo": "Hubo monjes que intentaron convertirse en MOMIAS estando vivos",
+  "titulo_base": "Hubo monjes que intentaron convertirse en MOMIAS estando vivos",
+  "titulo_alternativa": "Se preparaban durante años para que su cuerpo no se descompusiera JAMÁS",
+  "tesis": "El sokushinbutsu fue una práctica ascética de monjes de Yamagata (Japón) que, tras años de dieta extrema, se encerraban en una cámara hasta morir; muy pocos se conservaron y la práctica se prohibió en el siglo XIX.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_arconte",
+  "voice_id": "QtPMrakdgePQIUwOX7Ut",
+  "voz_nombre": "Arconte - Evocative & Magnetic",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Tinta japonesa sumi-e (NUEVO)",
+  "estilo": "Japanese sumi-e ink wash painting, flowing black ink strokes with soft grey washes on rice paper, vertical 9:16 composition",
+  "gancho": "Un monje japonés meditando en una cueva de montaña entre niebla, en tinta sumi-e, con una pequeña campana de bronce a su lado.",
+  "riesgo_monetizacion": "MEDIO: muerte voluntaria y restos humanos. Se narra con respeto, sin mostrar cuerpos momificados ni la muerte; solo monjes vivos, montañas, campana y templo. No programar seguido de otro short de riesgo medio.",
+  "cultura_visual": "Montañas Dewa Sanzan (Yamagata, Japón), budismo shingon; una sola cultura",
+  "fuentes": [
+    {
+      "dato": "Jeremiah, 'Living Buddhas: The Self-Mummified Monks of Yamagata, Japan', 2010",
+      "fuente": "Jeremiah, 'Living Buddhas: The Self-Mummified Monks of Yamagata, Japan', 2010"
+    },
+    {
+      "dato": "Templo Dainichibō y Churen-ji (Yamagata): momias veneradas",
+      "fuente": "Templo Dainichibō y Churen-ji (Yamagata): momias veneradas"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "En Japón hubo monjes que intentaron convertirse en momias… en vida.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y algunos lo consiguieron.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Lo llamaban sokushinbutsu: hacerse buda en el propio cuerpo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Ocurrió sobre todo en las montañas de Yamagata, en el norte de Japón.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "Seguían el ejemplo de un santo que, según la tradición, no murió: entró en meditación eterna.",
+      "tono": "neutro"
+    },
+    {
+      "n": 6,
+      "texto": "El proceso duraba años. Y empezaba en la comida.",
+      "tono": "intriga"
+    },
+    {
+      "n": 7,
+      "texto": "Durante unos mil días, solo comían frutos secos y semillas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Así perdían casi toda la grasa del cuerpo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "Después, otros mil días comiendo corteza y raíces.",
+      "tono": "cercano"
+    },
+    {
+      "n": 10,
+      "texto": "Y al final, bebían un té hecho con la savia de un árbol.",
+      "tono": "intriga"
+    },
+    {
+      "n": 11,
+      "texto": "Esa savia se usa para fabricar laca, y es tóxica.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "Volvía el cuerpo desagradable para los insectos.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Cuando estaban listos, entraban en una pequeña cámara bajo tierra.",
+      "tono": "cercano"
+    },
+    {
+      "n": 14,
+      "texto": "Tenían un tubo para respirar y una campana.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "Cada día hacían sonar la campana para decir que seguían vivos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 16,
+      "texto": "El día que dejaba de sonar, los demás monjes sellaban la cámara.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "Mil días después, la abrían para ver el resultado.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "La mayoría no se conservaron. Muy pocos lo lograron.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "Los que se conservaron fueron vestidos con túnicas y llevados a templos.",
+      "tono": "contundente"
+    },
+    {
+      "n": 20,
+      "texto": "Hoy se conservan unas pocas decenas, veneradas en templos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 21,
+      "texto": "A finales del siglo diecinueve, el gobierno japonés prohibió la práctica.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Algunos de esos templos todavía pueden visitarse en las montañas de Yamagata.",
+      "tono": "neutro"
+    },
+    {
+      "n": 23,
+      "texto": "Allí se les considera budas vivientes, no cuerpos sin vida.",
+      "tono": "intriga"
+    },
+    {
+      "n": 24,
+      "texto": "Para ellos no era morir. Era quedarse para siempre.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 31,
+  "publicacion_propuesta": "2026-11-13 15:00",
+  "palabras": 240,
+  "duracion_estimada_s": 99
+}

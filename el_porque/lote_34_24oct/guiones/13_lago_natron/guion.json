@@ -1,0 +1,162 @@
+{
+  "titulo": "El lago que convierte a los animales en PIEDRA… o eso parece",
+  "titulo_base": "El lago que convierte a los animales en PIEDRA… o eso parece",
+  "titulo_alternativa": "En la orilla de este lago aparecen pájaros CALCIFICADOS",
+  "tesis": "El lago Natron (Tanzania) es tan alcalino y caliente que conserva a los animales que mueren en él; aun así es el principal criadero de flamencos enanos.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_gustavo",
+  "voice_id": "7VFd9FBQdbWuk8tIOYz4",
+  "voz_nombre": "Gustavo - Spanish calm narrator",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Fotorrealista",
+  "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+  "gancho": "Un lago rojo intenso visto desde el aire con una costra blanca de sal, y miles de flamencos rosas en la orilla.",
+  "riesgo_monetizacion": "Bajo. Aves conservadas mostradas como figuras blancas de sal, sin sangre ni descomposición; el resto es naturaleza.",
+  "cultura_visual": "Lago Natron, norte de Tanzania",
+  "fuentes": [
+    {
+      "dato": "Nick Brandt, 'Across the Ravaged Land', 2013",
+      "fuente": "Nick Brandt, 'Across the Ravaged Land', 2013"
+    },
+    {
+      "dato": "BirdLife International, lago Natron como zona de cría del flamenco enano",
+      "fuente": "BirdLife International, lago Natron como zona de cría del flamenco enano"
+    },
+    {
+      "dato": "Datos limnológicos: pH de hasta 10,5 y temperaturas del agua por encima de 40 ºC",
+      "fuente": "Datos limnológicos: pH de hasta 10,5 y temperaturas del agua por encima de 40 ºC"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Hay un lago en África donde los animales parecen convertirse en estatuas.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Pájaros enteros, blancos y rígidos, como si fueran de piedra.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Es el lago Natron, en el norte de Tanzania.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Las fotos dieron la vuelta al mundo en dos mil trece.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "Pero la historia real es menos mágica… y más extraña.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "El agua de este lago es tremendamente alcalina, casi como la lejía.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Y puede superar los cuarenta grados de temperatura.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "Llega cargada de un mineral de los volcanes cercanos: el natrón.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "El mismo mineral que se usaba para conservar momias.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Así que el lago no convierte nada en piedra al instante.",
+      "tono": "contundente"
+    },
+    {
+      "n": 11,
+      "texto": "Los animales que mueren en él quedan conservados por las sales.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "El fotógrafo los encontró en la orilla y los colocó para retratarlos.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Ahora viene lo increíble.",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "Este lago casi sin vida es la gran guardería de los flamencos.",
+      "tono": "contundente"
+    },
+    {
+      "n": 15,
+      "texto": "Allí nacen la mayoría de los flamencos enanos del planeta.",
+      "tono": "neutro"
+    },
+    {
+      "n": 16,
+      "texto": "Anidan en islas de sal donde casi ningún depredador se atreve a entrar.",
+      "tono": "cercano"
+    },
+    {
+      "n": 17,
+      "texto": "Lo que mata a otros animales, a ellos los protege.",
+      "tono": "intriga"
+    },
+    {
+      "n": 18,
+      "texto": "Sus patas tienen una piel dura que aguanta el agua cáustica.",
+      "tono": "neutro"
+    },
+    {
+      "n": 19,
+      "texto": "Y comen unas diminutas algas que solo prosperan en aguas así.",
+      "tono": "contundente"
+    },
+    {
+      "n": 20,
+      "texto": "Esas algas son las que les dan su color rosa.",
+      "tono": "cercano"
+    },
+    {
+      "n": 21,
+      "texto": "En los mejores años, cientos de miles de parejas de flamencos crían allí a la vez.",
+      "tono": "intriga"
+    },
+    {
+      "n": 22,
+      "texto": "Y visto desde el aire, el lago se tiñe de rojo por los microbios que viven en su sal.",
+      "tono": "neutro"
+    },
+    {
+      "n": 23,
+      "texto": "El lago más hostil de África… mantiene vivos a millones de flamencos.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 13,
+  "publicacion_propuesta": "2026-11-04 15:00",
+  "palabras": 254,
+  "duracion_estimada_s": 104
+}

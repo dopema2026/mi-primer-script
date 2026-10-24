@@ -1,0 +1,158 @@
+{
+  "titulo": "Poner un OBSTÁCULO delante de la salida hace que la gente salga antes",
+  "titulo_base": "Poner un OBSTÁCULO delante de la salida hace que la gente salga antes",
+  "titulo_alternativa": "La forma más rápida de evacuar una sala parece un ERROR",
+  "tesis": "Un obstáculo bien colocado delante de una salida reduce los atascos ('más rápido es más lento'); lo simularon en 2000 y físicos de la Universidad de Navarra lo comprobaron con ovejas.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_aitana",
+  "voice_id": "AxFLn9byyiDbMn5fmyqu",
+  "voz_nombre": "Aitana",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Maqueta tilt-shift",
+  "estilo": "Tilt-shift miniature photograph of a tiny handcrafted scale-model scene, shallow depth of field, bright daylight, vertical 9:16 composition",
+  "gancho": "Maqueta en miniatura vista desde arriba: una multitud de figuritas apelotonada ante una puerta estrecha, con una columna justo delante.",
+  "riesgo_monetizacion": "Ninguno. No se muestran avalanchas con heridos.",
+  "cultura_visual": "Actual; investigación española (Universidad de Navarra)",
+  "fuentes": [
+    {
+      "dato": "Helbing, Farkas y Vicsek, 'Simulating dynamical features of escape panic', Nature, 2000",
+      "fuente": "Helbing, Farkas y Vicsek, 'Simulating dynamical features of escape panic', Nature, 2000"
+    },
+    {
+      "dato": "Garcimartín, Zuriguel et al., 'Effect of obstacle position in the flow of sheep through a narrow door', Physical Review E, 2016",
+      "fuente": "Garcimartín, Zuriguel et al., 'Effect of obstacle position in the flow of sheep through a narrow door', Physical Review E, 2016"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Si quieres que una multitud salga más rápido, ponle un obstáculo delante.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Parece absurdo. Pero funciona.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Piensa en el final de un concierto, todos empujando hacia una puerta.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Cuanta más prisa tiene la gente, más se atasca la salida.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Se forman arcos de personas que se bloquean entre sí.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Los físicos lo llaman más rápido es más lento.",
+      "tono": "contundente"
+    },
+    {
+      "n": 7,
+      "texto": "En el año dos mil, unos científicos lo simularon por ordenador.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Probaron algo raro: una columna justo delante de la puerta.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Y la gente salía antes, no después.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "La columna rompe esos arcos antes de que se formen.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Reparte la presión y deja pasar a la gente con más orden.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "Faltaba probarlo con seres vivos.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Y aquí entra un grupo de físicos de la Universidad de Navarra.",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "Lo probaron con ovejas pasando por una puerta estrecha.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "Con el obstáculo en el sitio justo, los atascos se reducían.",
+      "tono": "contundente"
+    },
+    {
+      "n": 16,
+      "texto": "El mismo efecto se ha visto con hormigas, con granos de arena y con personas.",
+      "tono": "cercano"
+    },
+    {
+      "n": 17,
+      "texto": "En las pruebas con ovejas, el obstáculo estaba a muy poca distancia de la puerta.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Eso sí: el obstáculo tiene que estar en el lugar exacto.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Si está demasiado cerca o mal colocado, empeora las cosas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "Por eso los ingenieros lo estudian para diseñar estadios y estaciones.",
+      "tono": "contundente"
+    },
+    {
+      "n": 21,
+      "texto": "Algunos arquitectos ya lo tienen en cuenta.",
+      "tono": "cercano"
+    },
+    {
+      "n": 22,
+      "texto": "Aunque todavía se debate cómo aplicarlo con personas.",
+      "tono": "intriga"
+    },
+    {
+      "n": 23,
+      "texto": "A veces, para ir más rápido, lo mejor es que algo te frene.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 22,
+  "publicacion_propuesta": "2026-11-08 20:00",
+  "palabras": 235,
+  "duracion_estimada_s": 97
+}

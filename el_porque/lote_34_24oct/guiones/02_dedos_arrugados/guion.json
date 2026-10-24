@@ -1,0 +1,176 @@
+{
+  "titulo": "Tus dedos se arrugan en el agua… y NO es por el agua",
+  "titulo_base": "Tus dedos se arrugan en el agua… y NO es por el agua",
+  "titulo_alternativa": "Si te cortan un nervio, tus dedos dejan de ARRUGARSE",
+  "tesis": "El arrugamiento de los dedos en el agua es una orden del sistema nervioso (vasoconstricción), no agua absorbida; podría mejorar el agarre en mojado.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_aitana",
+  "voice_id": "AxFLn9byyiDbMn5fmyqu",
+  "voz_nombre": "Aitana",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Fotorrealista",
+  "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+  "gancho": "Primer plano de las yemas de unos dedos muy arrugados saliendo del agua, con gotas brillando.",
+  "riesgo_monetizacion": "Ninguno. Fisiología cotidiana con estudios publicados; el debate sobre su función se presenta como abierto.",
+  "cultura_visual": "Laboratorio y vida cotidiana actual",
+  "fuentes": [
+    {
+      "dato": "Lewis y Pickering, 1935: ausencia de arrugas en dedos con nervio dañado",
+      "fuente": "Lewis y Pickering, 1935: ausencia de arrugas en dedos con nervio dañado"
+    },
+    {
+      "dato": "Changizi et al., Brain, Behavior and Evolution, 2011",
+      "fuente": "Changizi et al., Brain, Behavior and Evolution, 2011"
+    },
+    {
+      "dato": "Kareklas et al., Biology Letters, 2013 (Universidad de Newcastle)",
+      "fuente": "Kareklas et al., Biology Letters, 2013 (Universidad de Newcastle)"
+    },
+    {
+      "dato": "Haseleu et al., PLOS ONE, 2014 (no replicación)",
+      "fuente": "Haseleu et al., PLOS ONE, 2014 (no replicación)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Tus dedos no se arrugan porque absorban agua.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Se arrugan porque tu cerebro les da la orden.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Parece una tontería, pero esto lo descubrieron unos cirujanos.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "En los años treinta vieron algo raro en pacientes con un nervio de la mano cortado.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Metían la mano en agua… y esos dedos se quedaban lisos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Sin nervio, no hay arrugas.",
+      "tono": "contundente"
+    },
+    {
+      "n": 7,
+      "texto": "Así que no es la piel hinchándose como una esponja.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Es tu sistema nervioso estrechando los vasos sanguíneos de la yema.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Debajo queda menos volumen, y la superficie se pliega.",
+      "tono": "neutro"
+    },
+    {
+      "n": 10,
+      "texto": "Y aquí viene la pregunta: ¿para qué querría tu cuerpo eso?",
+      "tono": "intriga"
+    },
+    {
+      "n": 11,
+      "texto": "En dos mil once, un científico se fijó en el dibujo de las arrugas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "Parecían canales, como los surcos de un neumático.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Los neumáticos tienen surcos para agarrar en mojado.",
+      "tono": "cercano"
+    },
+    {
+      "n": 14,
+      "texto": "¿Y si tus dedos hicieran lo mismo?",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "En dos mil trece lo pusieron a prueba en una universidad británica.",
+      "tono": "neutro"
+    },
+    {
+      "n": 16,
+      "texto": "Voluntarios pasaban canicas mojadas de un recipiente a otro.",
+      "tono": "cercano"
+    },
+    {
+      "n": 17,
+      "texto": "Con los dedos arrugados, lo hacían más rápido.",
+      "tono": "contundente"
+    },
+    {
+      "n": 18,
+      "texto": "Un estudio posterior no consiguió repetir ese resultado.",
+      "tono": "neutro"
+    },
+    {
+      "n": 19,
+      "texto": "Así que el debate sigue abierto.",
+      "tono": "intriga"
+    },
+    {
+      "n": 20,
+      "texto": "Pero hay un detalle curioso: solo pasa en manos y pies.",
+      "tono": "cercano"
+    },
+    {
+      "n": 21,
+      "texto": "Justo las partes con las que agarras y pisas.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Y tarda unos cinco minutos en aparecer.",
+      "tono": "neutro"
+    },
+    {
+      "n": 23,
+      "texto": "Los médicos incluso usan esta prueba para comprobar si un nervio de la mano funciona.",
+      "tono": "cercano"
+    },
+    {
+      "n": 24,
+      "texto": "Si el dedo no se arruga en el agua, algo falla en ese nervio.",
+      "tono": "contundente"
+    },
+    {
+      "n": 25,
+      "texto": "La próxima vez que te bañes, mira tus dedos: no están mojados, están preparados.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 2,
+  "publicacion_propuesta": "2026-10-29 20:00",
+  "palabras": 249,
+  "duracion_estimada_s": 102
+}

@@ -1,0 +1,148 @@
+{
+  "titulo": "Por qué hay un espacio ANTES del cero en tu regla",
+  "titulo_base": "Por qué hay un espacio ANTES del cero en tu regla",
+  "titulo_alternativa": "Tu regla mediría MAL si el cero estuviera en el borde",
+  "tesis": "El cero se imprime hacia dentro para que el desgaste del borde y las imperfecciones de corte no alteren las medidas; las reglas de carpintero que empiezan en el borde están pensadas para apoyarse en una superficie.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_gonzalo",
+  "voice_id": "OMWmRY8slGlr6mHJSqwy",
+  "voz_nombre": "Gonzalo - Narrador documental de España",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Plano técnico azul (NUEVO)",
+  "estilo": "Technical blueprint drawing, crisp white line work on deep blue paper with dimension lines only, vertical 9:16 composition",
+  "gancho": "Plano técnico azul de una regla vista muy de cerca, con el borde gastado y una flecha luminosa señalando el hueco antes de la primera marca.",
+  "riesgo_monetizacion": "Ninguno. Imágenes sin números legibles: marcas de escala solo como rayas.",
+  "cultura_visual": "Objeto cotidiano actual",
+  "fuentes": [
+    {
+      "dato": "Normas de fabricación de instrumentos de medida lineal (reglas graduadas)",
+      "fuente": "Normas de fabricación de instrumentos de medida lineal (reglas graduadas)"
+    },
+    {
+      "dato": "Guías de metrología básica sobre error de borde",
+      "fuente": "Guías de metrología básica sobre error de borde"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Mira tu regla: el cero no está en el borde.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Hay un pequeño hueco antes. Y no es un fallo de fábrica.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Seguro que alguna vez mediste desde el borde. Y fallaste por poco.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "El borde de una regla es la parte que más sufre.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Se golpea, se cae, se roza contra la mesa y contra el estuche.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Con los años, se desgasta y pierde décimas de milímetro.",
+      "tono": "contundente"
+    },
+    {
+      "n": 7,
+      "texto": "Si el cero estuviera justo en el borde, se gastaría con él.",
+      "tono": "cercano"
+    },
+    {
+      "n": 8,
+      "texto": "Y todas tus medidas empezarían a salir mal.",
+      "tono": "neutro"
+    },
+    {
+      "n": 9,
+      "texto": "Con ese hueco, el cero queda protegido dentro de la regla.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Da igual cuánto se estropee el borde: la marca sigue intacta.",
+      "tono": "contundente"
+    },
+    {
+      "n": 11,
+      "texto": "Hay una segunda razón: fabricar un borde perfecto es muy difícil.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "Al cortar el plástico o el metal, siempre queda alguna imperfección.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Imprimir la escala un poco hacia dentro esquiva ese problema.",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "Por eso, para medir bien, se coloca el cero, no el borde, al inicio del objeto.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "Parece una tontería, pero en un plano puede ser la diferencia entre encajar o no.",
+      "tono": "contundente"
+    },
+    {
+      "n": 16,
+      "texto": "Ojo: algunas reglas de carpintero sí empiezan en el borde.",
+      "tono": "cercano"
+    },
+    {
+      "n": 17,
+      "texto": "Están pensadas para apoyarlas contra una pared o una esquina.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Ahí el borde es la referencia, y se fabrican con metales más duros.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Cada herramienta está diseñada para cómo se va a usar.",
+      "tono": "contundente"
+    },
+    {
+      "n": 20,
+      "texto": "Pasa lo mismo en muchos instrumentos de precisión: el borde nunca es la referencia.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "Y tu regla del colegio llevaba años avisándote, en silencio.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 27,
+  "publicacion_propuesta": "2026-11-11 15:00",
+  "palabras": 240,
+  "duracion_estimada_s": 99
+}

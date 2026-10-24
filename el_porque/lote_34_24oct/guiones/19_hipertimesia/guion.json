@@ -1,0 +1,177 @@
+{
+  "titulo": "Esta mujer NO puede olvidar ningún día de su vida",
+  "titulo_base": "Esta mujer NO puede olvidar ningún día de su vida",
+  "titulo_alternativa": "Recuerda qué hizo un martes de hace treinta años. Y no es un DON",
+  "tesis": "La hipertimesia (memoria autobiográfica muy superior) se describió en 2006 con el caso de Jill Price; recuerda cada día de su vida pero no memoriza mejor otras cosas, y lo vive como una carga.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_bosco",
+  "voice_id": "0vrPGvXHhDD3rbGURCk8",
+  "voz_nombre": "Bosco - Deep & Calm with gentle pauses",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Collage surreal",
+  "estilo": "Surreal paper collage, torn paper pieces and hand-drawn patterned cut-outs layered with depth, warm lamplight, vertical 9:16 composition",
+  "gancho": "Una mujer de collage rodeada de cientos de hojas de calendario de papel que vuelan a su alrededor.",
+  "riesgo_monetizacion": "Ninguno. Persona real: no se reproduce su cara; figura de collage genérica, sin parecido.",
+  "cultura_visual": "Estados Unidos, actualidad",
+  "fuentes": [
+    {
+      "dato": "Parker, Cahill y McGaugh, 'A case of unusual autobiographical remembering', Neurocase, 2006",
+      "fuente": "Parker, Cahill y McGaugh, 'A case of unusual autobiographical remembering', Neurocase, 2006"
+    },
+    {
+      "dato": "Price, 'The Woman Who Can't Forget', 2008",
+      "fuente": "Price, 'The Woman Who Can't Forget', 2008"
+    },
+    {
+      "dato": "LePort et al., Neurobiology of Learning and Memory, 2012",
+      "fuente": "LePort et al., Neurobiology of Learning and Memory, 2012"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Dile una fecha cualquiera, y te dirá qué hizo ese día.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Qué día de la semana era, qué comió y qué noticias salían.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Se llama Jill Price, y vive en Estados Unidos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "En el año dos mil escribió a un experto en memoria.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "Le contó que no podía dejar de recordar.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Él no se lo creyó, y la puso a prueba durante años.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Ella acertaba casi siempre.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "En dos mil seis publicaron su caso, el primero descrito de este tipo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 9,
+      "texto": "Lo llamaron hipertimesia: una memoria autobiográfica extraordinaria.",
+      "tono": "cercano"
+    },
+    {
+      "n": 10,
+      "texto": "Pero aquí viene lo inesperado.",
+      "tono": "intriga"
+    },
+    {
+      "n": 11,
+      "texto": "Si le dicen un año, recuerda casi cualquier día de él.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "En el colegio no era especialmente buena estudiante.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Solo recuerda su propia vida. Día a día, sin pausa.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Y eso no siempre es un regalo.",
+      "tono": "cercano"
+    },
+    {
+      "n": 15,
+      "texto": "Los malos momentos tampoco se borran.",
+      "tono": "intriga"
+    },
+    {
+      "n": 16,
+      "texto": "Ella lo describió como una película que no se detiene nunca.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "Desde entonces se han identificado unas pocas decenas de personas así.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Entre ellos hay una actriz estadounidense muy conocida.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "Sus cerebros muestran diferencias en zonas ligadas a la memoria.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "Y muchos comparten una costumbre: repasan su pasado una y otra vez.",
+      "tono": "intriga"
+    },
+    {
+      "n": 21,
+      "texto": "Para el resto de nosotros, olvidar no es un fallo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 22,
+      "texto": "Es lo que nos permite seguir adelante.",
+      "tono": "contundente"
+    },
+    {
+      "n": 23,
+      "texto": "Lo extraño es que no usan ningún truco de memoria.",
+      "tono": "intriga"
+    },
+    {
+      "n": 24,
+      "texto": "Simplemente, sus recuerdos no se apagan.",
+      "tono": "neutro"
+    },
+    {
+      "n": 25,
+      "texto": "Ella ha contado que su memoria es a la vez un regalo y una carga.",
+      "tono": "cercano"
+    },
+    {
+      "n": 26,
+      "texto": "¿Te gustaría recordar cada día de tu vida?",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 19,
+  "publicacion_propuesta": "2026-11-07 15:00",
+  "palabras": 242,
+  "duracion_estimada_s": 99
+}

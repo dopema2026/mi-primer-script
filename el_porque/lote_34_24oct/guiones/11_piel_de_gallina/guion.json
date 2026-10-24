@@ -1,0 +1,153 @@
+{
+  "titulo": "La piel de gallina es un RESTO de cuando tenías pelo",
+  "titulo_base": "La piel de gallina es un RESTO de cuando tenías pelo",
+  "titulo_alternativa": "Se te pone la piel de gallina… y no sirve para NADA. ¿O sí?",
+  "tesis": "La piel de gallina es la contracción de los músculos que erizan el vello, útil en mamíferos peludos y casi vestigial en humanos; en ratones esos nervios también activan el crecimiento del pelo (2020).",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_mario",
+  "voice_id": "OjrdP8Z2fWjVyt0scrL7",
+  "voz_nombre": "Mario Pro - Warm Narrations",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Aerógrafo",
+  "estilo": "Airbrush illustration with smooth gradients, luminous saturated colours and fine painted detail, vertical 9:16 composition",
+  "gancho": "Un antebrazo humano con la piel de gallina en primer plano y, detrás, la silueta luminosa de un gato con todo el pelo erizado.",
+  "riesgo_monetizacion": "Ninguno. Biología cotidiana.",
+  "cultura_visual": "Actual; animales (gato, chimpancé) como comparación",
+  "fuentes": [
+    {
+      "dato": "Shwartz et al. (laboratorio de Ya-Chieh Hsu, Harvard), Cell, 2020",
+      "fuente": "Shwartz et al. (laboratorio de Ya-Chieh Hsu, Harvard), Cell, 2020"
+    },
+    {
+      "dato": "Darwin, 'La expresión de las emociones en el hombre y los animales', 1872",
+      "fuente": "Darwin, 'La expresión de las emociones en el hombre y los animales', 1872"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Se te pone la piel de gallina, y tu cuerpo intenta algo imposible.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Intenta erizar un pelaje que ya no tienes.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Cada pelo de tu cuerpo tiene pegado un músculo diminuto.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Cuando hace frío o te asustas, ese músculo se contrae.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "El pelo se pone de punta, y la piel de alrededor hace un bultito.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Por eso parece la piel de un pollo desplumado.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "En un gato o un chimpancé, eso tiene mucho sentido.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "El pelo erizado atrapa aire caliente, como un abrigo.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Y además hace que el animal parezca más grande.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Un gato asustado se hincha para intimidar al perro.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Nosotros perdimos casi todo ese pelaje hace muchísimo tiempo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "Pero el reflejo se quedó, como un botón que ya no está conectado a nada.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "¿Seguro que no sirve para nada?",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "En dos mil veinte, un equipo de Harvard encontró una pista.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "Los nervios que activan la piel de gallina también despiertan a las células que fabrican el pelo.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Con frío durante mucho tiempo, eso ayuda a que crezca más pelo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "Al menos en ratones, que es donde lo estudiaron.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Y luego está lo más raro: que se nos ponga con una canción.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Una emoción fuerte activa el mismo sistema que el miedo o el frío.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Hay incluso personas que pueden provocarse la piel de gallina a voluntad.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "Son muy pocas, y la ciencia apenas ha empezado a estudiarlas.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Tu cuerpo, emocionado, intenta abrigarte… de una canción.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 11,
+  "publicacion_propuesta": "2026-11-03 15:00",
+  "palabras": 237,
+  "duracion_estimada_s": 97
+}

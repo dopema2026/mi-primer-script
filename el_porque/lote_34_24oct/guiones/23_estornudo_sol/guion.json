@@ -1,0 +1,157 @@
+{
+  "titulo": "Una de cada cuatro personas ESTORNUDA al mirar al sol",
+  "titulo_base": "Una de cada cuatro personas ESTORNUDA al mirar al sol",
+  "titulo_alternativa": "Aristóteles ya se preguntó por qué el SOL nos hace estornudar",
+  "tesis": "El estornudo fótico afecta a entre el 18 y el 35 % de la población, se hereda y se explica por la cercanía entre el nervio óptico y el trigémino.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_david",
+  "voice_id": "Nh2zY9kknu6z4pZy6FhD",
+  "voz_nombre": "David Martin - Confident and Balanced",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_v4",
+  "estilo_clave": "D",
+  "estilo_nombre": "Línea de neón",
+  "estilo": "Glowing neon line art with luminous outlines on a deep night-blue background, vivid electric colours, vertical 9:16 composition",
+  "gancho": "Silueta de neón de una persona saliendo de un portal oscuro hacia un sol brillante, con una explosión de luz a punto de estornudar.",
+  "riesgo_monetizacion": "Ninguno.",
+  "cultura_visual": "Actual; menciones a Aristóteles y Francis Bacon sin escenas de época mezcladas",
+  "fuentes": [
+    {
+      "dato": "Aristóteles, 'Problemas', libro XXXIII",
+      "fuente": "Aristóteles, 'Problemas', libro XXXIII"
+    },
+    {
+      "dato": "Breitenbach et al., 'Photic sneeze reflex', revisión en Neurology, 1993",
+      "fuente": "Breitenbach et al., 'Photic sneeze reflex', revisión en Neurology, 1993"
+    },
+    {
+      "dato": "Collie et al., 1978 (herencia autosómica dominante)",
+      "fuente": "Collie et al., 1978 (herencia autosómica dominante)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Sales a la calle, miras al sol… y estornudas.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Si te pasa, no es casualidad: estás en un club enorme.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Le ocurre a entre dos y tres de cada diez personas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Y si a ti te pasa, probablemente le pase a tu padre o a tu madre.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "Porque se hereda.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Se llama estornudo fótico: fótico viene de luz.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Hace más de dos mil años, Aristóteles ya se preguntaba por qué.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "Pensaba que el calor del sol en la nariz provocaba el estornudo.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Siglos después, el filósofo inglés Francis Bacon lo puso a prueba.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Miró al sol con los ojos cerrados… y no estornudó.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Así que la culpa no era de la nariz. Era de los ojos.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "La teoría más aceptada hoy habla de cables cruzados.",
+      "tono": "neutro"
+    },
+    {
+      "n": 13,
+      "texto": "El nervio que lleva la luz del ojo pasa muy cerca del que controla la nariz.",
+      "tono": "cercano"
+    },
+    {
+      "n": 14,
+      "texto": "Un golpe de luz fuerte puede activar los dos a la vez.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Y tu cerebro lo interpreta como una orden de estornudar.",
+      "tono": "contundente"
+    },
+    {
+      "n": 16,
+      "texto": "Los científicos le pusieron un nombre en inglés cuyas iniciales suenan a achís.",
+      "tono": "neutro"
+    },
+    {
+      "n": 17,
+      "texto": "Para casi todos es solo una curiosidad.",
+      "tono": "cercano"
+    },
+    {
+      "n": 18,
+      "texto": "Pero para un piloto de combate puede ser un problema serio.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Un estornudo al salir de una nube, con el sol de frente, no es ninguna broma.",
+      "tono": "contundente"
+    },
+    {
+      "n": 20,
+      "texto": "Hay quien estornuda una sola vez, y quien encadena tres, cuatro o más.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "Y siempre, siempre, con el mismo culpable delante.",
+      "tono": "cercano"
+    },
+    {
+      "n": 22,
+      "texto": "La próxima vez que estornudes al sol, échale la culpa a tu familia.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 23,
+  "publicacion_propuesta": "2026-11-09 15:00",
+  "palabras": 244,
+  "duracion_estimada_s": 100
+}

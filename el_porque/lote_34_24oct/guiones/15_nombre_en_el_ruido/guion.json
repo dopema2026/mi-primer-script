@@ -1,0 +1,158 @@
+{
+  "titulo": "Por qué oyes tu NOMBRE en medio de una fiesta llena de ruido",
+  "titulo_base": "Por qué oyes tu NOMBRE en medio de una fiesta llena de ruido",
+  "titulo_alternativa": "Tu cerebro escucha conversaciones que tú NO estás escuchando",
+  "tesis": "El efecto cóctel muestra que el cerebro sigue procesando lo que ignoramos; en 1959, uno de cada tres voluntarios detectó su propio nombre en el canal ignorado.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_salva",
+  "voice_id": "hyKxCTlAqtnW188CgltM",
+  "voz_nombre": "Salva - The Spanish Voice",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Acuarela suelta (NUEVO)",
+  "estilo": "Loose watercolour illustration with soft bleeding colours on textured paper, vertical 9:16 composition",
+  "gancho": "Una sala de fiesta en acuarela llena de gente borrosa, y una sola persona nítida que gira la cabeza de golpe.",
+  "riesgo_monetizacion": "Ninguno.",
+  "cultura_visual": "Fiesta actual; laboratorio británico de los años cincuenta",
+  "fuentes": [
+    {
+      "dato": "Cherry, Journal of the Acoustical Society of America, 1953",
+      "fuente": "Cherry, Journal of the Acoustical Society of America, 1953"
+    },
+    {
+      "dato": "Moray, Quarterly Journal of Experimental Psychology, 1959",
+      "fuente": "Moray, Quarterly Journal of Experimental Psychology, 1959"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Estás en una fiesta, con música, voces y ruido por todas partes.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y al otro lado de la sala, alguien dice tu nombre.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Lo oyes al instante, aunque no estabas escuchando esa conversación.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Se llama el efecto cóctel.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Y demuestra que tu cerebro escucha mucho más de lo que crees.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "En mil novecientos cincuenta y tres, un científico británico lo puso a prueba.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Ponía auriculares a voluntarios, con un mensaje distinto en cada oído.",
+      "tono": "cercano"
+    },
+    {
+      "n": 8,
+      "texto": "Les pedía repetir solo uno de ellos, en voz alta.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "Luego les preguntaba por el otro. Casi no recordaban nada.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Ni siquiera notaban si cambiaba de idioma.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Parecía que el oído ignorado estaba desconectado.",
+      "tono": "cercano"
+    },
+    {
+      "n": 12,
+      "texto": "Pero unos años después llegó la sorpresa.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Otro investigador metió el nombre de cada voluntario en ese oído ignorado.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Y uno de cada tres lo detectó al momento.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Tu cerebro no apaga lo que no escuchas. Lo vigila en segundo plano.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Y tu nombre es una de las palabras con más prioridad.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "Se cree que es un sistema de alerta muy antiguo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Si alguien te llama, puede ser importante. O peligroso.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Por eso a veces crees oír tu nombre… y no te ha llamado nadie.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Se ha visto incluso en bebés de pocos meses, que ya reaccionan a su nombre.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "Es de lo primero que aprendemos a reconocer.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Antes incluso de entender lo que significa.",
+      "tono": "cercano"
+    },
+    {
+      "n": 23,
+      "texto": "Tu cerebro prefiere una falsa alarma a perderse que alguien te llame.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 15,
+  "publicacion_propuesta": "2026-11-05 15:00",
+  "palabras": 235,
+  "duracion_estimada_s": 97
+}

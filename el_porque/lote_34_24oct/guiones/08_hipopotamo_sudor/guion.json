@@ -1,0 +1,159 @@
+{
+  "titulo": "Los hipopótamos sudan ROJO. Y no es sangre",
+  "titulo_base": "Los hipopótamos sudan ROJO. Y no es sangre",
+  "titulo_alternativa": "El protector solar más raro de la naturaleza lo fabrica un HIPOPÓTAMO",
+  "tesis": "La secreción rojiza del hipopótamo contiene dos pigmentos que absorben la luz solar y frenan bacterias (Saikawa et al., 2004).",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_elena",
+  "voice_id": "tXgbXPnsMpKXkuTgvE3h",
+  "voz_nombre": "Elena - cuentos y narraciones",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Fotorrealista",
+  "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+  "gancho": "Un hipopótamo saliendo del río al atardecer, con la piel brillante cubierta de un líquido rojo anaranjado.",
+  "riesgo_monetizacion": "Ninguno. Biología animal; no se muestra sangre ni heridas.",
+  "cultura_visual": "Ríos de África oriental",
+  "fuentes": [
+    {
+      "dato": "Saikawa et al., 'The red sweat of the hippopotamus', Nature, 2004",
+      "fuente": "Saikawa et al., 'The red sweat of the hippopotamus', Nature, 2004"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Durante siglos se dijo que los hipopótamos sudan sangre.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y si los ves al sol, parece verdad.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Su piel se cubre de un líquido rojo, brillante y espeso.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Pero no es sangre. Y técnicamente, ni siquiera es sudor.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Los hipopótamos no tienen glándulas de sudor como las nuestras.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Ese líquido sale de unas glándulas bajo la piel.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Al principio es casi transparente.",
+      "tono": "cercano"
+    },
+    {
+      "n": 8,
+      "texto": "En pocos minutos se vuelve rojo, y después marrón.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "En dos mil cuatro, un equipo japonés descubrió por qué.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Analizaron ese líquido y encontraron dos pigmentos desconocidos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Uno rojo y otro naranja, que no se habían visto en ningún otro animal.",
+      "tono": "cercano"
+    },
+    {
+      "n": 12,
+      "texto": "Y los dos absorben la luz del sol.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Es decir: el hipopótamo fabrica su propio protector solar.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Imagina pasar el día bajo el sol de África sin pelo que te proteja.",
+      "tono": "cercano"
+    },
+    {
+      "n": 15,
+      "texto": "Por eso este líquido se extiende por todo el cuerpo, como una capa.",
+      "tono": "neutro"
+    },
+    {
+      "n": 16,
+      "texto": "Y no acaba ahí.",
+      "tono": "intriga"
+    },
+    {
+      "n": 17,
+      "texto": "El pigmento rojo también frena el crecimiento de bacterias.",
+      "tono": "contundente"
+    },
+    {
+      "n": 18,
+      "texto": "Muy útil para un animal que se pelea y vive en aguas turbias.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "Su piel es gruesa, pero se agrieta y se quema con facilidad.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "Por eso pasan el día en el agua y salen a comer de noche.",
+      "tono": "intriga"
+    },
+    {
+      "n": 21,
+      "texto": "Y si tienen que estar al sol, su piel se protege sola.",
+      "tono": "cercano"
+    },
+    {
+      "n": 22,
+      "texto": "Un hipopótamo adulto puede pesar más de una tonelada y media.",
+      "tono": "neutro"
+    },
+    {
+      "n": 23,
+      "texto": "Y aun así, tiene una de las pieles más delicadas de la sabana.",
+      "tono": "contundente"
+    },
+    {
+      "n": 24,
+      "texto": "Un animal de más de una tonelada… con crema solar de fábrica.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 8,
+  "publicacion_propuesta": "2026-11-01 20:00",
+  "palabras": 247,
+  "duracion_estimada_s": 102
+}

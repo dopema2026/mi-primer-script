@@ -1,0 +1,153 @@
+{
+  "titulo": "El gancho de tu metro está SUELTO a propósito",
+  "titulo_base": "El gancho de tu metro está SUELTO a propósito",
+  "titulo_alternativa": "Si el gancho del metro se mueve, NO lo arregles",
+  "tesis": "El gancho de la cinta métrica se desliza exactamente su propio grosor para que la medida sea correcta tanto enganchando por fuera como empujando contra una pared ('cero verdadero').",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_sara",
+  "voice_id": "KHCvMklQZZo0O30ERnVn",
+  "voz_nombre": "Sara Martin 1",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Maqueta tilt-shift",
+  "estilo": "Tilt-shift miniature photograph of a tiny handcrafted scale-model scene, shallow depth of field, bright daylight, vertical 9:16 composition",
+  "gancho": "Una cinta métrica gigante en una maqueta de taller en miniatura, con figuritas de carpinteros señalando el gancho metálico.",
+  "riesgo_monetizacion": "Ninguno. Marcas de la cinta como rayas, sin números legibles.",
+  "cultura_visual": "Taller actual",
+  "fuentes": [
+    {
+      "dato": "Patentes y documentación de fabricantes sobre el 'true zero' del gancho de las cintas métricas",
+      "fuente": "Patentes y documentación de fabricantes sobre el 'true zero' del gancho de las cintas métricas"
+    },
+    {
+      "dato": "Guías de uso de flexómetros",
+      "fuente": "Guías de uso de flexómetros"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Si el gancho de tu metro se mueve un poco, no está roto.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Está diseñado así. Y es un truco muy ingenioso.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Seguro que alguna vez pensaste en apretarlo con unos alicates.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "No lo hagas: arruinarías todas tus medidas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "El secreto está en el grosor del propio gancho.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Ese trocito de metal mide más o menos un milímetro.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Y ese milímetro cambia según cómo midas.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "Cuando enganchas el borde de una tabla y tiras, el gancho se estira.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Así el cero queda en la cara interior del gancho, justo en el borde de la tabla.",
+      "tono": "neutro"
+    },
+    {
+      "n": 10,
+      "texto": "Pero cuando empujas el metro contra una pared, pasa lo contrario.",
+      "tono": "intriga"
+    },
+    {
+      "n": 11,
+      "texto": "El gancho se mete hacia dentro, exactamente su propio grosor.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "Y el cero queda en la cara exterior, la que toca la pared.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "En los dos casos, la medida sale exacta.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Si el gancho estuviera fijo, una de las dos siempre fallaría por un milímetro.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Y en carpintería, un milímetro es la diferencia entre encajar o no.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Los fabricantes lo llaman el cero verdadero.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "El gancho guarda más secretos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Su agujero sirve para engancharlo a la cabeza de un clavo o un tornillo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Y en muchos metros, su borde dentado permite marcar sin lápiz.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Por eso muchos metros indican en la carcasa cuánto mide la propia caja.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "Así puedes medir el hueco de una ventana apoyando la caja en un lado.",
+      "tono": "cercano"
+    },
+    {
+      "n": 22,
+      "texto": "Así que la próxima vez que lo veas bailar, tranquilo: está trabajando.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 30,
+  "publicacion_propuesta": "2026-11-12 20:00",
+  "palabras": 239,
+  "duracion_estimada_s": 98
+}

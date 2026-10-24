@@ -1,0 +1,158 @@
+{
+  "titulo": "Por qué te DUELE la cabeza al comer helado muy rápido",
+  "titulo_base": "Por qué te DUELE la cabeza al comer helado muy rápido",
+  "titulo_alternativa": "El dolor del helado no está en tu boca. Está en tu CEREBRO",
+  "tesis": "El 'cerebro congelado' se debe al enfriamiento brusco del paladar, que dilata de golpe una arteria cerebral; el dolor se proyecta a la frente y dura segundos (Serrador et al., 2012).",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_elena",
+  "voice_id": "tXgbXPnsMpKXkuTgvE3h",
+  "voz_nombre": "Elena - cuentos y narraciones",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Aerógrafo",
+  "estilo": "Airbrush illustration with smooth gradients, luminous saturated colours and fine painted detail, vertical 9:16 composition",
+  "gancho": "Una persona en un día de verano con un cucurucho de helado, llevándose la mano a la frente con gesto de dolor, colores luminosos de aerógrafo.",
+  "riesgo_monetizacion": "Ninguno.",
+  "cultura_visual": "Verano actual",
+  "fuentes": [
+    {
+      "dato": "Serrador et al., Harvard Medical School, presentado en Experimental Biology 2012",
+      "fuente": "Serrador et al., Harvard Medical School, presentado en Experimental Biology 2012"
+    },
+    {
+      "dato": "Kaczorowski y Kaczorowski, 'Ice cream evoked headaches', BMJ, 2002",
+      "fuente": "Kaczorowski y Kaczorowski, 'Ice cream evoked headaches', BMJ, 2002"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Un bocado de helado demasiado rápido… y un pinchazo en la frente.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y el frío está en tu boca, no en tu cabeza.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Es el famoso cerebro congelado.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Le pasa a una de cada tres personas, más o menos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Y durante mucho tiempo nadie sabía exactamente por qué.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Todo empieza en el paladar, justo encima de tu lengua.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Ahí hay muchos vasos sanguíneos que se enfrían de golpe.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "Tu cuerpo reacciona deprisa para proteger lo más importante: el cerebro.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "En dos mil doce, un equipo de Harvard lo midió.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Dieron a voluntarios agua helada con una pajita apuntando al paladar.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "En el momento del dolor, una arteria del cerebro se ensanchaba de repente.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "Llegaba de golpe más sangre caliente a la cabeza.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Cuando la arteria volvía a estrecharse, el dolor desaparecía.",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "Ese cambio brusco de presión es lo que notas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "Y como el nervio que lo detecta también llega a la frente, ahí sientes el dolor.",
+      "tono": "contundente"
+    },
+    {
+      "n": 16,
+      "texto": "Por eso duele donde no está el frío.",
+      "tono": "cercano"
+    },
+    {
+      "n": 17,
+      "texto": "Los científicos creen que es una defensa ante un cambio brusco de temperatura.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "La buena noticia: dura segundos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Y hay un truco: apretar la lengua contra el paladar para calentarlo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "O beber algo templado.",
+      "tono": "contundente"
+    },
+    {
+      "n": 21,
+      "texto": "Curiosamente, no a todo el mundo le pasa igual: a algunos, nunca.",
+      "tono": "intriga"
+    },
+    {
+      "n": 22,
+      "texto": "Y a quien sufre migrañas suele pasarle más a menudo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 23,
+      "texto": "La próxima vez que te pase, recuerda: tu cerebro solo se está protegiendo del frío.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 28,
+  "publicacion_propuesta": "2026-11-11 20:00",
+  "palabras": 235,
+  "duracion_estimada_s": 97
+}

@@ -1,0 +1,158 @@
+{
+  "titulo": "Despiertas y NO puedes moverte. Y sientes a alguien en la habitación",
+  "titulo_base": "Despiertas y NO puedes moverte. Y sientes a alguien en la habitación",
+  "titulo_alternativa": "La parálisis del sueño explica siglos de DEMONIOS nocturnos",
+  "tesis": "En la parálisis del sueño la persona despierta mientras sigue activa la parálisis muscular del sueño REM; el cerebro mezcla sueño y realidad, lo que explica leyendas de presencias nocturnas.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_aitana",
+  "voice_id": "AxFLn9byyiDbMn5fmyqu",
+  "voz_nombre": "Aitana",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Collage surreal",
+  "estilo": "Surreal paper collage, torn paper pieces and hand-drawn patterned cut-outs layered with depth, warm lamplight, vertical 9:16 composition",
+  "gancho": "Una figura de collage tumbada en la cama con los ojos muy abiertos, y en la penumbra del cuarto una silueta de papel recortado.",
+  "riesgo_monetizacion": "Ninguno. Trastorno del sueño benigno explicado con rigor; la figura nocturna se muestra como silueta abstracta, sin horror gráfico.",
+  "cultura_visual": "Dormitorio actual; un plano del cuadro 'La pesadilla' (1781) reinterpretado en collage",
+  "fuentes": [
+    {
+      "dato": "Sharpless y Barber, Sleep Medicine Reviews, 2011 (prevalencia 7,6 %)",
+      "fuente": "Sharpless y Barber, Sleep Medicine Reviews, 2011 (prevalencia 7,6 %)"
+    },
+    {
+      "dato": "Henry Fuseli, 'La pesadilla', 1781",
+      "fuente": "Henry Fuseli, 'La pesadilla', 1781"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Abres los ojos. Estás despierto. Pero no puedes moverte.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y sientes que hay alguien más en la habitación.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Le ocurre a casi una de cada diez personas.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Se llama parálisis del sueño.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Y para entenderla hay que saber lo que haces cada noche.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Cuando sueñas con intensidad, tu cerebro desconecta casi todos tus músculos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Es una protección: así no corres ni das golpes mientras sueñas.",
+      "tono": "cercano"
+    },
+    {
+      "n": 8,
+      "texto": "El problema llega cuando despiertas antes de tiempo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "Tu mente ya está despierta… pero tu cuerpo sigue apagado.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Y una parte del sueño se cuela en la realidad.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Por eso muchos ven sombras, oyen pasos o sienten un peso en el pecho.",
+      "tono": "cercano"
+    },
+    {
+      "n": 12,
+      "texto": "El miedo es real, aunque la figura no lo sea.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Durante siglos, esto tuvo otra explicación.",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "En la Europa antigua se hablaba de demonios que se sentaban sobre el pecho.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "Hay incluso un cuadro famoso de mil setecientos ochenta y uno que lo pinta.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Culturas de todo el mundo describen casi la misma escena.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "Y la ciencia cree que muchas de esas leyendas nacieron así.",
+      "tono": "intriga"
+    },
+    {
+      "n": 18,
+      "texto": "Suele durar segundos, como mucho un par de minutos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 19,
+      "texto": "Dormir poco, el estrés o dormir boca arriba la hacen más probable.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Y no es peligrosa, aunque lo parezca.",
+      "tono": "contundente"
+    },
+    {
+      "n": 21,
+      "texto": "Hay un truco que ayuda: intentar mover solo un dedo del pie, o los ojos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 22,
+      "texto": "Ese pequeño movimiento puede ayudar a que el resto del cuerpo despierte.",
+      "tono": "cercano"
+    },
+    {
+      "n": 23,
+      "texto": "Si alguna vez te pasa, recuerda: es tu cuerpo, que todavía no se ha despertado.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 12,
+  "publicacion_propuesta": "2026-11-03 20:00",
+  "palabras": 242,
+  "duracion_estimada_s": 99
+}

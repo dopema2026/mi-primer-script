@@ -1,0 +1,167 @@
+{
+  "titulo": "Por qué los años pasan cada vez MÁS rápido",
+  "titulo_base": "Por qué los años pasan cada vez MÁS rápido",
+  "titulo_alternativa": "Un verano de niño duraba una eternidad. Ahora vuela. Hay una EXPLICACIÓN",
+  "tesis": "La sensación de que el tiempo se acelera con la edad tiene varias explicaciones: la proporcional (cada año es una fracción menor de la vida), la de la novedad y la memoria, y una hipótesis sobre el procesamiento visual.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_bosco",
+  "voice_id": "0vrPGvXHhDD3rbGURCk8",
+  "voz_nombre": "Bosco - Deep & Calm with gentle pauses",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Línea de neón",
+  "estilo": "Glowing neon line art with luminous outlines on a deep night-blue background, vivid electric colours, vertical 9:16 composition",
+  "gancho": "Un reloj de arena de neón cuya arena cae cada vez más deprisa, con siluetas de un niño y un adulto a cada lado.",
+  "riesgo_monetizacion": "Ninguno. Las explicaciones se presentan como teorías.",
+  "cultura_visual": "Actual",
+  "fuentes": [
+    {
+      "dato": "Janet, 'Une illusion d'optique interne', Revue philosophique, 1877",
+      "fuente": "Janet, 'Une illusion d'optique interne', Revue philosophique, 1877"
+    },
+    {
+      "dato": "Wittmann y Lehnhoff, 'Age effects in perception of time', Psychological Reports, 2005",
+      "fuente": "Wittmann y Lehnhoff, 'Age effects in perception of time', Psychological Reports, 2005"
+    },
+    {
+      "dato": "Bejan, 'Why the days seem shorter as we get older', European Review, 2019 (hipótesis)",
+      "fuente": "Bejan, 'Why the days seem shorter as we get older', European Review, 2019 (hipótesis)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Cuando eras niño, un verano duraba una eternidad.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Ahora parpadeas, y ya es Navidad otra vez.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "No te lo imaginas: le pasa a casi todo el mundo.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Y la ciencia tiene varias explicaciones.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "La primera es pura matemática.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "A los diez años, un año es la décima parte de toda tu vida.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "A los cincuenta, es solo una parte entre cincuenta.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "Cada año pesa menos en tu historia, y por eso parece más corto.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Un filósofo francés lo propuso ya en el siglo diecinueve.",
+      "tono": "neutro"
+    },
+    {
+      "n": 10,
+      "texto": "Pero hay otra explicación, y tiene que ver con la memoria.",
+      "tono": "intriga"
+    },
+    {
+      "n": 11,
+      "texto": "Tu cerebro calcula el tiempo pasado por la cantidad de recuerdos nuevos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "De niño, todo era la primera vez: el mar, la nieve, el colegio.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Cada semana estaba llena de recuerdos distintos.",
+      "tono": "cercano"
+    },
+    {
+      "n": 14,
+      "texto": "De adulto, muchos días se parecen entre sí.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Y cuando miras atrás, tu cerebro los comprime en uno solo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 16,
+      "texto": "Poca novedad, pocos recuerdos, y el año parece encogido.",
+      "tono": "neutro"
+    },
+    {
+      "n": 17,
+      "texto": "Una tercera teoría dice que, al envejecer, procesamos menos imágenes por segundo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 18,
+      "texto": "Como si la película de tu vida tuviera menos fotogramas.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "La buena noticia es que se puede engañar al reloj.",
+      "tono": "contundente"
+    },
+    {
+      "n": 20,
+      "texto": "Viajar, aprender algo nuevo o cambiar de rutina crea recuerdos distintos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "En cambio, los momentos de miedo o de emoción parecen durar más.",
+      "tono": "intriga"
+    },
+    {
+      "n": 22,
+      "texto": "Tu cerebro graba más detalles, y al recordarlos se alargan.",
+      "tono": "neutro"
+    },
+    {
+      "n": 23,
+      "texto": "Por eso un susto de dos segundos se recuerda como si hubiera durado mucho más.",
+      "tono": "cercano"
+    },
+    {
+      "n": 24,
+      "texto": "Si quieres que este año dure más, llénalo de primeras veces.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 33,
+  "publicacion_propuesta": "2026-11-14 15:00",
+  "palabras": 246,
+  "duracion_estimada_s": 101
+}

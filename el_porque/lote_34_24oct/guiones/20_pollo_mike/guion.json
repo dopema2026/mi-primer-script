@@ -1,0 +1,173 @@
+{
+  "titulo": "Este pollo vivió dieciocho MESES sin cabeza",
+  "titulo_base": "Este pollo vivió dieciocho MESES sin cabeza",
+  "titulo_alternativa": "Lo iban a cocinar. Acabó haciendo una gira por todo el PAÍS",
+  "tesis": "En 1945, en Fruita (Colorado), el pollo Mike sobrevivió dieciocho meses tras un corte que dejó intacto su tronco encefálico; lo alimentaban con cuentagotas y se hizo famoso.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_sara",
+  "voice_id": "KHCvMklQZZo0O30ERnVn",
+  "voz_nombre": "Sara Martin 1",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Ilustración de cuento de los años cuarenta (NUEVO)",
+  "estilo": "Nineteen-forties American storybook illustration, soft gouache colours and gentle rounded shapes, flat colour areas, vertical 9:16 composition",
+  "gancho": "Ilustración amable de un gallo de granja de los años cuarenta paseando orgulloso por el corral; su cabeza queda tapada por un gran sombrero de feria, sin herida visible.",
+  "riesgo_monetizacion": "MEDIO: daño a un animal. Nunca se muestra el corte, la herida ni sangre; estilo de cuento amable; el cuello siempre tapado (sombrero, encuadre, cartel sin texto). No programar seguido de otro short de riesgo medio.",
+  "cultura_visual": "Fruita (Colorado, Estados Unidos), 1945-1947",
+  "fuentes": [
+    {
+      "dato": "Revista Life, 'Headless Chicken', 22 de octubre de 1945",
+      "fuente": "Revista Life, 'Headless Chicken', 22 de octubre de 1945"
+    },
+    {
+      "dato": "Ayuntamiento de Fruita, 'Mike the Headless Chicken Festival'",
+      "fuente": "Ayuntamiento de Fruita, 'Mike the Headless Chicken Festival'"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Un granjero fue a preparar la cena. Y la cena siguió caminando.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Durante dieciocho meses. Sin cabeza.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Colorado, Estados Unidos, septiembre de mil novecientos cuarenta y cinco.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "El granjero se llamaba Lloyd Olsen, y el pollo, Mike.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "El corte no salió como esperaba.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Dejó intacta la parte de abajo del cerebro, la que controla lo básico.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Respirar, el latido, mantenerse en pie… todo eso seguía funcionando.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "Y un coágulo evitó que se desangrara.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "A la mañana siguiente, Mike seguía ahí, intentando picotear.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Así que el granjero decidió alimentarlo con un cuentagotas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Le daba leche, agua y grano molido directamente por la garganta.",
+      "tono": "cercano"
+    },
+    {
+      "n": 12,
+      "texto": "Y Mike empezó a ganar peso.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Su dueño lo llevó a una universidad de Utah para que lo examinaran.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Los científicos confirmaron que no había ningún truco.",
+      "tono": "contundente"
+    },
+    {
+      "n": 15,
+      "texto": "Llegó a pesar más de tres kilos y medio.",
+      "tono": "neutro"
+    },
+    {
+      "n": 16,
+      "texto": "La noticia corrió como la pólvora.",
+      "tono": "intriga"
+    },
+    {
+      "n": 17,
+      "texto": "Grandes revistas de la época publicaron su historia.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "La familia lo llevó de gira por todo el país.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "La gente pagaba por ver al pollo que se negaba a morir.",
+      "tono": "contundente"
+    },
+    {
+      "n": 20,
+      "texto": "En marzo de mil novecientos cuarenta y siete, en un motel, se atragantó.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "Esa noche no encontraron a tiempo el cuentagotas para ayudarle.",
+      "tono": "intriga"
+    },
+    {
+      "n": 22,
+      "texto": "Hoy su pueblo, Fruita, le dedica un festival cada año.",
+      "tono": "cercano"
+    },
+    {
+      "n": 23,
+      "texto": "Muchos granjeros intentaron repetirlo con sus pollos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 24,
+      "texto": "Ninguno duró tanto como Mike.",
+      "tono": "contundente"
+    },
+    {
+      "n": 25,
+      "texto": "Vivió sin cabeza más tiempo del que vive la mayoría de los pollos de granja.",
+      "tono": "intriga"
+    },
+    {
+      "n": 26,
+      "texto": "¿Cómo vivió sin cabeza? Lo esencial de su cerebro seguía en su sitio.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 20,
+  "publicacion_propuesta": "2026-11-07 20:00",
+  "palabras": 247,
+  "duracion_estimada_s": 102
+}

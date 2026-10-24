@@ -1,0 +1,158 @@
+{
+  "titulo": "El asteroide de los dinosaurios cayó en el PEOR sitio posible",
+  "titulo_base": "El asteroide de los dinosaurios cayó en el PEOR sitio posible",
+  "titulo_alternativa": "Ese asteroide tuvo la PEOR puntería de la historia",
+  "tesis": "El impacto de Chicxulub vaporizó rocas ricas en azufre e hidrocarburos; según Kaiho y Oshima (2017), solo en un 13 % de la superficie terrestre habría causado una extinción masiva.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_gabo",
+  "voice_id": "o0SveC0zgHFuCsEO3vHR",
+  "voz_nombre": "Gabo - Vibrant & Deep Documentaries",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_v4",
+  "estilo_clave": "D",
+  "estilo_nombre": "Línea de neón",
+  "estilo": "Glowing neon line art with luminous outlines on a deep night-blue background, vivid electric colours, vertical 9:16 composition",
+  "gancho": "Un asteroide incandescente a punto de tocar una costa con forma de península, vista desde el espacio, con trazos de neón.",
+  "riesgo_monetizacion": "Ninguno. Ciencia de la Tierra con estudio publicado.",
+  "cultura_visual": "Península de Yucatán hace 66 millones de años",
+  "fuentes": [
+    {
+      "dato": "Kaiho y Oshima, 'Site of asteroid impact changed the history of life on Earth', Scientific Reports, 2017",
+      "fuente": "Kaiho y Oshima, 'Site of asteroid impact changed the history of life on Earth', Scientific Reports, 2017"
+    },
+    {
+      "dato": "Schulte et al., Science, 2010 (impacto de Chicxulub)",
+      "fuente": "Schulte et al., Science, 2010 (impacto de Chicxulub)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "El asteroide que acabó con los dinosaurios tuvo una puntería terrible.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Si hubiera caído casi en cualquier otro sitio, quizá seguirían aquí.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Hace sesenta y seis millones de años, una roca enorme cayó del cielo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Medía unos diez kilómetros: más que el monte Everest.",
+      "tono": "contundente"
+    },
+    {
+      "n": 5,
+      "texto": "Cayó donde hoy está la península de Yucatán, en México.",
+      "tono": "cercano"
+    },
+    {
+      "n": 6,
+      "texto": "Y ese lugar escondía algo bajo el mar.",
+      "tono": "intriga"
+    },
+    {
+      "n": 7,
+      "texto": "Rocas cargadas de azufre y de restos de petróleo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "El impacto las vaporizó y lanzó todo eso a la atmósfera.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "Se formó una capa de hollín y gotas de ácido alrededor del planeta.",
+      "tono": "cercano"
+    },
+    {
+      "n": 10,
+      "texto": "La luz del sol casi dejó de llegar al suelo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 11,
+      "texto": "Las temperaturas cayeron en picado durante años.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "Las plantas murieron, y detrás, los animales que las comían.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "En dos mil diecisiete, dos investigadores japoneses hicieron una cuenta.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Calcularon cuánto material así había en cada rincón de la Tierra.",
+      "tono": "cercano"
+    },
+    {
+      "n": 15,
+      "texto": "Su conclusión fue escalofriante.",
+      "tono": "intriga"
+    },
+    {
+      "n": 16,
+      "texto": "Solo en un trece por ciento del planeta el impacto habría sido tan letal.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "En el resto, el golpe habría sido brutal, pero no tanto.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Es como tirar un dardo a un mapa y acertar justo en lo peor.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "Y de esa mala suerte venimos nosotros.",
+      "tono": "intriga"
+    },
+    {
+      "n": 20,
+      "texto": "Sin dinosaurios, los pequeños mamíferos tuvieron su oportunidad.",
+      "tono": "contundente"
+    },
+    {
+      "n": 21,
+      "texto": "Sobrevivieron sobre todo animales pequeños que se escondían o comían de todo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 22,
+      "texto": "Entre ellos, los antepasados de los pájaros… y los nuestros.",
+      "tono": "intriga"
+    },
+    {
+      "n": 23,
+      "texto": "¿Estaríamos aquí si esa roca hubiera caído en otro sitio?",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 9,
+  "publicacion_propuesta": "2026-11-02 15:00",
+  "palabras": 233,
+  "duracion_estimada_s": 96
+}

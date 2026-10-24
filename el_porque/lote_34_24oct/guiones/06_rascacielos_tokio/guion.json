@@ -1,0 +1,162 @@
+{
+  "titulo": "Los rascacielos de Tokio copian un truco de templos de hace mil trescientos AÑOS",
+  "titulo_base": "Los rascacielos de Tokio copian un truco de templos de hace mil trescientos AÑOS",
+  "titulo_alternativa": "La torre más alta de Japón esconde DENTRO una pagoda",
+  "tesis": "El pilar central de las pagodas japonesas de madera, que resisten terremotos desde hace siglos, inspiró el sistema antisísmico de la Tokyo Skytree.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_eva",
+  "voice_id": "RgXx32WYOGrd7gFNifSf",
+  "voz_nombre": "Eva Dorado",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Maqueta tilt-shift",
+  "estilo": "Tilt-shift miniature photograph of a tiny handcrafted scale-model scene, shallow depth of field, bright daylight, vertical 9:16 composition",
+  "gancho": "Vista aérea en miniatura de una pagoda de madera de cinco pisos junto a una torre moderna altísima, como dos maquetas sobre la misma mesa.",
+  "riesgo_monetizacion": "Ninguno. Ingeniería y patrimonio; los terremotos se mencionan sin víctimas.",
+  "cultura_visual": "Japón: templo Horyu-ji (Nara, siglo VII) y Tokio (2012)",
+  "fuentes": [
+    {
+      "dato": "Nikken Sekkei, sistema 'shinbashira' de la Tokyo Skytree (2012)",
+      "fuente": "Nikken Sekkei, sistema 'shinbashira' de la Tokyo Skytree (2012)"
+    },
+    {
+      "dato": "UNESCO, monumentos budistas de la zona de Horyu-ji",
+      "fuente": "UNESCO, monumentos budistas de la zona de Horyu-ji"
+    },
+    {
+      "dato": "Tanabashi, estudios sobre el comportamiento sísmico de las pagodas de madera",
+      "fuente": "Tanabashi, estudios sobre el comportamiento sísmico de las pagodas de madera"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Japón sufre cientos de terremotos al año. Y sus torres siguen en pie.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Parte del secreto tiene más de mil trescientos años.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Templo de Horyu-ji, cerca de Nara.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Su pagoda de cinco pisos es toda de madera.",
+      "tono": "intriga"
+    },
+    {
+      "n": 5,
+      "texto": "Ha sobrevivido a siglos de terremotos que tiraron todo a su alrededor.",
+      "tono": "cercano"
+    },
+    {
+      "n": 6,
+      "texto": "Durante mucho tiempo nadie entendía cómo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 7,
+      "texto": "Dentro tiene un tronco enorme en el centro: el pilar del corazón.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Y lo raro es que ese pilar no sostiene los pisos.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "Cada piso se apoya sobre el de abajo, sin estar unido al pilar.",
+      "tono": "cercano"
+    },
+    {
+      "n": 10,
+      "texto": "Cuando la tierra tiembla, los pisos se mueven como una serpiente.",
+      "tono": "intriga"
+    },
+    {
+      "n": 11,
+      "texto": "Unos hacia un lado, otros hacia el contrario.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "Y el pilar central frena el balanceo para que no se descontrole.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "En vez de resistir el golpe, la torre baila con él.",
+      "tono": "cercano"
+    },
+    {
+      "n": 14,
+      "texto": "Ahora salta a dos mil doce, en Tokio.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Se inaugura la torre más alta de Japón: seiscientos treinta y cuatro metros.",
+      "tono": "neutro"
+    },
+    {
+      "n": 16,
+      "texto": "Y en su interior, los ingenieros pusieron… un pilar central.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "Es de hormigón, separado del armazón de acero exterior.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Entre los dos, amortiguadores que absorben el movimiento.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "Según sus constructores, el balanceo se reduce hasta la mitad.",
+      "tono": "intriga"
+    },
+    {
+      "n": 20,
+      "texto": "Muchos edificios modernos van además sobre apoyos gigantes de goma.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "El suelo se mueve, y el edificio casi no se entera.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Y Tokio está en una de las zonas con más terremotos del planeta.",
+      "tono": "neutro"
+    },
+    {
+      "n": 23,
+      "texto": "La tecnología más avanzada de Tokio la inventaron carpinteros hace trece siglos.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 6,
+  "publicacion_propuesta": "2026-10-31 20:00",
+  "palabras": 237,
+  "duracion_estimada_s": 97
+}

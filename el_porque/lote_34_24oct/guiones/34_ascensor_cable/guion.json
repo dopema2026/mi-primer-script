@@ -1,0 +1,157 @@
+{
+  "titulo": "Qué pasa si se rompe el cable de un ASCENSOR",
+  "titulo_base": "Qué pasa si se rompe el cable de un ASCENSOR",
+  "titulo_alternativa": "Una mujer cayó setenta y cinco pisos en un ascensor… y SOBREVIVIÓ",
+  "tesis": "Desde el freno de seguridad de Elisha Otis (1854), los ascensores tienen varios cables, frenos automáticos y amortiguadores; la caída libre es casi imposible. En 1945, Betty Lou Oliver sobrevivió a una caída de 75 pisos.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_marina",
+  "voice_id": "GB7fZx4ubHWxbBE05abF",
+  "voz_nombre": "Marina",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Fotorrealista",
+  "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+  "gancho": "Un hombre del siglo diecinueve de pie sobre una plataforma elevada en una feria, mientras alguien corta con un hacha la única cuerda que la sostiene.",
+  "riesgo_monetizacion": "Bajo. El accidente de 1945 se narra sin imágenes del avión estrellado ni de víctimas; solo cables y hueco de ascensor.",
+  "cultura_visual": "Nueva York: feria de 1854 (escena principal); hueco de ascensor actual",
+  "fuentes": [
+    {
+      "dato": "Goodwin, 'Otis: Giving Rise to the Modern City', 2001 (demostración de 1854)",
+      "fuente": "Goodwin, 'Otis: Giving Rise to the Modern City', 2001 (demostración de 1854)"
+    },
+    {
+      "dato": "Guinness World Records: mayor caída en ascensor superada (Betty Lou Oliver, 1945)",
+      "fuente": "Guinness World Records: mayor caída en ascensor superada (Betty Lou Oliver, 1945)"
+    },
+    {
+      "dato": "EN 81-20, norma europea de seguridad de ascensores",
+      "fuente": "EN 81-20, norma europea de seguridad de ascensores"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Si se rompe el cable de un ascensor, no caes al vacío.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y esto se demostró de la forma más teatral posible.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Nueva York, mil ochocientos cincuenta y cuatro, una gran feria.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Un inventor llamado Elisha Otis sube a una plataforma muy alta.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "Delante del público, ordena cortar la única cuerda que la sujeta.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "La plataforma cae… unos centímetros, y se frena en seco.",
+      "tono": "contundente"
+    },
+    {
+      "n": 7,
+      "texto": "Había inventado un freno de seguridad que se clava en los raíles.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Gracias a eso, la gente empezó a confiar en los ascensores.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Y sin ascensores seguros, no existirían los rascacielos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Hoy un ascensor no cuelga de un solo cable, sino de varios.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Y cada uno, por sí solo, podría sostener la cabina llena.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "Si aun así bajara demasiado rápido, un sensor lo detecta.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Y activa unos frenos que la sujetan contra los raíles.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Al fondo del hueco, además, hay amortiguadores por si todo lo demás falla.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Una caída libre es casi imposible.",
+      "tono": "contundente"
+    },
+    {
+      "n": 16,
+      "texto": "Casi. En mil novecientos cuarenta y cinco ocurrió en Nueva York.",
+      "tono": "neutro"
+    },
+    {
+      "n": 17,
+      "texto": "Un avión chocó contra el Empire State en plena niebla.",
+      "tono": "cercano"
+    },
+    {
+      "n": 18,
+      "texto": "Los cables de un ascensor se cortaron, y su ascensorista cayó setenta y cinco pisos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Sobrevivió. El cable amontonado en el fondo y el aire del hueco frenaron el golpe.",
+      "tono": "contundente"
+    },
+    {
+      "n": 20,
+      "texto": "Todavía tiene el récord de la mayor caída en ascensor superada.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "De hecho, es más seguro que bajar por las escaleras.",
+      "tono": "cercano"
+    },
+    {
+      "n": 22,
+      "texto": "El ascensor sigue siendo uno de los transportes más seguros que usas cada día.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 34,
+  "publicacion_propuesta": "2026-11-14 20:00",
+  "palabras": 243,
+  "duracion_estimada_s": 100
+}

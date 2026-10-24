@@ -1,0 +1,167 @@
+{
+  "titulo": "En los Andes comían TIERRA para poder comerse las patatas",
+  "titulo_base": "En los Andes comían TIERRA para poder comerse las patatas",
+  "titulo_alternativa": "La patata salvaje es VENENOSA. Así la domaron en los Andes",
+  "tesis": "Las patatas silvestres tienen glicoalcaloides tóxicos; los pueblos andinos las comían con arcilla que atrapa las toxinas, inventaron el chuño y seleccionaron variedades menos amargas.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_marina",
+  "voice_id": "GB7fZx4ubHWxbBE05abF",
+  "voz_nombre": "Marina",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Aerógrafo",
+  "estilo": "Airbrush illustration with smooth gradients, luminous saturated colours and fine painted detail, vertical 9:16 composition",
+  "gancho": "Unas manos andinas mojando una pequeña patata morada en un cuenco de barro con salsa de arcilla gris, con el altiplano y el lago Titicaca al fondo.",
+  "riesgo_monetizacion": "Ninguno.",
+  "cultura_visual": "Altiplano andino (Perú y Bolivia), pueblos aimara y quechua; una sola cultura",
+  "fuentes": [
+    {
+      "dato": "Johns, 'With Bitter Herbs They Shall Eat It', 1990 (geofagia y patata en los Andes)",
+      "fuente": "Johns, 'With Bitter Herbs They Shall Eat It', 1990 (geofagia y patata en los Andes)"
+    },
+    {
+      "dato": "Spooner et al., PNAS, 2005 (origen único de la patata cultivada en el sur de Perú)",
+      "fuente": "Spooner et al., PNAS, 2005 (origen único de la patata cultivada en el sur de Perú)"
+    },
+    {
+      "dato": "FAO, 'Año Internacional de la Papa', 2008 (chuño)",
+      "fuente": "FAO, 'Año Internacional de la Papa', 2008 (chuño)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "En los Andes, la gente comía tierra con las patatas.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y no por hambre. Era para no envenenarse.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Lo hicieron durante miles de años, y algunos todavía lo hacen.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "La patata nació alrededor del lago Titicaca, entre Perú y Bolivia.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Pero la patata salvaje no se parecía a la tuya.",
+      "tono": "cercano"
+    },
+    {
+      "n": 6,
+      "texto": "Era pequeña, amarga… y tóxica.",
+      "tono": "intriga"
+    },
+    {
+      "n": 7,
+      "texto": "Contiene unas sustancias que la planta fabrica para defenderse.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "En dosis altas, provocan vómitos, dolores y cosas peores.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "Aun así, era un alimento demasiado valioso para renunciar a él.",
+      "tono": "cercano"
+    },
+    {
+      "n": 10,
+      "texto": "Así que los pueblos andinos encontraron una solución.",
+      "tono": "intriga"
+    },
+    {
+      "n": 11,
+      "texto": "Preparaban una salsa con una arcilla especial y mojaban las patatas en ella.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "Esa arcilla atrapa las toxinas antes de que pasen a la sangre.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Todavía hoy, en algunos mercados del altiplano se vende esa arcilla.",
+      "tono": "cercano"
+    },
+    {
+      "n": 14,
+      "texto": "Y tenían otro truco: congelar y secar las patatas.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Las dejaban helarse de noche, y de día las pisaban para sacarles el agua.",
+      "tono": "neutro"
+    },
+    {
+      "n": 16,
+      "texto": "El resultado se llama chuño, y puede durar años.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "Con el agua se iba también buena parte del amargor.",
+      "tono": "cercano"
+    },
+    {
+      "n": 18,
+      "texto": "El chuño fue la reserva de comida de los incas para los años de mala cosecha.",
+      "tono": "neutro"
+    },
+    {
+      "n": 19,
+      "texto": "Generación tras generación, plantaron siempre las patatas menos amargas.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Poco a poco, las volvieron comestibles.",
+      "tono": "intriga"
+    },
+    {
+      "n": 21,
+      "texto": "Pero ese veneno nunca ha desaparecido del todo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Hoy hay más de cuatro mil variedades de patata en los Andes.",
+      "tono": "intriga"
+    },
+    {
+      "n": 23,
+      "texto": "Todas descienden de aquella planta amarga.",
+      "tono": "contundente"
+    },
+    {
+      "n": 24,
+      "texto": "Por eso, si una patata se pone verde, mejor no te comas esa parte.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 24,
+  "publicacion_propuesta": "2026-11-09 20:00",
+  "palabras": 241,
+  "duracion_estimada_s": 99
+}

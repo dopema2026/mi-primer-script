@@ -1,0 +1,167 @@
+{
+  "titulo": "Tu cerebro lee esto aunque las letras estén DESORDENADAS",
+  "titulo_base": "Tu cerebro lee esto aunque las letras estén DESORDENADAS",
+  "titulo_alternativa": "El famoso estudio de Cambridge es FALSO. Pero el efecto es real",
+  "tesis": "El texto viral de las letras desordenadas atribuido a Cambridge no procede de ningún estudio; aun así el efecto existe porque el cerebro lee palabras enteras y usa el contexto, aunque con límites y más lento.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_eva",
+  "voice_id": "RgXx32WYOGrd7gFNifSf",
+  "voz_nombre": "Eva Dorado",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Collage surreal",
+  "estilo": "Surreal paper collage, torn paper pieces and hand-drawn patterned cut-outs layered with depth, warm lamplight, vertical 9:16 composition",
+  "gancho": "Un ojo de collage de papel enorme mirando un remolino de piezas de papel con dibujos y formas, sin letras legibles.",
+  "riesgo_monetizacion": "Ninguno. Ojo: imágenes SIN letras ni palabras legibles; se representan con formas y patrones.",
+  "cultura_visual": "Actual",
+  "fuentes": [
+    {
+      "dato": "Rawlinson, tesis doctoral, Universidad de Nottingham, 1976",
+      "fuente": "Rawlinson, tesis doctoral, Universidad de Nottingham, 1976"
+    },
+    {
+      "dato": "Rayner, White, Johnson y Liversedge, 'Raeding wrods with jubmled lettres', Psychological Science, 2006",
+      "fuente": "Rayner, White, Johnson y Liversedge, 'Raeding wrods with jubmled lettres', Psychological Science, 2006"
+    },
+    {
+      "dato": "Davis, MRC Cognition and Brain Sciences Unit (Cambridge), aclaración sobre el texto viral",
+      "fuente": "Davis, MRC Cognition and Brain Sciences Unit (Cambridge), aclaración sobre el texto viral"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Hay un texto que lleva veinte años dando vueltas por internet.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Tiene las letras de cada palabra desordenadas… y se lee sin esfuerzo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Seguro que lo has visto alguna vez.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Decía que lo había demostrado la Universidad de Cambridge.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Pues ese estudio nunca existió.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Lo curioso es que el efecto sí es real.",
+      "tono": "contundente"
+    },
+    {
+      "n": 7,
+      "texto": "Si la primera y la última letra están en su sitio, sueles entenderlo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Porque tu cerebro no lee letra a letra.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Mira la palabra entera, de golpe, casi como un dibujo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Y la compara con miles de palabras que ya conoce.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Además, adivina por el contexto lo que viene después.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "Por eso a veces no ves una errata aunque la tengas delante.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Un lector adulto reconoce una palabra conocida en una fracción de segundo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "Sin deletrearla, sin darse cuenta.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "Ahora bien, el truco tiene límites.",
+      "tono": "intriga"
+    },
+    {
+      "n": 16,
+      "texto": "Con palabras largas, o con las letras muy revueltas, falla.",
+      "tono": "neutro"
+    },
+    {
+      "n": 17,
+      "texto": "Y aunque lo entiendas, lees más despacio.",
+      "tono": "contundente"
+    },
+    {
+      "n": 18,
+      "texto": "Un estudio de dos mil seis midió que la lectura se frena alrededor de un diez por ciento.",
+      "tono": "neutro"
+    },
+    {
+      "n": 19,
+      "texto": "Y si mezclas letras entre palabras distintas, se vuelve casi imposible.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Tu cerebro no es un escáner perfecto. Es un experto en adivinar.",
+      "tono": "intriga"
+    },
+    {
+      "n": 21,
+      "texto": "Y casi siempre adivina bien.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Por eso algunos correctores profesionales leen el texto al revés.",
+      "tono": "neutro"
+    },
+    {
+      "n": 23,
+      "texto": "Así obligan al cerebro a mirar cada palabra, sin adivinar.",
+      "tono": "intriga"
+    },
+    {
+      "n": 24,
+      "texto": "Mientras lees, tu cerebro está rellenando huecos todo el tiempo. Sin avisarte.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 26,
+  "publicacion_propuesta": "2026-11-10 20:00",
+  "palabras": 233,
+  "duracion_estimada_s": 96
+}

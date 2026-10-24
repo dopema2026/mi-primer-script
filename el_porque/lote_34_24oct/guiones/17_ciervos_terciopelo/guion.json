@@ -1,0 +1,158 @@
+{
+  "titulo": "Por qué los ciervos se ARRANCAN la piel de los cuernos",
+  "titulo_base": "Por qué los ciervos se ARRANCAN la piel de los cuernos",
+  "titulo_alternativa": "El hueso que crece más rápido está en la cabeza de un CIERVO",
+  "tesis": "Las astas son hueso que se renueva cada año, creciendo cubiertas de 'terciopelo' vascularizado; al final del verano el terciopelo se seca y el ciervo lo frota contra los árboles.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_juancarlos",
+  "voice_id": "OWV3obHD4FHDI1Sj2nGy",
+  "voz_nombre": "Juan Carlos - Documentary",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Fotorrealista",
+  "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+  "gancho": "Un ciervo en un bosque al amanecer frotando sus astas contra un tronco, con jirones de piel aterciopelada colgando, sin sangre.",
+  "riesgo_monetizacion": "Ninguno si no se muestra sangre: el terciopelo se ve seco y colgando.",
+  "cultura_visual": "Bosque europeo, finales de verano",
+  "fuentes": [
+    {
+      "dato": "Goss, 'Deer Antlers: Regeneration, Function and Evolution', 1983",
+      "fuente": "Goss, 'Deer Antlers: Regeneration, Function and Evolution', 1983"
+    },
+    {
+      "dato": "Price y Allen, 'Exploring the mechanisms regulating regeneration of deer antlers', Phil. Trans. R. Soc. B, 2004",
+      "fuente": "Price y Allen, 'Exploring the mechanisms regulating regeneration of deer antlers', Phil. Trans. R. Soc. B, 2004"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Cada final de verano, los ciervos se arrancan la piel de los cuernos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y lo hacen frotándose contra los árboles, durante horas.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Parece una tortura. Pero es justo lo contrario.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Las astas de un ciervo son de hueso, y se le caen cada año.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Sí: cada primavera le vuelven a crecer enteras.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Y crecen rapidísimo: hasta dos centímetros en un solo día.",
+      "tono": "contundente"
+    },
+    {
+      "n": 7,
+      "texto": "Es uno de los tejidos que más rápido crecen de todo el reino animal.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Para conseguirlo, necesitan mucha sangre.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Un ciervo grande puede fabricar varios kilos de hueso nuevo cada año.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Por eso, mientras crecen, van cubiertas de una piel especial.",
+      "tono": "cercano"
+    },
+    {
+      "n": 11,
+      "texto": "Se llama terciopelo, porque es suave y tiene pelito.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "Está llena de vasos sanguíneos que alimentan el hueso.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Mientras tiene terciopelo, el asta está viva y es sensible.",
+      "tono": "cercano"
+    },
+    {
+      "n": 14,
+      "texto": "Al final del verano, todo cambia.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Sube la testosterona por la época de celo, y el hueso se endurece.",
+      "tono": "neutro"
+    },
+    {
+      "n": 16,
+      "texto": "La sangre deja de llegar, y el terciopelo se seca.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "Ya no sirve para nada, y seguramente pica.",
+      "tono": "cercano"
+    },
+    {
+      "n": 18,
+      "texto": "Así que el ciervo se lo quita contra troncos y ramas.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Debajo queda el asta dura, lista para los combates del celo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "Unos meses después, esas astas se le caerán solas.",
+      "tono": "contundente"
+    },
+    {
+      "n": 21,
+      "texto": "Con los años, las astas suelen salir más grandes y con más puntas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 22,
+      "texto": "Hasta que el ciervo envejece, y empiezan a menguar.",
+      "tono": "cercano"
+    },
+    {
+      "n": 23,
+      "texto": "Y en primavera, el ciervo empezará a construirlas otra vez desde cero.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 17,
+  "publicacion_propuesta": "2026-11-06 15:00",
+  "palabras": 233,
+  "duracion_estimada_s": 96
+}

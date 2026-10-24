@@ -1,0 +1,163 @@
+{
+  "titulo": "Una tortuga NO puede salir de su caparazón. Es su ESQUELETO",
+  "titulo_base": "Una tortuga NO puede salir de su caparazón. Es su ESQUELETO",
+  "titulo_alternativa": "Lo que los dibujos animados te enseñaron MAL sobre las tortugas",
+  "tesis": "El caparazón está fusionado con costillas y columna (unos cincuenta huesos); hombros y caderas están dentro de la caja torácica, algo único entre los vertebrados; además tiene nervios y siente.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_emanuel",
+  "voice_id": "hVtAK6ZLnvyCMv5h9NeP",
+  "voz_nombre": "Emanuel - Deep, Warm",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Fotorrealista",
+  "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+  "gancho": "Una tortuga terrestre mirando de frente a ras de suelo en un prado soleado, el caparazón ocupando casi todo el plano.",
+  "riesgo_monetizacion": "Ninguno.",
+  "cultura_visual": "Naturaleza actual",
+  "fuentes": [
+    {
+      "dato": "Rieppel, 'Turtles as Hopeful Monsters', 2017",
+      "fuente": "Rieppel, 'Turtles as Hopeful Monsters', 2017"
+    },
+    {
+      "dato": "Nagashima et al., Science, 2009 (origen evolutivo del caparazón)",
+      "fuente": "Nagashima et al., Science, 2009 (origen evolutivo del caparazón)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "En los dibujos, las tortugas salen de su caparazón como de casa.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "En la vida real, sería como quitarte las costillas.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "El caparazón no es una concha que lleven puesta.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Es parte de su esqueleto.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "Sus costillas y su columna están soldadas a él.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "En total, unos cincuenta huesos unidos en una sola pieza.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "No puede salirse, igual que tú no puedes salirte de tu cráneo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "Y tiene algo que ningún otro animal con columna tiene.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Sus hombros y sus caderas están dentro de las costillas, no fuera.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "En tu cuerpo, los omóplatos van por fuera de la caja torácica.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "En la tortuga, la evolución los metió dentro.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "Por eso puede esconder patas y cabeza en ese espacio.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Hace unos doscientos veinte millones de años ya había tortugas con medio caparazón.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Primero apareció la parte de la tripa, y después la de arriba.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Y otra sorpresa: el caparazón siente.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Tiene vasos sanguíneos y nervios.",
+      "tono": "neutro"
+    },
+    {
+      "n": 17,
+      "texto": "Muchas tortugas notan cuando les rascas la concha.",
+      "tono": "cercano"
+    },
+    {
+      "n": 18,
+      "texto": "Algunas incluso se acercan buscando más.",
+      "tono": "contundente"
+    },
+    {
+      "n": 19,
+      "texto": "Por fuera está cubierto de placas de queratina, lo mismo que tus uñas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "Y esas placas crecen con la tortuga durante toda su vida.",
+      "tono": "intriga"
+    },
+    {
+      "n": 21,
+      "texto": "Por eso un caparazón vacío en el suelo es siempre una mala noticia.",
+      "tono": "cercano"
+    },
+    {
+      "n": 22,
+      "texto": "Algunas tortugas viven más de cien años con el mismo caparazón.",
+      "tono": "contundente"
+    },
+    {
+      "n": 23,
+      "texto": "Crece con ellas, y repara solo sus pequeñas heridas.",
+      "tono": "cercano"
+    },
+    {
+      "n": 24,
+      "texto": "Una tortuga no vive dentro de su casa. Su casa es ella misma.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 21,
+  "publicacion_propuesta": "2026-11-08 15:00",
+  "palabras": 238,
+  "duracion_estimada_s": 98
+}

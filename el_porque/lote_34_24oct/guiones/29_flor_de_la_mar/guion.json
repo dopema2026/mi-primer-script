@@ -1,0 +1,172 @@
+{
+  "titulo": "El barco con uno de los mayores TESOROS perdidos sigue en el fondo del mar",
+  "titulo_base": "El barco con uno de los mayores TESOROS perdidos sigue en el fondo del mar",
+  "titulo_alternativa": "Se hundió en mil quinientos once con un botín legendario. Nadie lo ha ENCONTRADO",
+  "tesis": "La nao portuguesa Flor de la Mar se hundió en 1511 frente a Sumatra con el botín de la toma de Malaca; nunca se ha localizado y su propiedad la disputarían varios países.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_rafael",
+  "voice_id": "orF2qy9215xjwqqxqsWW",
+  "voz_nombre": "Rafael - Tales and Legends",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Fotorrealista",
+  "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+  "gancho": "Una nao portuguesa del siglo dieciséis inclinada entre olas negras de tormenta, con un relámpago iluminando las velas.",
+  "riesgo_monetizacion": "Ninguno. La toma de Malaca se menciona sin escenas de combate; naufragio sin víctimas visibles.",
+  "cultura_visual": "Portugal en el estrecho de Malaca, 1511; una sola cultura (marinos portugueses)",
+  "fuentes": [
+    {
+      "dato": "Gaspar Correia, 'Lendas da Índia' (siglo XVI)",
+      "fuente": "Gaspar Correia, 'Lendas da Índia' (siglo XVI)"
+    },
+    {
+      "dato": "Comentarios de Afonso de Albuquerque (Brás de Albuquerque, 1557)",
+      "fuente": "Comentarios de Afonso de Albuquerque (Brás de Albuquerque, 1557)"
+    },
+    {
+      "dato": "Noticias de prensa sobre reclamaciones de hallazgo (1989) no confirmadas",
+      "fuente": "Noticias de prensa sobre reclamaciones de hallazgo (1989) no confirmadas"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Hay un barco hundido con uno de los mayores tesoros de la historia.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Lleva más de quinientos años perdido. Y nadie sabe dónde está.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Se llamaba Flor de la Mar, una enorme nao portuguesa.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "En mil quinientos once volvía de Malaca, en el sudeste asiático.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "Era una de las naves más grandes de su tiempo, pero también de las más castigadas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 6,
+      "texto": "A bordo iba el temido Afonso de Albuquerque.",
+      "tono": "intriga"
+    },
+    {
+      "n": 7,
+      "texto": "Acababa de tomar la ciudad, uno de los puertos más ricos del mundo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Y había cargado el barco con lo mejor del botín.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "Oro, piedras preciosas y regalos destinados al rey de Portugal.",
+      "tono": "cercano"
+    },
+    {
+      "n": 10,
+      "texto": "Pero el barco ya era viejo, y hacía agua.",
+      "tono": "intriga"
+    },
+    {
+      "n": 11,
+      "texto": "Navegando junto a la costa de Sumatra, les sorprendió una tormenta.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "La nave chocó contra unos bajíos y se partió.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Albuquerque se salvó en una balsa improvisada.",
+      "tono": "cercano"
+    },
+    {
+      "n": 14,
+      "texto": "El tesoro se quedó en el fondo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Las crónicas de la época hablan de un tesoro nunca visto.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Cuentan que llevaba incluso estatuas cubiertas de piedras preciosas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 17,
+      "texto": "Desde entonces, muchos buscadores han ido tras él.",
+      "tono": "cercano"
+    },
+    {
+      "n": 18,
+      "texto": "Algunos dijeron haberlo encontrado, pero nunca lo demostraron.",
+      "tono": "contundente"
+    },
+    {
+      "n": 19,
+      "texto": "Las corrientes y el lodo del estrecho pueden haberlo enterrado.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Además, varios países podrían reclamarlo si apareciera.",
+      "tono": "intriga"
+    },
+    {
+      "n": 21,
+      "texto": "Indonesia, Malasia y Portugal.",
+      "tono": "neutro"
+    },
+    {
+      "n": 22,
+      "texto": "Así que encontrarlo sería solo el principio del problema.",
+      "tono": "contundente"
+    },
+    {
+      "n": 23,
+      "texto": "Hoy el estrecho de Malaca es una de las rutas marítimas con más tráfico del mundo.",
+      "tono": "cercano"
+    },
+    {
+      "n": 24,
+      "texto": "Miles de barcos pasan cada año por encima de donde podría estar.",
+      "tono": "contundente"
+    },
+    {
+      "n": 25,
+      "texto": "¿Seguirá ahí abajo, esperando a que alguien lo encuentre?",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 29,
+  "publicacion_propuesta": "2026-11-12 15:00",
+  "palabras": 248,
+  "duracion_estimada_s": 102
+}

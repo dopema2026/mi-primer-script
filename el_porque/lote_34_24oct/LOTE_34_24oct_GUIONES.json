@@ -1,0 +1,5546 @@
+[
+  {
+    "carpeta": "01_apolo10_musica",
+    "titulo": "Los astronautas oyeron MÚSICA donde nadie podía oírlos",
+    "titulo_base": "Los astronautas oyeron MÚSICA donde nadie podía oírlos",
+    "titulo_alternativa": "Detrás de la Luna, sin radio con la Tierra, sonó algo EXTRAÑO",
+    "tesis": "En 1969 la tripulación del Apolo 10 oyó un silbido 'musical' en la cara oculta de la Luna; era interferencia entre las radios de sus dos módulos.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_carmelo",
+    "voice_id": "5egO01tkUjEzu7xSSE8M",
+    "voz_nombre": "Carmelo - Mysterious & Deep",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Línea de neón",
+    "estilo": "Glowing neon line art with luminous outlines on a deep night-blue background, vivid electric colours, vertical 9:16 composition",
+    "gancho": "Una pequeña nave espacial detrás de una Luna enorme, con ondas de sonido luminosas saliendo de ella hacia el vacío.",
+    "riesgo_monetizacion": "Ninguno. Hecho documentado con transcripciones oficiales; se descarta expresamente la explicación extraterrestre.",
+    "cultura_visual": "Estados Unidos, 1969, programa Apolo",
+    "fuentes": [
+      {
+        "dato": "NASA, transcripciones de la misión Apolo 10 (mayo de 1969), publicadas en 2008",
+        "fuente": "NASA, transcripciones de la misión Apolo 10 (mayo de 1969), publicadas en 2008"
+      },
+      {
+        "dato": "NASA History Office, explicación de la interferencia VHF entre módulo lunar y módulo de mando (2016)",
+        "fuente": "NASA History Office, explicación de la interferencia VHF entre módulo lunar y módulo de mando (2016)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Tres astronautas oyeron música donde no podía haber nadie.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Estaban detrás de la Luna, sin ningún contacto con la Tierra.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Mayo de mil novecientos sesenta y nueve. Misión Apolo diez.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Fue el ensayo general antes de pisar la Luna.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "Bajaron a solo quince kilómetros de su superficie.",
+        "tono": "contundente"
+      },
+      {
+        "n": 6,
+        "texto": "Al pasar por la cara oculta, la radio con Houston se cortó.",
+        "tono": "intriga"
+      },
+      {
+        "n": 7,
+        "texto": "Es lo normal: la propia Luna bloquea la señal.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Pero entonces, en sus cascos, empezó un silbido.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "Agudo, cambiante, casi como una melodía.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Uno de ellos dijo que sonaba a música del espacio exterior.",
+        "tono": "cercano"
+      },
+      {
+        "n": 11,
+        "texto": "Lo oyeron, de forma intermitente, durante cerca de una hora.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "Y entre ellos se preguntaron si debían contarlo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 13,
+        "texto": "Temían que nadie les creyera.",
+        "tono": "contundente"
+      },
+      {
+        "n": 14,
+        "texto": "La grabación quedó guardada durante décadas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "Hasta que en dos mil ocho se publicaron las transcripciones.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Y en dos mil dieciséis, el audio dio la vuelta al mundo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 17,
+        "texto": "¿Extraterrestres? La explicación es mucho más terrestre.",
+        "tono": "contundente"
+      },
+      {
+        "n": 18,
+        "texto": "La nave llevaba dos módulos, y cada uno tenía su propia radio.",
+        "tono": "neutro"
+      },
+      {
+        "n": 19,
+        "texto": "Al estar tan cerca, sus señales se mezclaban.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Esa mezcla produce justo un silbido que sube y baja.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "Los ingenieros sabían que podía pasar.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Solo que nadie se lo había advertido a la tripulación.",
+        "tono": "intriga"
+      },
+      {
+        "n": 23,
+        "texto": "Imagina oír eso, solos, al otro lado de la Luna.",
+        "tono": "cercano"
+      },
+      {
+        "n": 24,
+        "texto": "En las grabaciones se les oye bromear, nerviosos, sobre lo que estaban oyendo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 25,
+        "texto": "Nadie más en el universo podía oírlos en ese momento.",
+        "tono": "contundente"
+      },
+      {
+        "n": 26,
+        "texto": "Ni siquiera Houston.",
+        "tono": "intriga"
+      },
+      {
+        "n": 27,
+        "texto": "¿Tú habrías contado lo que oíste?",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 1,
+    "publicacion_propuesta": "2026-10-29 15:00",
+    "palabras": 239,
+    "duracion_estimada_s": 98
+  },
+  {
+    "carpeta": "02_dedos_arrugados",
+    "titulo": "Tus dedos se arrugan en el agua… y NO es por el agua",
+    "titulo_base": "Tus dedos se arrugan en el agua… y NO es por el agua",
+    "titulo_alternativa": "Si te cortan un nervio, tus dedos dejan de ARRUGARSE",
+    "tesis": "El arrugamiento de los dedos en el agua es una orden del sistema nervioso (vasoconstricción), no agua absorbida; podría mejorar el agarre en mojado.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_aitana",
+    "voice_id": "AxFLn9byyiDbMn5fmyqu",
+    "voz_nombre": "Aitana",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Fotorrealista",
+    "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+    "gancho": "Primer plano de las yemas de unos dedos muy arrugados saliendo del agua, con gotas brillando.",
+    "riesgo_monetizacion": "Ninguno. Fisiología cotidiana con estudios publicados; el debate sobre su función se presenta como abierto.",
+    "cultura_visual": "Laboratorio y vida cotidiana actual",
+    "fuentes": [
+      {
+        "dato": "Lewis y Pickering, 1935: ausencia de arrugas en dedos con nervio dañado",
+        "fuente": "Lewis y Pickering, 1935: ausencia de arrugas en dedos con nervio dañado"
+      },
+      {
+        "dato": "Changizi et al., Brain, Behavior and Evolution, 2011",
+        "fuente": "Changizi et al., Brain, Behavior and Evolution, 2011"
+      },
+      {
+        "dato": "Kareklas et al., Biology Letters, 2013 (Universidad de Newcastle)",
+        "fuente": "Kareklas et al., Biology Letters, 2013 (Universidad de Newcastle)"
+      },
+      {
+        "dato": "Haseleu et al., PLOS ONE, 2014 (no replicación)",
+        "fuente": "Haseleu et al., PLOS ONE, 2014 (no replicación)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Tus dedos no se arrugan porque absorban agua.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Se arrugan porque tu cerebro les da la orden.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Parece una tontería, pero esto lo descubrieron unos cirujanos.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "En los años treinta vieron algo raro en pacientes con un nervio de la mano cortado.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Metían la mano en agua… y esos dedos se quedaban lisos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Sin nervio, no hay arrugas.",
+        "tono": "contundente"
+      },
+      {
+        "n": 7,
+        "texto": "Así que no es la piel hinchándose como una esponja.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Es tu sistema nervioso estrechando los vasos sanguíneos de la yema.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Debajo queda menos volumen, y la superficie se pliega.",
+        "tono": "neutro"
+      },
+      {
+        "n": 10,
+        "texto": "Y aquí viene la pregunta: ¿para qué querría tu cuerpo eso?",
+        "tono": "intriga"
+      },
+      {
+        "n": 11,
+        "texto": "En dos mil once, un científico se fijó en el dibujo de las arrugas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "Parecían canales, como los surcos de un neumático.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Los neumáticos tienen surcos para agarrar en mojado.",
+        "tono": "cercano"
+      },
+      {
+        "n": 14,
+        "texto": "¿Y si tus dedos hicieran lo mismo?",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "En dos mil trece lo pusieron a prueba en una universidad británica.",
+        "tono": "neutro"
+      },
+      {
+        "n": 16,
+        "texto": "Voluntarios pasaban canicas mojadas de un recipiente a otro.",
+        "tono": "cercano"
+      },
+      {
+        "n": 17,
+        "texto": "Con los dedos arrugados, lo hacían más rápido.",
+        "tono": "contundente"
+      },
+      {
+        "n": 18,
+        "texto": "Un estudio posterior no consiguió repetir ese resultado.",
+        "tono": "neutro"
+      },
+      {
+        "n": 19,
+        "texto": "Así que el debate sigue abierto.",
+        "tono": "intriga"
+      },
+      {
+        "n": 20,
+        "texto": "Pero hay un detalle curioso: solo pasa en manos y pies.",
+        "tono": "cercano"
+      },
+      {
+        "n": 21,
+        "texto": "Justo las partes con las que agarras y pisas.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Y tarda unos cinco minutos en aparecer.",
+        "tono": "neutro"
+      },
+      {
+        "n": 23,
+        "texto": "Los médicos incluso usan esta prueba para comprobar si un nervio de la mano funciona.",
+        "tono": "cercano"
+      },
+      {
+        "n": 24,
+        "texto": "Si el dedo no se arruga en el agua, algo falla en ese nervio.",
+        "tono": "contundente"
+      },
+      {
+        "n": 25,
+        "texto": "La próxima vez que te bañes, mira tus dedos: no están mojados, están preparados.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 2,
+    "publicacion_propuesta": "2026-10-29 20:00",
+    "palabras": 249,
+    "duracion_estimada_s": 102
+  },
+  {
+    "carpeta": "03_sacudida_hipnica",
+    "titulo": "Esa SACUDIDA justo cuando te estás durmiendo tiene nombre",
+    "titulo_base": "Esa SACUDIDA justo cuando te estás durmiendo tiene nombre",
+    "titulo_alternativa": "Te caes al dormirte… y tu cuerpo da un BOTE. ¿Por qué?",
+    "tesis": "La sacudida hípnica es una contracción involuntaria en la transición vigilia-sueño; su causa no está clara y hay varias teorías.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_bosco",
+    "voice_id": "0vrPGvXHhDD3rbGURCk8",
+    "voz_nombre": "Bosco - Deep & Calm with gentle pauses",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Collage surreal",
+    "estilo": "Surreal paper collage, torn paper pieces and hand-drawn patterned cut-outs layered with depth, warm lamplight, vertical 9:16 composition",
+    "gancho": "Una persona de collage de papel cayendo en el vacío sobre una cama, con su cuerpo dando un respingo.",
+    "riesgo_monetizacion": "Ninguno. Fenómeno de sueño común; las teorías se presentan como teorías.",
+    "cultura_visual": "Dormitorio actual; un plano de primates en un árbol para la teoría evolutiva",
+    "fuentes": [
+      {
+        "dato": "American Academy of Sleep Medicine, International Classification of Sleep Disorders (sacudidas hípnicas)",
+        "fuente": "American Academy of Sleep Medicine, International Classification of Sleep Disorders (sacudidas hípnicas)"
+      },
+      {
+        "dato": "Sander et al., revisión sobre hypnic jerks (prevalencia 60–70 %)",
+        "fuente": "Sander et al., revisión sobre hypnic jerks (prevalencia 60–70 %)"
+      },
+      {
+        "dato": "Coolidge, hipótesis del reflejo arbóreo de los primates (no demostrada)",
+        "fuente": "Coolidge, hipótesis del reflejo arbóreo de los primates (no demostrada)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Te estás quedando dormido… y de repente, sientes que caes.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Das un bote en la cama y te despiertas de golpe.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Tranquilo: le pasa a casi todo el mundo.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Se llama sacudida hípnica, y hasta siete de cada diez personas la han sentido.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Ocurre justo en la frontera entre estar despierto y dormido.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "En ese momento, tu cuerpo empieza a relajar los músculos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Tu respiración baja, tu pulso baja, tu temperatura baja.",
+        "tono": "cercano"
+      },
+      {
+        "n": 8,
+        "texto": "Y una parte de tu cerebro no se entera del cambio.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "Una teoría dice que confunde esa relajación con una caída.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Y responde como si fuera real: tensando todo el cuerpo de golpe.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Por eso muchas veces viene con la sensación de tropezar o caer.",
+        "tono": "cercano"
+      },
+      {
+        "n": 12,
+        "texto": "Otra teoría es todavía más curiosa.",
+        "tono": "intriga"
+      },
+      {
+        "n": 13,
+        "texto": "Podría ser un reflejo heredado de nuestros antepasados primates.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Dormían en los árboles, y caerse podía ser mortal.",
+        "tono": "contundente"
+      },
+      {
+        "n": 15,
+        "texto": "Un tirón a tiempo te hacía agarrarte a la rama.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Es una idea atractiva, pero nadie ha podido demostrarla.",
+        "tono": "neutro"
+      },
+      {
+        "n": 17,
+        "texto": "Lo que sí se sabe es qué la hace más frecuente.",
+        "tono": "intriga"
+      },
+      {
+        "n": 18,
+        "texto": "El café, el estrés y dormir poco.",
+        "tono": "contundente"
+      },
+      {
+        "n": 19,
+        "texto": "También hacer ejercicio intenso justo antes de acostarte.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "No es peligrosa, aunque te deje el corazón a cien.",
+        "tono": "cercano"
+      },
+      {
+        "n": 21,
+        "texto": "Y hay quien, además del bote, ve un destello o siente un chispazo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 22,
+        "texto": "Los médicos la consideran algo normal del sueño, no una enfermedad.",
+        "tono": "neutro"
+      },
+      {
+        "n": 23,
+        "texto": "Solo merece consulta si es tan frecuente que no te deja dormir.",
+        "tono": "contundente"
+      },
+      {
+        "n": 24,
+        "texto": "Esta noche puede pasarte. Ahora sabes que es tu cerebro dudando si dormirse.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 3,
+    "publicacion_propuesta": "2026-10-30 15:00",
+    "palabras": 245,
+    "duracion_estimada_s": 101
+  },
+  {
+    "carpeta": "04_gacela_salta",
+    "titulo": "Esta gacela SALTA delante del guepardo en vez de huir",
+    "titulo_base": "Esta gacela SALTA delante del guepardo en vez de huir",
+    "titulo_alternativa": "Huir sería lo lógico. Esta gacela hace justo lo CONTRARIO",
+    "tesis": "El 'stotting' de la gacela de Thomson es una señal honesta de buena forma física; los guepardos persiguen menos a las gacelas que saltan.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_marina",
+    "voice_id": "GB7fZx4ubHWxbBE05abF",
+    "voz_nombre": "Marina",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Aerógrafo",
+    "estilo": "Airbrush illustration with smooth gradients, luminous saturated colours and fine painted detail, vertical 9:16 composition",
+    "gancho": "Una gacela de Thomson suspendida en el aire con las cuatro patas rígidas, y un guepardo agazapado en la hierba al fondo.",
+    "riesgo_monetizacion": "Ninguno. Comportamiento animal sin violencia mostrada; no se dibuja la caza.",
+    "cultura_visual": "Llanuras del Serengeti, Tanzania",
+    "fuentes": [
+      {
+        "dato": "FitzGibbon y Fanshawe, Behavioral Ecology and Sociobiology, 1988 (stotting y guepardos)",
+        "fuente": "FitzGibbon y Fanshawe, Behavioral Ecology and Sociobiology, 1988 (stotting y guepardos)"
+      },
+      {
+        "dato": "Caro, 'Antipredator Defenses in Birds and Mammals', 2005",
+        "fuente": "Caro, 'Antipredator Defenses in Birds and Mammals', 2005"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Un guepardo se acerca. Y esta gacela, en vez de huir, salta.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Salta con las cuatro patas rígidas, casi sin avanzar.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Parece que se esté burlando del depredador.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Es una gacela de Thomson, en las llanuras del Serengeti.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Y ese salto tiene nombre: los biólogos lo llaman stotting.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Durante años nadie entendía por qué lo hacía.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Saltar en el sitio hace perder tiempo y llama la atención.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "¿No sería mejor salir corriendo sin más?",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "La respuesta llegó en los años ochenta, observando guepardos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Dos investigadores anotaron qué gacela perseguía cada guepardo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Y los guepardos elegían, una y otra vez, a las que no saltaban.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "El salto es un mensaje: estoy en forma, no me vas a pillar.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Solo una gacela fuerte puede permitirse ese derroche de energía.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Es imposible de fingir. Y el guepardo lo sabe.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Así que prefiere ahorrar fuerzas y buscar otra presa.",
+        "tono": "contundente"
+      },
+      {
+        "n": 16,
+        "texto": "Un guepardo solo aguanta su máxima velocidad unos pocos cientos de metros.",
+        "tono": "neutro"
+      },
+      {
+        "n": 17,
+        "texto": "Si elige mal, se queda sin cena y agotado.",
+        "tono": "cercano"
+      },
+      {
+        "n": 18,
+        "texto": "Por eso, para la gacela, presumir sale más barato que correr.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Y no salta en cualquier momento: suele hacerlo cuando ya ha visto al depredador.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Es decir, el salto no es para escapar. Es para hablar.",
+        "tono": "contundente"
+      },
+      {
+        "n": 21,
+        "texto": "Le está diciendo al guepardo: te he visto, ya no me vas a sorprender.",
+        "tono": "neutro"
+      },
+      {
+        "n": 22,
+        "texto": "Y no es la única: también lo hacen otros antílopes y algunos ciervos.",
+        "tono": "cercano"
+      },
+      {
+        "n": 23,
+        "texto": "Los biólogos lo llaman una señal honesta.",
+        "tono": "contundente"
+      },
+      {
+        "n": 24,
+        "texto": "La próxima vez que veas a alguien presumir… quizá esté avisando de algo.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 4,
+    "publicacion_propuesta": "2026-10-30 20:00",
+    "palabras": 249,
+    "duracion_estimada_s": 102
+  },
+  {
+    "carpeta": "05_olas_monstruo",
+    "titulo": "Durante siglos, estas olas fueron una MENTIRA de marineros",
+    "titulo_base": "Durante siglos, estas olas fueron una MENTIRA de marineros",
+    "titulo_alternativa": "Una ola de veinticinco metros salió de la NADA en 1995",
+    "tesis": "Las olas gigantes se consideraban exageraciones hasta que la plataforma Draupner midió una de 25,6 m el 1 de enero de 1995; los satélites confirmaron que son frecuentes.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_gonzalo",
+    "voice_id": "OMWmRY8slGlr6mHJSqwy",
+    "voz_nombre": "Gonzalo - Narrador documental de España",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Fotorrealista",
+    "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+    "gancho": "Una ola gigantesca y vertical alzándose sobre una plataforma petrolífera en un mar gris y tormentoso.",
+    "riesgo_monetizacion": "Ninguno. Fenómeno natural medido; los naufragios se mencionan sin mostrar víctimas.",
+    "cultura_visual": "Mar del Norte, Noruega, 1995",
+    "fuentes": [
+      {
+        "dato": "Haver, 'A possible freak wave event measured at the Draupner jacket', 2004",
+        "fuente": "Haver, 'A possible freak wave event measured at the Draupner jacket', 2004"
+      },
+      {
+        "dato": "Agencia Espacial Europea, proyecto MaxWave (2001-2004)",
+        "fuente": "Agencia Espacial Europea, proyecto MaxWave (2001-2004)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Durante siglos, nadie creyó a los marineros.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Hablaban de olas como edificios, que salían de la nada.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Los científicos lo tenían claro: exageraciones de gente asustada.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Según sus cálculos, una ola así aparecería una vez cada diez mil años.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Hasta el uno de enero de mil novecientos noventa y cinco.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Plataforma petrolífera Draupner, en el mar del Norte.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Las olas de ese día rondaban los doce metros. Mucho, pero normal.",
+        "tono": "cercano"
+      },
+      {
+        "n": 8,
+        "texto": "Y de repente, un sensor midió una ola de veinticinco metros y medio.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "El doble que todas las de su alrededor.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Golpeó la plataforma, que por suerte resistió.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Por primera vez, una ola monstruo quedaba medida con instrumentos.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "Los marineros tenían razón desde el principio.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Años después, unos satélites europeos vigilaron los océanos durante tres semanas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Encontraron más de diez olas de más de veinticinco metros.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "No eran rarezas: estaban ahí todo el tiempo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 16,
+        "texto": "Se forman cuando varias olas coinciden y se suman en el mismo punto.",
+        "tono": "neutro"
+      },
+      {
+        "n": 17,
+        "texto": "O cuando una corriente las empuja en contra y las comprime.",
+        "tono": "cercano"
+      },
+      {
+        "n": 18,
+        "texto": "Una ola así golpea con una fuerza enorme, de muchas toneladas por metro cuadrado.",
+        "tono": "neutro"
+      },
+      {
+        "n": 19,
+        "texto": "Y los barcos se diseñaban para aguantar olas mucho más pequeñas.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Y se cree que explican barcos desaparecidos sin dejar rastro.",
+        "tono": "intriga"
+      },
+      {
+        "n": 21,
+        "texto": "Hoy los barcos y las plataformas se diseñan pensando en ellas.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "En el año dos mil, un barco científico británico registró olas de casi treinta metros cerca de Escocia.",
+        "tono": "intriga"
+      },
+      {
+        "n": 23,
+        "texto": "Y frente a la costa de Sudáfrica, una corriente muy fuerte las hace especialmente frecuentes.",
+        "tono": "neutro"
+      },
+      {
+        "n": 24,
+        "texto": "¿Cuántas historias de marineros habremos tomado por mentira?",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 5,
+    "publicacion_propuesta": "2026-10-31 15:00",
+    "palabras": 255,
+    "duracion_estimada_s": 105
+  },
+  {
+    "carpeta": "06_rascacielos_tokio",
+    "titulo": "Los rascacielos de Tokio copian un truco de templos de hace mil trescientos AÑOS",
+    "titulo_base": "Los rascacielos de Tokio copian un truco de templos de hace mil trescientos AÑOS",
+    "titulo_alternativa": "La torre más alta de Japón esconde DENTRO una pagoda",
+    "tesis": "El pilar central de las pagodas japonesas de madera, que resisten terremotos desde hace siglos, inspiró el sistema antisísmico de la Tokyo Skytree.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_eva",
+    "voice_id": "RgXx32WYOGrd7gFNifSf",
+    "voz_nombre": "Eva Dorado",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Maqueta tilt-shift",
+    "estilo": "Tilt-shift miniature photograph of a tiny handcrafted scale-model scene, shallow depth of field, bright daylight, vertical 9:16 composition",
+    "gancho": "Vista aérea en miniatura de una pagoda de madera de cinco pisos junto a una torre moderna altísima, como dos maquetas sobre la misma mesa.",
+    "riesgo_monetizacion": "Ninguno. Ingeniería y patrimonio; los terremotos se mencionan sin víctimas.",
+    "cultura_visual": "Japón: templo Horyu-ji (Nara, siglo VII) y Tokio (2012)",
+    "fuentes": [
+      {
+        "dato": "Nikken Sekkei, sistema 'shinbashira' de la Tokyo Skytree (2012)",
+        "fuente": "Nikken Sekkei, sistema 'shinbashira' de la Tokyo Skytree (2012)"
+      },
+      {
+        "dato": "UNESCO, monumentos budistas de la zona de Horyu-ji",
+        "fuente": "UNESCO, monumentos budistas de la zona de Horyu-ji"
+      },
+      {
+        "dato": "Tanabashi, estudios sobre el comportamiento sísmico de las pagodas de madera",
+        "fuente": "Tanabashi, estudios sobre el comportamiento sísmico de las pagodas de madera"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Japón sufre cientos de terremotos al año. Y sus torres siguen en pie.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Parte del secreto tiene más de mil trescientos años.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Templo de Horyu-ji, cerca de Nara.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Su pagoda de cinco pisos es toda de madera.",
+        "tono": "intriga"
+      },
+      {
+        "n": 5,
+        "texto": "Ha sobrevivido a siglos de terremotos que tiraron todo a su alrededor.",
+        "tono": "cercano"
+      },
+      {
+        "n": 6,
+        "texto": "Durante mucho tiempo nadie entendía cómo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 7,
+        "texto": "Dentro tiene un tronco enorme en el centro: el pilar del corazón.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Y lo raro es que ese pilar no sostiene los pisos.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "Cada piso se apoya sobre el de abajo, sin estar unido al pilar.",
+        "tono": "cercano"
+      },
+      {
+        "n": 10,
+        "texto": "Cuando la tierra tiembla, los pisos se mueven como una serpiente.",
+        "tono": "intriga"
+      },
+      {
+        "n": 11,
+        "texto": "Unos hacia un lado, otros hacia el contrario.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "Y el pilar central frena el balanceo para que no se descontrole.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "En vez de resistir el golpe, la torre baila con él.",
+        "tono": "cercano"
+      },
+      {
+        "n": 14,
+        "texto": "Ahora salta a dos mil doce, en Tokio.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Se inaugura la torre más alta de Japón: seiscientos treinta y cuatro metros.",
+        "tono": "neutro"
+      },
+      {
+        "n": 16,
+        "texto": "Y en su interior, los ingenieros pusieron… un pilar central.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "Es de hormigón, separado del armazón de acero exterior.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Entre los dos, amortiguadores que absorben el movimiento.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "Según sus constructores, el balanceo se reduce hasta la mitad.",
+        "tono": "intriga"
+      },
+      {
+        "n": 20,
+        "texto": "Muchos edificios modernos van además sobre apoyos gigantes de goma.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "El suelo se mueve, y el edificio casi no se entera.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Y Tokio está en una de las zonas con más terremotos del planeta.",
+        "tono": "neutro"
+      },
+      {
+        "n": 23,
+        "texto": "La tecnología más avanzada de Tokio la inventaron carpinteros hace trece siglos.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 6,
+    "publicacion_propuesta": "2026-10-31 20:00",
+    "palabras": 237,
+    "duracion_estimada_s": 97
+  },
+  {
+    "carpeta": "07_deja_vu",
+    "titulo": "El déjà vu NO es un fallo de tu memoria. Es una ALARMA",
+    "titulo_base": "El déjà vu NO es un fallo de tu memoria. Es una ALARMA",
+    "titulo_alternativa": "Ya has vivido este momento… ¿o NO?",
+    "tesis": "El déjà vu es familiaridad sin recuerdo; un experimento de 2016 sugiere que es el cerebro detectando y corrigiendo un error de memoria.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_david",
+    "voice_id": "Nh2zY9kknu6z4pZy6FhD",
+    "voz_nombre": "David Martin - Confident and Balanced",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_v4",
+    "estilo_clave": "D",
+    "estilo_nombre": "Collage surreal",
+    "estilo": "Surreal paper collage, torn paper pieces and hand-drawn patterned cut-outs layered with depth, warm lamplight, vertical 9:16 composition",
+    "gancho": "Una persona de collage frente a una puerta, y detrás de ella, la misma escena repetida como un eco de papel.",
+    "riesgo_monetizacion": "Ninguno. Psicología con estudios publicados; se descarta lo paranormal sin burlarse.",
+    "cultura_visual": "Vida cotidiana actual y laboratorio",
+    "fuentes": [
+      {
+        "dato": "Brown, 'A review of the déjà vu experience', Psychological Bulletin, 2003",
+        "fuente": "Brown, 'A review of the déjà vu experience', Psychological Bulletin, 2003"
+      },
+      {
+        "dato": "O'Connor et al., Universidad de St Andrews, presentado en 2016 (déjà vu inducido con listas de palabras)",
+        "fuente": "O'Connor et al., Universidad de St Andrews, presentado en 2016 (déjà vu inducido con listas de palabras)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Estás en un sitio nuevo… y sientes que ya has estado aquí.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Sabes que es imposible. Pero tu cerebro insiste.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Eso es el déjà vu. Dos de cada tres personas lo han sentido.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "En francés significa ya visto.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Durante años se dijo que era un recuerdo de otra vida.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "La ciencia tiene otra explicación, mucho más curiosa.",
+        "tono": "contundente"
+      },
+      {
+        "n": 7,
+        "texto": "Tu memoria tiene dos sistemas: uno recuerda, y el otro solo dice esto me suena.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Normalmente trabajan juntos.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Pero a veces, el de esto me suena se enciende solo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Sientes familiaridad… sin ningún recuerdo detrás.",
+        "tono": "contundente"
+      },
+      {
+        "n": 11,
+        "texto": "En dos mil dieciséis, un equipo escocés lo provocó en un laboratorio.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "Leían a voluntarios palabras como cama, almohada, noche o soñar.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Después les preguntaban si habían oído la palabra dormir.",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "No la habían oído. Pero muchos sentían que sí.",
+        "tono": "contundente"
+      },
+      {
+        "n": 15,
+        "texto": "Sabían que era falso… y aun así les sonaba.",
+        "tono": "neutro"
+      },
+      {
+        "n": 16,
+        "texto": "Eso es exactamente un déjà vu.",
+        "tono": "cercano"
+      },
+      {
+        "n": 17,
+        "texto": "Y al mirar su cerebro, la zona de los recuerdos no se encendía.",
+        "tono": "intriga"
+      },
+      {
+        "n": 18,
+        "texto": "Se encendía la que toma decisiones y detecta errores.",
+        "tono": "contundente"
+      },
+      {
+        "n": 19,
+        "texto": "Por eso una teoría dice que el déjà vu es una revisión.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "Tu cerebro detecta un recuerdo falso y te avisa.",
+        "tono": "cercano"
+      },
+      {
+        "n": 21,
+        "texto": "Y curiosamente, es más frecuente en gente joven y en quien viaja mucho.",
+        "tono": "intriga"
+      },
+      {
+        "n": 22,
+        "texto": "Además, se vuelve menos frecuente con la edad.",
+        "tono": "neutro"
+      },
+      {
+        "n": 23,
+        "texto": "Así que si todavía te pasa, tu cerebro sigue vigilando tus recuerdos.",
+        "tono": "contundente"
+      },
+      {
+        "n": 24,
+        "texto": "La próxima vez que lo sientas, no es magia: es tu cerebro corrigiéndose.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 7,
+    "publicacion_propuesta": "2026-11-01 15:00",
+    "palabras": 236,
+    "duracion_estimada_s": 97
+  },
+  {
+    "carpeta": "08_hipopotamo_sudor",
+    "titulo": "Los hipopótamos sudan ROJO. Y no es sangre",
+    "titulo_base": "Los hipopótamos sudan ROJO. Y no es sangre",
+    "titulo_alternativa": "El protector solar más raro de la naturaleza lo fabrica un HIPOPÓTAMO",
+    "tesis": "La secreción rojiza del hipopótamo contiene dos pigmentos que absorben la luz solar y frenan bacterias (Saikawa et al., 2004).",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_elena",
+    "voice_id": "tXgbXPnsMpKXkuTgvE3h",
+    "voz_nombre": "Elena - cuentos y narraciones",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Fotorrealista",
+    "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+    "gancho": "Un hipopótamo saliendo del río al atardecer, con la piel brillante cubierta de un líquido rojo anaranjado.",
+    "riesgo_monetizacion": "Ninguno. Biología animal; no se muestra sangre ni heridas.",
+    "cultura_visual": "Ríos de África oriental",
+    "fuentes": [
+      {
+        "dato": "Saikawa et al., 'The red sweat of the hippopotamus', Nature, 2004",
+        "fuente": "Saikawa et al., 'The red sweat of the hippopotamus', Nature, 2004"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Durante siglos se dijo que los hipopótamos sudan sangre.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y si los ves al sol, parece verdad.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Su piel se cubre de un líquido rojo, brillante y espeso.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Pero no es sangre. Y técnicamente, ni siquiera es sudor.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Los hipopótamos no tienen glándulas de sudor como las nuestras.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Ese líquido sale de unas glándulas bajo la piel.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Al principio es casi transparente.",
+        "tono": "cercano"
+      },
+      {
+        "n": 8,
+        "texto": "En pocos minutos se vuelve rojo, y después marrón.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "En dos mil cuatro, un equipo japonés descubrió por qué.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Analizaron ese líquido y encontraron dos pigmentos desconocidos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Uno rojo y otro naranja, que no se habían visto en ningún otro animal.",
+        "tono": "cercano"
+      },
+      {
+        "n": 12,
+        "texto": "Y los dos absorben la luz del sol.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Es decir: el hipopótamo fabrica su propio protector solar.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Imagina pasar el día bajo el sol de África sin pelo que te proteja.",
+        "tono": "cercano"
+      },
+      {
+        "n": 15,
+        "texto": "Por eso este líquido se extiende por todo el cuerpo, como una capa.",
+        "tono": "neutro"
+      },
+      {
+        "n": 16,
+        "texto": "Y no acaba ahí.",
+        "tono": "intriga"
+      },
+      {
+        "n": 17,
+        "texto": "El pigmento rojo también frena el crecimiento de bacterias.",
+        "tono": "contundente"
+      },
+      {
+        "n": 18,
+        "texto": "Muy útil para un animal que se pelea y vive en aguas turbias.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "Su piel es gruesa, pero se agrieta y se quema con facilidad.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "Por eso pasan el día en el agua y salen a comer de noche.",
+        "tono": "intriga"
+      },
+      {
+        "n": 21,
+        "texto": "Y si tienen que estar al sol, su piel se protege sola.",
+        "tono": "cercano"
+      },
+      {
+        "n": 22,
+        "texto": "Un hipopótamo adulto puede pesar más de una tonelada y media.",
+        "tono": "neutro"
+      },
+      {
+        "n": 23,
+        "texto": "Y aun así, tiene una de las pieles más delicadas de la sabana.",
+        "tono": "contundente"
+      },
+      {
+        "n": 24,
+        "texto": "Un animal de más de una tonelada… con crema solar de fábrica.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 8,
+    "publicacion_propuesta": "2026-11-01 20:00",
+    "palabras": 247,
+    "duracion_estimada_s": 102
+  },
+  {
+    "carpeta": "09_asteroide_peor_sitio",
+    "titulo": "El asteroide de los dinosaurios cayó en el PEOR sitio posible",
+    "titulo_base": "El asteroide de los dinosaurios cayó en el PEOR sitio posible",
+    "titulo_alternativa": "Ese asteroide tuvo la PEOR puntería de la historia",
+    "tesis": "El impacto de Chicxulub vaporizó rocas ricas en azufre e hidrocarburos; según Kaiho y Oshima (2017), solo en un 13 % de la superficie terrestre habría causado una extinción masiva.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_gabo",
+    "voice_id": "o0SveC0zgHFuCsEO3vHR",
+    "voz_nombre": "Gabo - Vibrant & Deep Documentaries",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_v4",
+    "estilo_clave": "D",
+    "estilo_nombre": "Línea de neón",
+    "estilo": "Glowing neon line art with luminous outlines on a deep night-blue background, vivid electric colours, vertical 9:16 composition",
+    "gancho": "Un asteroide incandescente a punto de tocar una costa con forma de península, vista desde el espacio, con trazos de neón.",
+    "riesgo_monetizacion": "Ninguno. Ciencia de la Tierra con estudio publicado.",
+    "cultura_visual": "Península de Yucatán hace 66 millones de años",
+    "fuentes": [
+      {
+        "dato": "Kaiho y Oshima, 'Site of asteroid impact changed the history of life on Earth', Scientific Reports, 2017",
+        "fuente": "Kaiho y Oshima, 'Site of asteroid impact changed the history of life on Earth', Scientific Reports, 2017"
+      },
+      {
+        "dato": "Schulte et al., Science, 2010 (impacto de Chicxulub)",
+        "fuente": "Schulte et al., Science, 2010 (impacto de Chicxulub)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "El asteroide que acabó con los dinosaurios tuvo una puntería terrible.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Si hubiera caído casi en cualquier otro sitio, quizá seguirían aquí.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Hace sesenta y seis millones de años, una roca enorme cayó del cielo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Medía unos diez kilómetros: más que el monte Everest.",
+        "tono": "contundente"
+      },
+      {
+        "n": 5,
+        "texto": "Cayó donde hoy está la península de Yucatán, en México.",
+        "tono": "cercano"
+      },
+      {
+        "n": 6,
+        "texto": "Y ese lugar escondía algo bajo el mar.",
+        "tono": "intriga"
+      },
+      {
+        "n": 7,
+        "texto": "Rocas cargadas de azufre y de restos de petróleo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "El impacto las vaporizó y lanzó todo eso a la atmósfera.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "Se formó una capa de hollín y gotas de ácido alrededor del planeta.",
+        "tono": "cercano"
+      },
+      {
+        "n": 10,
+        "texto": "La luz del sol casi dejó de llegar al suelo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 11,
+        "texto": "Las temperaturas cayeron en picado durante años.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "Las plantas murieron, y detrás, los animales que las comían.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "En dos mil diecisiete, dos investigadores japoneses hicieron una cuenta.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Calcularon cuánto material así había en cada rincón de la Tierra.",
+        "tono": "cercano"
+      },
+      {
+        "n": 15,
+        "texto": "Su conclusión fue escalofriante.",
+        "tono": "intriga"
+      },
+      {
+        "n": 16,
+        "texto": "Solo en un trece por ciento del planeta el impacto habría sido tan letal.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "En el resto, el golpe habría sido brutal, pero no tanto.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Es como tirar un dardo a un mapa y acertar justo en lo peor.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "Y de esa mala suerte venimos nosotros.",
+        "tono": "intriga"
+      },
+      {
+        "n": 20,
+        "texto": "Sin dinosaurios, los pequeños mamíferos tuvieron su oportunidad.",
+        "tono": "contundente"
+      },
+      {
+        "n": 21,
+        "texto": "Sobrevivieron sobre todo animales pequeños que se escondían o comían de todo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 22,
+        "texto": "Entre ellos, los antepasados de los pájaros… y los nuestros.",
+        "tono": "intriga"
+      },
+      {
+        "n": 23,
+        "texto": "¿Estaríamos aquí si esa roca hubiera caído en otro sitio?",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 9,
+    "publicacion_propuesta": "2026-11-02 15:00",
+    "palabras": 233,
+    "duracion_estimada_s": 96
+  },
+  {
+    "carpeta": "10_atapuerca_crimen",
+    "titulo": "El ASESINATO más antiguo del mundo ocurrió en España",
+    "titulo_base": "El ASESINATO más antiguo del mundo ocurrió en España",
+    "titulo_alternativa": "Un cráneo de cuatrocientos treinta mil años guarda la PRIMERA prueba de un crimen",
+    "tesis": "El cráneo 17 de la Sima de los Huesos (Atapuerca) presenta dos fracturas mortales hechas con el mismo objeto desde ángulos distintos: el caso de violencia letal más antiguo conocido (Sala et al., 2015).",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_sara",
+    "voice_id": "KHCvMklQZZo0O30ERnVn",
+    "voz_nombre": "Sara Martin 1",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Cómic de línea clara (NUEVO)",
+    "estilo": "Clean ligne-claire comic illustration, even outlines and flat soft colours, gentle and non-graphic, vertical 9:16 composition",
+    "gancho": "La entrada de una cueva en una sierra de Burgos al anochecer, con un pozo oscuro en su interior, en cómic de línea clara.",
+    "riesgo_monetizacion": "MEDIO: violencia y restos humanos. Se narra, no se dibuja: ni golpes, ni heridas, ni sangre, ni restos en primer plano. El cráneo solo como pieza de museo limpia, sin detalle de las fracturas. No programar seguido de otro short de riesgo medio.",
+    "cultura_visual": "Sierra de Atapuerca (Burgos), hace unos 430.000 años; científicos actuales",
+    "fuentes": [
+      {
+        "dato": "Sala et al., 'Lethal Interpersonal Violence in the Middle Pleistocene', PLOS ONE, 2015",
+        "fuente": "Sala et al., 'Lethal Interpersonal Violence in the Middle Pleistocene', PLOS ONE, 2015"
+      },
+      {
+        "dato": "Arsuaga et al., Science, 2014 (Sima de los Huesos)",
+        "fuente": "Arsuaga et al., Science, 2014 (Sima de los Huesos)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "El crimen más antiguo del que hay pruebas no ocurrió lejos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Ocurrió en Burgos, hace unos cuatrocientos treinta mil años.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Sierra de Atapuerca. Al fondo de una cueva hay un pozo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Un pozo vertical de trece metros.",
+        "tono": "contundente"
+      },
+      {
+        "n": 5,
+        "texto": "Lo llaman la Sima de los Huesos.",
+        "tono": "cercano"
+      },
+      {
+        "n": 6,
+        "texto": "Allí aparecieron restos de al menos veintiocho personas.",
+        "tono": "intriga"
+      },
+      {
+        "n": 7,
+        "texto": "No eran como nosotros: eran parientes antiguos de los neandertales.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Y entre los fragmentos, un cráneo reconstruido pieza a pieza: el diecisiete.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "En la frente tenía dos agujeros, uno al lado del otro.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Los investigadores los estudiaron con escáneres y modelos en tres dimensiones.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Primero descartaron una caída: no encajaba.",
+        "tono": "cercano"
+      },
+      {
+        "n": 12,
+        "texto": "Los dos golpes los dio el mismo objeto, con la misma forma.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Pero llegaron desde ángulos distintos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "Es decir: no fue un accidente. Alguien golpeó dos veces.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "Y cualquiera de los dos golpes habría sido mortal.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Después, el cuerpo acabó en el fondo del pozo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 17,
+        "texto": "Es el caso de violencia mortal entre humanos más antiguo que se conoce.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Para algunos expertos, eso apunta a algo todavía más sorprendente.",
+        "tono": "contundente"
+      },
+      {
+        "n": 19,
+        "texto": "Que esos humanos ya llevaban a sus muertos a un lugar concreto.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "Violencia y cuidado de los muertos, en la misma historia.",
+        "tono": "cercano"
+      },
+      {
+        "n": 21,
+        "texto": "El estudio se publicó en dos mil quince y dio la vuelta al mundo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 22,
+        "texto": "La sima se sigue excavando cada verano, y siguen apareciendo fragmentos.",
+        "tono": "cercano"
+      },
+      {
+        "n": 23,
+        "texto": "Atapuerca es hoy Patrimonio de la Humanidad.",
+        "tono": "contundente"
+      },
+      {
+        "n": 24,
+        "texto": "Cuatrocientos treinta mil años después… ¿quién lo hizo, y por qué?",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 10,
+    "publicacion_propuesta": "2026-11-02 20:00",
+    "palabras": 235,
+    "duracion_estimada_s": 97
+  },
+  {
+    "carpeta": "11_piel_de_gallina",
+    "titulo": "La piel de gallina es un RESTO de cuando tenías pelo",
+    "titulo_base": "La piel de gallina es un RESTO de cuando tenías pelo",
+    "titulo_alternativa": "Se te pone la piel de gallina… y no sirve para NADA. ¿O sí?",
+    "tesis": "La piel de gallina es la contracción de los músculos que erizan el vello, útil en mamíferos peludos y casi vestigial en humanos; en ratones esos nervios también activan el crecimiento del pelo (2020).",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_mario",
+    "voice_id": "OjrdP8Z2fWjVyt0scrL7",
+    "voz_nombre": "Mario Pro - Warm Narrations",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Aerógrafo",
+    "estilo": "Airbrush illustration with smooth gradients, luminous saturated colours and fine painted detail, vertical 9:16 composition",
+    "gancho": "Un antebrazo humano con la piel de gallina en primer plano y, detrás, la silueta luminosa de un gato con todo el pelo erizado.",
+    "riesgo_monetizacion": "Ninguno. Biología cotidiana.",
+    "cultura_visual": "Actual; animales (gato, chimpancé) como comparación",
+    "fuentes": [
+      {
+        "dato": "Shwartz et al. (laboratorio de Ya-Chieh Hsu, Harvard), Cell, 2020",
+        "fuente": "Shwartz et al. (laboratorio de Ya-Chieh Hsu, Harvard), Cell, 2020"
+      },
+      {
+        "dato": "Darwin, 'La expresión de las emociones en el hombre y los animales', 1872",
+        "fuente": "Darwin, 'La expresión de las emociones en el hombre y los animales', 1872"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Se te pone la piel de gallina, y tu cuerpo intenta algo imposible.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Intenta erizar un pelaje que ya no tienes.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Cada pelo de tu cuerpo tiene pegado un músculo diminuto.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Cuando hace frío o te asustas, ese músculo se contrae.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "El pelo se pone de punta, y la piel de alrededor hace un bultito.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Por eso parece la piel de un pollo desplumado.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "En un gato o un chimpancé, eso tiene mucho sentido.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "El pelo erizado atrapa aire caliente, como un abrigo.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Y además hace que el animal parezca más grande.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Un gato asustado se hincha para intimidar al perro.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Nosotros perdimos casi todo ese pelaje hace muchísimo tiempo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "Pero el reflejo se quedó, como un botón que ya no está conectado a nada.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "¿Seguro que no sirve para nada?",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "En dos mil veinte, un equipo de Harvard encontró una pista.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "Los nervios que activan la piel de gallina también despiertan a las células que fabrican el pelo.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Con frío durante mucho tiempo, eso ayuda a que crezca más pelo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "Al menos en ratones, que es donde lo estudiaron.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Y luego está lo más raro: que se nos ponga con una canción.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Una emoción fuerte activa el mismo sistema que el miedo o el frío.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Hay incluso personas que pueden provocarse la piel de gallina a voluntad.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "Son muy pocas, y la ciencia apenas ha empezado a estudiarlas.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Tu cuerpo, emocionado, intenta abrigarte… de una canción.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 11,
+    "publicacion_propuesta": "2026-11-03 15:00",
+    "palabras": 237,
+    "duracion_estimada_s": 97
+  },
+  {
+    "carpeta": "12_paralisis_sueno",
+    "titulo": "Despiertas y NO puedes moverte. Y sientes a alguien en la habitación",
+    "titulo_base": "Despiertas y NO puedes moverte. Y sientes a alguien en la habitación",
+    "titulo_alternativa": "La parálisis del sueño explica siglos de DEMONIOS nocturnos",
+    "tesis": "En la parálisis del sueño la persona despierta mientras sigue activa la parálisis muscular del sueño REM; el cerebro mezcla sueño y realidad, lo que explica leyendas de presencias nocturnas.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_aitana",
+    "voice_id": "AxFLn9byyiDbMn5fmyqu",
+    "voz_nombre": "Aitana",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Collage surreal",
+    "estilo": "Surreal paper collage, torn paper pieces and hand-drawn patterned cut-outs layered with depth, warm lamplight, vertical 9:16 composition",
+    "gancho": "Una figura de collage tumbada en la cama con los ojos muy abiertos, y en la penumbra del cuarto una silueta de papel recortado.",
+    "riesgo_monetizacion": "Ninguno. Trastorno del sueño benigno explicado con rigor; la figura nocturna se muestra como silueta abstracta, sin horror gráfico.",
+    "cultura_visual": "Dormitorio actual; un plano del cuadro 'La pesadilla' (1781) reinterpretado en collage",
+    "fuentes": [
+      {
+        "dato": "Sharpless y Barber, Sleep Medicine Reviews, 2011 (prevalencia 7,6 %)",
+        "fuente": "Sharpless y Barber, Sleep Medicine Reviews, 2011 (prevalencia 7,6 %)"
+      },
+      {
+        "dato": "Henry Fuseli, 'La pesadilla', 1781",
+        "fuente": "Henry Fuseli, 'La pesadilla', 1781"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Abres los ojos. Estás despierto. Pero no puedes moverte.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y sientes que hay alguien más en la habitación.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Le ocurre a casi una de cada diez personas.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Se llama parálisis del sueño.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Y para entenderla hay que saber lo que haces cada noche.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Cuando sueñas con intensidad, tu cerebro desconecta casi todos tus músculos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Es una protección: así no corres ni das golpes mientras sueñas.",
+        "tono": "cercano"
+      },
+      {
+        "n": 8,
+        "texto": "El problema llega cuando despiertas antes de tiempo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "Tu mente ya está despierta… pero tu cuerpo sigue apagado.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Y una parte del sueño se cuela en la realidad.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Por eso muchos ven sombras, oyen pasos o sienten un peso en el pecho.",
+        "tono": "cercano"
+      },
+      {
+        "n": 12,
+        "texto": "El miedo es real, aunque la figura no lo sea.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Durante siglos, esto tuvo otra explicación.",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "En la Europa antigua se hablaba de demonios que se sentaban sobre el pecho.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "Hay incluso un cuadro famoso de mil setecientos ochenta y uno que lo pinta.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Culturas de todo el mundo describen casi la misma escena.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "Y la ciencia cree que muchas de esas leyendas nacieron así.",
+        "tono": "intriga"
+      },
+      {
+        "n": 18,
+        "texto": "Suele durar segundos, como mucho un par de minutos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 19,
+        "texto": "Dormir poco, el estrés o dormir boca arriba la hacen más probable.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Y no es peligrosa, aunque lo parezca.",
+        "tono": "contundente"
+      },
+      {
+        "n": 21,
+        "texto": "Hay un truco que ayuda: intentar mover solo un dedo del pie, o los ojos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 22,
+        "texto": "Ese pequeño movimiento puede ayudar a que el resto del cuerpo despierte.",
+        "tono": "cercano"
+      },
+      {
+        "n": 23,
+        "texto": "Si alguna vez te pasa, recuerda: es tu cuerpo, que todavía no se ha despertado.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 12,
+    "publicacion_propuesta": "2026-11-03 20:00",
+    "palabras": 242,
+    "duracion_estimada_s": 99
+  },
+  {
+    "carpeta": "13_lago_natron",
+    "titulo": "El lago que convierte a los animales en PIEDRA… o eso parece",
+    "titulo_base": "El lago que convierte a los animales en PIEDRA… o eso parece",
+    "titulo_alternativa": "En la orilla de este lago aparecen pájaros CALCIFICADOS",
+    "tesis": "El lago Natron (Tanzania) es tan alcalino y caliente que conserva a los animales que mueren en él; aun así es el principal criadero de flamencos enanos.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_gustavo",
+    "voice_id": "7VFd9FBQdbWuk8tIOYz4",
+    "voz_nombre": "Gustavo - Spanish calm narrator",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Fotorrealista",
+    "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+    "gancho": "Un lago rojo intenso visto desde el aire con una costra blanca de sal, y miles de flamencos rosas en la orilla.",
+    "riesgo_monetizacion": "Bajo. Aves conservadas mostradas como figuras blancas de sal, sin sangre ni descomposición; el resto es naturaleza.",
+    "cultura_visual": "Lago Natron, norte de Tanzania",
+    "fuentes": [
+      {
+        "dato": "Nick Brandt, 'Across the Ravaged Land', 2013",
+        "fuente": "Nick Brandt, 'Across the Ravaged Land', 2013"
+      },
+      {
+        "dato": "BirdLife International, lago Natron como zona de cría del flamenco enano",
+        "fuente": "BirdLife International, lago Natron como zona de cría del flamenco enano"
+      },
+      {
+        "dato": "Datos limnológicos: pH de hasta 10,5 y temperaturas del agua por encima de 40 ºC",
+        "fuente": "Datos limnológicos: pH de hasta 10,5 y temperaturas del agua por encima de 40 ºC"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Hay un lago en África donde los animales parecen convertirse en estatuas.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Pájaros enteros, blancos y rígidos, como si fueran de piedra.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Es el lago Natron, en el norte de Tanzania.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Las fotos dieron la vuelta al mundo en dos mil trece.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "Pero la historia real es menos mágica… y más extraña.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "El agua de este lago es tremendamente alcalina, casi como la lejía.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Y puede superar los cuarenta grados de temperatura.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "Llega cargada de un mineral de los volcanes cercanos: el natrón.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "El mismo mineral que se usaba para conservar momias.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Así que el lago no convierte nada en piedra al instante.",
+        "tono": "contundente"
+      },
+      {
+        "n": 11,
+        "texto": "Los animales que mueren en él quedan conservados por las sales.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "El fotógrafo los encontró en la orilla y los colocó para retratarlos.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Ahora viene lo increíble.",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "Este lago casi sin vida es la gran guardería de los flamencos.",
+        "tono": "contundente"
+      },
+      {
+        "n": 15,
+        "texto": "Allí nacen la mayoría de los flamencos enanos del planeta.",
+        "tono": "neutro"
+      },
+      {
+        "n": 16,
+        "texto": "Anidan en islas de sal donde casi ningún depredador se atreve a entrar.",
+        "tono": "cercano"
+      },
+      {
+        "n": 17,
+        "texto": "Lo que mata a otros animales, a ellos los protege.",
+        "tono": "intriga"
+      },
+      {
+        "n": 18,
+        "texto": "Sus patas tienen una piel dura que aguanta el agua cáustica.",
+        "tono": "neutro"
+      },
+      {
+        "n": 19,
+        "texto": "Y comen unas diminutas algas que solo prosperan en aguas así.",
+        "tono": "contundente"
+      },
+      {
+        "n": 20,
+        "texto": "Esas algas son las que les dan su color rosa.",
+        "tono": "cercano"
+      },
+      {
+        "n": 21,
+        "texto": "En los mejores años, cientos de miles de parejas de flamencos crían allí a la vez.",
+        "tono": "intriga"
+      },
+      {
+        "n": 22,
+        "texto": "Y visto desde el aire, el lago se tiñe de rojo por los microbios que viven en su sal.",
+        "tono": "neutro"
+      },
+      {
+        "n": 23,
+        "texto": "El lago más hostil de África… mantiene vivos a millones de flamencos.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 13,
+    "publicacion_propuesta": "2026-11-04 15:00",
+    "palabras": 254,
+    "duracion_estimada_s": 104
+  },
+  {
+    "carpeta": "14_aviones_curva",
+    "titulo": "Los aviones NO vuelan en línea recta. Y es la ruta más corta",
+    "titulo_base": "Los aviones NO vuelan en línea recta. Y es la ruta más corta",
+    "titulo_alternativa": "Por qué la ruta de tu avión parece un RODEO en el mapa",
+    "tesis": "La ruta más corta entre dos puntos de una esfera es un arco de círculo máximo; el mapa plano lo deforma y lo hace parecer un rodeo.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_marina",
+    "voice_id": "GB7fZx4ubHWxbBE05abF",
+    "voz_nombre": "Marina",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Maqueta tilt-shift",
+    "estilo": "Tilt-shift miniature photograph of a tiny handcrafted scale-model scene, shallow depth of field, bright daylight, vertical 9:16 composition",
+    "gancho": "Un avión en miniatura volando sobre un globo terráqueo de maqueta, siguiendo un hilo curvo tendido entre dos ciudades.",
+    "riesgo_monetizacion": "Ninguno.",
+    "cultura_visual": "Actual; aviación y cartografía",
+    "fuentes": [
+      {
+        "dato": "Geodesia básica: ortodrómica o ruta de círculo máximo",
+        "fuente": "Geodesia básica: ortodrómica o ruta de círculo máximo"
+      },
+      {
+        "dato": "Proyección de Mercator (1569) y su deformación de superficies",
+        "fuente": "Proyección de Mercator (1569) y su deformación de superficies"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "En el mapa, la ruta de tu avión parece un rodeo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Pero en realidad está tomando el camino más corto.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "El que engaña no es el piloto. Es el mapa.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "La Tierra es una esfera, y los mapas son planos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Y aplanar una esfera sin deformarla es imposible.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "El mapa que todos conocemos estira muchísimo las zonas del norte y del sur.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Groenlandia parece casi tan grande como África.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "En realidad, África es unas catorce veces más grande.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Con las distancias pasa lo mismo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Coge un globo terráqueo y estira un hilo entre dos ciudades.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "El hilo no sigue la línea recta del mapa: se curva hacia el norte.",
+        "tono": "cercano"
+      },
+      {
+        "n": 12,
+        "texto": "Ese arco es la distancia más corta entre dos puntos de una esfera.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Se llama ruta de círculo máximo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Por eso un vuelo de Europa a California sobrevuela Canadá, y a veces Groenlandia.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "En el mapa parece absurdo. En el globo, es lo lógico.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Y el ahorro es enorme: cientos de kilómetros y toneladas de combustible.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "Aun así, los pilotos no siempre siguen el arco perfecto.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Los vientos de gran altura pueden empujarlos o frenarlos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "A veces, un pequeño rodeo con viento a favor llega antes.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Los marinos lo sabían desde hace siglos, y trazaban sus rutas largas con la misma idea.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "Lo que funciona en el mar funciona también en el aire.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "La próxima vez que mires la pantalla del avión, piensa: el mapa te está mintiendo.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 14,
+    "publicacion_propuesta": "2026-11-04 20:00",
+    "palabras": 237,
+    "duracion_estimada_s": 97
+  },
+  {
+    "carpeta": "15_nombre_en_el_ruido",
+    "titulo": "Por qué oyes tu NOMBRE en medio de una fiesta llena de ruido",
+    "titulo_base": "Por qué oyes tu NOMBRE en medio de una fiesta llena de ruido",
+    "titulo_alternativa": "Tu cerebro escucha conversaciones que tú NO estás escuchando",
+    "tesis": "El efecto cóctel muestra que el cerebro sigue procesando lo que ignoramos; en 1959, uno de cada tres voluntarios detectó su propio nombre en el canal ignorado.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_salva",
+    "voice_id": "hyKxCTlAqtnW188CgltM",
+    "voz_nombre": "Salva - The Spanish Voice",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Acuarela suelta (NUEVO)",
+    "estilo": "Loose watercolour illustration with soft bleeding colours on textured paper, vertical 9:16 composition",
+    "gancho": "Una sala de fiesta en acuarela llena de gente borrosa, y una sola persona nítida que gira la cabeza de golpe.",
+    "riesgo_monetizacion": "Ninguno.",
+    "cultura_visual": "Fiesta actual; laboratorio británico de los años cincuenta",
+    "fuentes": [
+      {
+        "dato": "Cherry, Journal of the Acoustical Society of America, 1953",
+        "fuente": "Cherry, Journal of the Acoustical Society of America, 1953"
+      },
+      {
+        "dato": "Moray, Quarterly Journal of Experimental Psychology, 1959",
+        "fuente": "Moray, Quarterly Journal of Experimental Psychology, 1959"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Estás en una fiesta, con música, voces y ruido por todas partes.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y al otro lado de la sala, alguien dice tu nombre.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Lo oyes al instante, aunque no estabas escuchando esa conversación.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Se llama el efecto cóctel.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Y demuestra que tu cerebro escucha mucho más de lo que crees.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "En mil novecientos cincuenta y tres, un científico británico lo puso a prueba.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Ponía auriculares a voluntarios, con un mensaje distinto en cada oído.",
+        "tono": "cercano"
+      },
+      {
+        "n": 8,
+        "texto": "Les pedía repetir solo uno de ellos, en voz alta.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "Luego les preguntaba por el otro. Casi no recordaban nada.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Ni siquiera notaban si cambiaba de idioma.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Parecía que el oído ignorado estaba desconectado.",
+        "tono": "cercano"
+      },
+      {
+        "n": 12,
+        "texto": "Pero unos años después llegó la sorpresa.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Otro investigador metió el nombre de cada voluntario en ese oído ignorado.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Y uno de cada tres lo detectó al momento.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Tu cerebro no apaga lo que no escuchas. Lo vigila en segundo plano.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Y tu nombre es una de las palabras con más prioridad.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "Se cree que es un sistema de alerta muy antiguo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Si alguien te llama, puede ser importante. O peligroso.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Por eso a veces crees oír tu nombre… y no te ha llamado nadie.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Se ha visto incluso en bebés de pocos meses, que ya reaccionan a su nombre.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "Es de lo primero que aprendemos a reconocer.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Antes incluso de entender lo que significa.",
+        "tono": "cercano"
+      },
+      {
+        "n": 23,
+        "texto": "Tu cerebro prefiere una falsa alarma a perderse que alguien te llame.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 15,
+    "publicacion_propuesta": "2026-11-05 15:00",
+    "palabras": 235,
+    "duracion_estimada_s": 97
+  },
+  {
+    "carpeta": "16_gorila_espalda_plateada",
+    "titulo": "Casi NINGÚN depredador se atreve con un gorila espalda plateada",
+    "titulo_base": "Casi NINGÚN depredador se atreve con un gorila espalda plateada",
+    "titulo_alternativa": "El animal más temido de la selva… es casi siempre PACÍFICO",
+    "tesis": "El gorila espalda plateada casi no tiene depredadores; su exhibición (golpearse el pecho) disuade sin pelear y, según un estudio de 2021, revela su tamaño. Su gran amenaza son los humanos.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_eva",
+    "voice_id": "RgXx32WYOGrd7gFNifSf",
+    "voz_nombre": "Eva Dorado",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Aerógrafo",
+    "estilo": "Airbrush illustration with smooth gradients, luminous saturated colours and fine painted detail, vertical 9:16 composition",
+    "gancho": "Un enorme gorila espalda plateada de pie golpeándose el pecho en un claro de selva con luz entre la niebla.",
+    "riesgo_monetizacion": "Ninguno. Comportamiento animal sin violencia mostrada.",
+    "cultura_visual": "Montañas Virunga, Ruanda",
+    "fuentes": [
+      {
+        "dato": "Wright et al., 'Chest beats as an honest signal of body size in male mountain gorillas', Scientific Reports, 2021",
+        "fuente": "Wright et al., 'Chest beats as an honest signal of body size in male mountain gorillas', Scientific Reports, 2021"
+      },
+      {
+        "dato": "UICN, Lista Roja: gorila de montaña",
+        "fuente": "UICN, Lista Roja: gorila de montaña"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "En la selva hay un animal al que casi nadie ataca.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y lo curioso es que casi nunca busca pelea.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Es el gorila macho adulto: el espalda plateada.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Ese nombre viene del pelo gris que le sale en la espalda al madurar.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "Puede pesar cerca de doscientos kilos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Y su fuerza supera con mucho a la de cualquier persona.",
+        "tono": "contundente"
+      },
+      {
+        "n": 7,
+        "texto": "Solo el leopardo se atreve, muy de vez en cuando, con un gorila.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Y casi siempre con jóvenes o hembras, no con el gran macho.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Entonces, ¿por qué es tan temido si es tan pacífico?",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Porque su mejor arma no es pelear. Es convencerte de que ni lo intentes.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Se pone de pie, ruge y se golpea el pecho.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "Ese golpeteo se oye a casi un kilómetro.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "En dos mil veintiuno, unos científicos lo grabaron en Ruanda.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Descubrieron que el sonido revela su tamaño.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Cuanto más grande es el gorila, más grave suena su pecho.",
+        "tono": "contundente"
+      },
+      {
+        "n": 16,
+        "texto": "Es un aviso: mira lo grande que soy, no te compensa.",
+        "tono": "cercano"
+      },
+      {
+        "n": 17,
+        "texto": "Muchas de sus cargas son un farol: frena justo antes del choque.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Su grupo puede tener una decena de miembros, y él los protege a todos.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "El resto del tiempo come hojas y cuida de su grupo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 20,
+        "texto": "Su verdadero enemigo no está en la selva.",
+        "tono": "contundente"
+      },
+      {
+        "n": 21,
+        "texto": "Del gorila de montaña quedan poco más de mil ejemplares.",
+        "tono": "cercano"
+      },
+      {
+        "n": 22,
+        "texto": "Y su número ha empezado a crecer gracias a su protección.",
+        "tono": "contundente"
+      },
+      {
+        "n": 23,
+        "texto": "Somos nosotros: la caza y nuestras enfermedades son su mayor peligro.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 16,
+    "publicacion_propuesta": "2026-11-05 20:00",
+    "palabras": 242,
+    "duracion_estimada_s": 99
+  },
+  {
+    "carpeta": "17_ciervos_terciopelo",
+    "titulo": "Por qué los ciervos se ARRANCAN la piel de los cuernos",
+    "titulo_base": "Por qué los ciervos se ARRANCAN la piel de los cuernos",
+    "titulo_alternativa": "El hueso que crece más rápido está en la cabeza de un CIERVO",
+    "tesis": "Las astas son hueso que se renueva cada año, creciendo cubiertas de 'terciopelo' vascularizado; al final del verano el terciopelo se seca y el ciervo lo frota contra los árboles.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_juancarlos",
+    "voice_id": "OWV3obHD4FHDI1Sj2nGy",
+    "voz_nombre": "Juan Carlos - Documentary",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Fotorrealista",
+    "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+    "gancho": "Un ciervo en un bosque al amanecer frotando sus astas contra un tronco, con jirones de piel aterciopelada colgando, sin sangre.",
+    "riesgo_monetizacion": "Ninguno si no se muestra sangre: el terciopelo se ve seco y colgando.",
+    "cultura_visual": "Bosque europeo, finales de verano",
+    "fuentes": [
+      {
+        "dato": "Goss, 'Deer Antlers: Regeneration, Function and Evolution', 1983",
+        "fuente": "Goss, 'Deer Antlers: Regeneration, Function and Evolution', 1983"
+      },
+      {
+        "dato": "Price y Allen, 'Exploring the mechanisms regulating regeneration of deer antlers', Phil. Trans. R. Soc. B, 2004",
+        "fuente": "Price y Allen, 'Exploring the mechanisms regulating regeneration of deer antlers', Phil. Trans. R. Soc. B, 2004"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Cada final de verano, los ciervos se arrancan la piel de los cuernos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y lo hacen frotándose contra los árboles, durante horas.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Parece una tortura. Pero es justo lo contrario.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Las astas de un ciervo son de hueso, y se le caen cada año.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Sí: cada primavera le vuelven a crecer enteras.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Y crecen rapidísimo: hasta dos centímetros en un solo día.",
+        "tono": "contundente"
+      },
+      {
+        "n": 7,
+        "texto": "Es uno de los tejidos que más rápido crecen de todo el reino animal.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Para conseguirlo, necesitan mucha sangre.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Un ciervo grande puede fabricar varios kilos de hueso nuevo cada año.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Por eso, mientras crecen, van cubiertas de una piel especial.",
+        "tono": "cercano"
+      },
+      {
+        "n": 11,
+        "texto": "Se llama terciopelo, porque es suave y tiene pelito.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "Está llena de vasos sanguíneos que alimentan el hueso.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Mientras tiene terciopelo, el asta está viva y es sensible.",
+        "tono": "cercano"
+      },
+      {
+        "n": 14,
+        "texto": "Al final del verano, todo cambia.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Sube la testosterona por la época de celo, y el hueso se endurece.",
+        "tono": "neutro"
+      },
+      {
+        "n": 16,
+        "texto": "La sangre deja de llegar, y el terciopelo se seca.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "Ya no sirve para nada, y seguramente pica.",
+        "tono": "cercano"
+      },
+      {
+        "n": 18,
+        "texto": "Así que el ciervo se lo quita contra troncos y ramas.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Debajo queda el asta dura, lista para los combates del celo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "Unos meses después, esas astas se le caerán solas.",
+        "tono": "contundente"
+      },
+      {
+        "n": 21,
+        "texto": "Con los años, las astas suelen salir más grandes y con más puntas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 22,
+        "texto": "Hasta que el ciervo envejece, y empiezan a menguar.",
+        "tono": "cercano"
+      },
+      {
+        "n": 23,
+        "texto": "Y en primavera, el ciervo empezará a construirlas otra vez desde cero.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 17,
+    "publicacion_propuesta": "2026-11-06 15:00",
+    "palabras": 233,
+    "duracion_estimada_s": 96
+  },
+  {
+    "carpeta": "18_antipodas_espana",
+    "titulo": "Si cavas un agujero desde España, NO sales en China",
+    "titulo_base": "Si cavas un agujero desde España, NO sales en China",
+    "titulo_alternativa": "El agujero más profundo jamás hecho no llegó ni al UNO por ciento del camino",
+    "tesis": "Las antípodas de España están en Nueva Zelanda; atravesar el planeta es imposible (el pozo de Kola llegó a 12 km); caer por un túnel ideal duraría unos 42 minutos.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_elena",
+    "voice_id": "tXgbXPnsMpKXkuTgvE3h",
+    "voz_nombre": "Elena - cuentos y narraciones",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Línea de neón",
+    "estilo": "Glowing neon line art with luminous outlines on a deep night-blue background, vivid electric colours, vertical 9:16 composition",
+    "gancho": "Un corte del planeta Tierra en líneas de neón con un túnel recto que lo atraviesa de España a Nueva Zelanda.",
+    "riesgo_monetizacion": "Ninguno.",
+    "cultura_visual": "Geografía; pozo superprofundo de Kola (URSS, 1970-1989)",
+    "fuentes": [
+      {
+        "dato": "Cálculo de antípodas: España ↔ Nueva Zelanda",
+        "fuente": "Cálculo de antípodas: España ↔ Nueva Zelanda"
+      },
+      {
+        "dato": "Pozo superprofundo de Kola: 12.262 m (1989)",
+        "fuente": "Pozo superprofundo de Kola: 12.262 m (1989)"
+      },
+      {
+        "dato": "Klotz, 'The gravity tunnel in a non-uniform Earth', American Journal of Physics, 2015 (unos 38–42 min)",
+        "fuente": "Klotz, 'The gravity tunnel in a non-uniform Earth', American Journal of Physics, 2015 (unos 38–42 min)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Si cavaras un agujero recto desde España, no saldrías en China.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Saldrías en Nueva Zelanda.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Es el punto justo al otro lado del planeta: tus antípodas.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "España y Nueva Zelanda son de los pocos lugares con tierra firme en ambos extremos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Pero llegar allí es otra historia.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Tendrías que atravesar unos doce mil setecientos kilómetros de planeta.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Y en el centro, la temperatura ronda los cinco mil quinientos grados.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "Tanto como la superficie del Sol.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "¿Hasta dónde ha llegado el ser humano?",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "En la península de Kola, en el norte de Rusia, los soviéticos cavaron durante veinte años.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Llegaron a algo más de doce kilómetros. El agujero más profundo de la historia.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "Allí abajo, la roca estaba a unos ciento ochenta grados.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Y aun así, no recorrieron ni el uno por ciento del camino al centro.",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "Hoy ese agujero está cerrado con una tapa de metal oxidada.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "Y la mayor parte de la Tierra ni siquiera tiene tierra en sus antípodas.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Si cavas desde casi cualquier punto, sales en medio del océano.",
+        "tono": "neutro"
+      },
+      {
+        "n": 17,
+        "texto": "Ahora imagina un túnel perfecto, hasta Nueva Zelanda.",
+        "tono": "contundente"
+      },
+      {
+        "n": 18,
+        "texto": "Si saltaras dentro, caerías cada vez más rápido hasta el centro de la Tierra.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "Y luego frenarías poco a poco al subir por el otro lado.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "El viaje entero duraría unos cuarenta minutos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 21,
+        "texto": "Al llegar arriba, te quedarías quieto un instante.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Sería un columpio perfecto atravesando el planeta.",
+        "tono": "intriga"
+      },
+      {
+        "n": 23,
+        "texto": "Y si nadie te agarra… volverías a caer hasta España.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 18,
+    "publicacion_propuesta": "2026-11-06 20:00",
+    "palabras": 238,
+    "duracion_estimada_s": 98
+  },
+  {
+    "carpeta": "19_hipertimesia",
+    "titulo": "Esta mujer NO puede olvidar ningún día de su vida",
+    "titulo_base": "Esta mujer NO puede olvidar ningún día de su vida",
+    "titulo_alternativa": "Recuerda qué hizo un martes de hace treinta años. Y no es un DON",
+    "tesis": "La hipertimesia (memoria autobiográfica muy superior) se describió en 2006 con el caso de Jill Price; recuerda cada día de su vida pero no memoriza mejor otras cosas, y lo vive como una carga.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_bosco",
+    "voice_id": "0vrPGvXHhDD3rbGURCk8",
+    "voz_nombre": "Bosco - Deep & Calm with gentle pauses",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Collage surreal",
+    "estilo": "Surreal paper collage, torn paper pieces and hand-drawn patterned cut-outs layered with depth, warm lamplight, vertical 9:16 composition",
+    "gancho": "Una mujer de collage rodeada de cientos de hojas de calendario de papel que vuelan a su alrededor.",
+    "riesgo_monetizacion": "Ninguno. Persona real: no se reproduce su cara; figura de collage genérica, sin parecido.",
+    "cultura_visual": "Estados Unidos, actualidad",
+    "fuentes": [
+      {
+        "dato": "Parker, Cahill y McGaugh, 'A case of unusual autobiographical remembering', Neurocase, 2006",
+        "fuente": "Parker, Cahill y McGaugh, 'A case of unusual autobiographical remembering', Neurocase, 2006"
+      },
+      {
+        "dato": "Price, 'The Woman Who Can't Forget', 2008",
+        "fuente": "Price, 'The Woman Who Can't Forget', 2008"
+      },
+      {
+        "dato": "LePort et al., Neurobiology of Learning and Memory, 2012",
+        "fuente": "LePort et al., Neurobiology of Learning and Memory, 2012"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Dile una fecha cualquiera, y te dirá qué hizo ese día.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Qué día de la semana era, qué comió y qué noticias salían.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Se llama Jill Price, y vive en Estados Unidos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "En el año dos mil escribió a un experto en memoria.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "Le contó que no podía dejar de recordar.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Él no se lo creyó, y la puso a prueba durante años.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Ella acertaba casi siempre.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "En dos mil seis publicaron su caso, el primero descrito de este tipo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 9,
+        "texto": "Lo llamaron hipertimesia: una memoria autobiográfica extraordinaria.",
+        "tono": "cercano"
+      },
+      {
+        "n": 10,
+        "texto": "Pero aquí viene lo inesperado.",
+        "tono": "intriga"
+      },
+      {
+        "n": 11,
+        "texto": "Si le dicen un año, recuerda casi cualquier día de él.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "En el colegio no era especialmente buena estudiante.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Solo recuerda su propia vida. Día a día, sin pausa.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Y eso no siempre es un regalo.",
+        "tono": "cercano"
+      },
+      {
+        "n": 15,
+        "texto": "Los malos momentos tampoco se borran.",
+        "tono": "intriga"
+      },
+      {
+        "n": 16,
+        "texto": "Ella lo describió como una película que no se detiene nunca.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "Desde entonces se han identificado unas pocas decenas de personas así.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Entre ellos hay una actriz estadounidense muy conocida.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "Sus cerebros muestran diferencias en zonas ligadas a la memoria.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "Y muchos comparten una costumbre: repasan su pasado una y otra vez.",
+        "tono": "intriga"
+      },
+      {
+        "n": 21,
+        "texto": "Para el resto de nosotros, olvidar no es un fallo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 22,
+        "texto": "Es lo que nos permite seguir adelante.",
+        "tono": "contundente"
+      },
+      {
+        "n": 23,
+        "texto": "Lo extraño es que no usan ningún truco de memoria.",
+        "tono": "intriga"
+      },
+      {
+        "n": 24,
+        "texto": "Simplemente, sus recuerdos no se apagan.",
+        "tono": "neutro"
+      },
+      {
+        "n": 25,
+        "texto": "Ella ha contado que su memoria es a la vez un regalo y una carga.",
+        "tono": "cercano"
+      },
+      {
+        "n": 26,
+        "texto": "¿Te gustaría recordar cada día de tu vida?",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 19,
+    "publicacion_propuesta": "2026-11-07 15:00",
+    "palabras": 242,
+    "duracion_estimada_s": 99
+  },
+  {
+    "carpeta": "20_pollo_mike",
+    "titulo": "Este pollo vivió dieciocho MESES sin cabeza",
+    "titulo_base": "Este pollo vivió dieciocho MESES sin cabeza",
+    "titulo_alternativa": "Lo iban a cocinar. Acabó haciendo una gira por todo el PAÍS",
+    "tesis": "En 1945, en Fruita (Colorado), el pollo Mike sobrevivió dieciocho meses tras un corte que dejó intacto su tronco encefálico; lo alimentaban con cuentagotas y se hizo famoso.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_sara",
+    "voice_id": "KHCvMklQZZo0O30ERnVn",
+    "voz_nombre": "Sara Martin 1",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Ilustración de cuento de los años cuarenta (NUEVO)",
+    "estilo": "Nineteen-forties American storybook illustration, soft gouache colours and gentle rounded shapes, flat colour areas, vertical 9:16 composition",
+    "gancho": "Ilustración amable de un gallo de granja de los años cuarenta paseando orgulloso por el corral; su cabeza queda tapada por un gran sombrero de feria, sin herida visible.",
+    "riesgo_monetizacion": "MEDIO: daño a un animal. Nunca se muestra el corte, la herida ni sangre; estilo de cuento amable; el cuello siempre tapado (sombrero, encuadre, cartel sin texto). No programar seguido de otro short de riesgo medio.",
+    "cultura_visual": "Fruita (Colorado, Estados Unidos), 1945-1947",
+    "fuentes": [
+      {
+        "dato": "Revista Life, 'Headless Chicken', 22 de octubre de 1945",
+        "fuente": "Revista Life, 'Headless Chicken', 22 de octubre de 1945"
+      },
+      {
+        "dato": "Ayuntamiento de Fruita, 'Mike the Headless Chicken Festival'",
+        "fuente": "Ayuntamiento de Fruita, 'Mike the Headless Chicken Festival'"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Un granjero fue a preparar la cena. Y la cena siguió caminando.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Durante dieciocho meses. Sin cabeza.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Colorado, Estados Unidos, septiembre de mil novecientos cuarenta y cinco.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "El granjero se llamaba Lloyd Olsen, y el pollo, Mike.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "El corte no salió como esperaba.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Dejó intacta la parte de abajo del cerebro, la que controla lo básico.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Respirar, el latido, mantenerse en pie… todo eso seguía funcionando.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "Y un coágulo evitó que se desangrara.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "A la mañana siguiente, Mike seguía ahí, intentando picotear.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Así que el granjero decidió alimentarlo con un cuentagotas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Le daba leche, agua y grano molido directamente por la garganta.",
+        "tono": "cercano"
+      },
+      {
+        "n": 12,
+        "texto": "Y Mike empezó a ganar peso.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Su dueño lo llevó a una universidad de Utah para que lo examinaran.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Los científicos confirmaron que no había ningún truco.",
+        "tono": "contundente"
+      },
+      {
+        "n": 15,
+        "texto": "Llegó a pesar más de tres kilos y medio.",
+        "tono": "neutro"
+      },
+      {
+        "n": 16,
+        "texto": "La noticia corrió como la pólvora.",
+        "tono": "intriga"
+      },
+      {
+        "n": 17,
+        "texto": "Grandes revistas de la época publicaron su historia.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "La familia lo llevó de gira por todo el país.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "La gente pagaba por ver al pollo que se negaba a morir.",
+        "tono": "contundente"
+      },
+      {
+        "n": 20,
+        "texto": "En marzo de mil novecientos cuarenta y siete, en un motel, se atragantó.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "Esa noche no encontraron a tiempo el cuentagotas para ayudarle.",
+        "tono": "intriga"
+      },
+      {
+        "n": 22,
+        "texto": "Hoy su pueblo, Fruita, le dedica un festival cada año.",
+        "tono": "cercano"
+      },
+      {
+        "n": 23,
+        "texto": "Muchos granjeros intentaron repetirlo con sus pollos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 24,
+        "texto": "Ninguno duró tanto como Mike.",
+        "tono": "contundente"
+      },
+      {
+        "n": 25,
+        "texto": "Vivió sin cabeza más tiempo del que vive la mayoría de los pollos de granja.",
+        "tono": "intriga"
+      },
+      {
+        "n": 26,
+        "texto": "¿Cómo vivió sin cabeza? Lo esencial de su cerebro seguía en su sitio.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 20,
+    "publicacion_propuesta": "2026-11-07 20:00",
+    "palabras": 247,
+    "duracion_estimada_s": 102
+  },
+  {
+    "carpeta": "21_tortuga_caparazon",
+    "titulo": "Una tortuga NO puede salir de su caparazón. Es su ESQUELETO",
+    "titulo_base": "Una tortuga NO puede salir de su caparazón. Es su ESQUELETO",
+    "titulo_alternativa": "Lo que los dibujos animados te enseñaron MAL sobre las tortugas",
+    "tesis": "El caparazón está fusionado con costillas y columna (unos cincuenta huesos); hombros y caderas están dentro de la caja torácica, algo único entre los vertebrados; además tiene nervios y siente.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_emanuel",
+    "voice_id": "hVtAK6ZLnvyCMv5h9NeP",
+    "voz_nombre": "Emanuel - Deep, Warm",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Fotorrealista",
+    "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+    "gancho": "Una tortuga terrestre mirando de frente a ras de suelo en un prado soleado, el caparazón ocupando casi todo el plano.",
+    "riesgo_monetizacion": "Ninguno.",
+    "cultura_visual": "Naturaleza actual",
+    "fuentes": [
+      {
+        "dato": "Rieppel, 'Turtles as Hopeful Monsters', 2017",
+        "fuente": "Rieppel, 'Turtles as Hopeful Monsters', 2017"
+      },
+      {
+        "dato": "Nagashima et al., Science, 2009 (origen evolutivo del caparazón)",
+        "fuente": "Nagashima et al., Science, 2009 (origen evolutivo del caparazón)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "En los dibujos, las tortugas salen de su caparazón como de casa.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "En la vida real, sería como quitarte las costillas.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "El caparazón no es una concha que lleven puesta.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Es parte de su esqueleto.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "Sus costillas y su columna están soldadas a él.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "En total, unos cincuenta huesos unidos en una sola pieza.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "No puede salirse, igual que tú no puedes salirte de tu cráneo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "Y tiene algo que ningún otro animal con columna tiene.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Sus hombros y sus caderas están dentro de las costillas, no fuera.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "En tu cuerpo, los omóplatos van por fuera de la caja torácica.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "En la tortuga, la evolución los metió dentro.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "Por eso puede esconder patas y cabeza en ese espacio.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Hace unos doscientos veinte millones de años ya había tortugas con medio caparazón.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Primero apareció la parte de la tripa, y después la de arriba.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Y otra sorpresa: el caparazón siente.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Tiene vasos sanguíneos y nervios.",
+        "tono": "neutro"
+      },
+      {
+        "n": 17,
+        "texto": "Muchas tortugas notan cuando les rascas la concha.",
+        "tono": "cercano"
+      },
+      {
+        "n": 18,
+        "texto": "Algunas incluso se acercan buscando más.",
+        "tono": "contundente"
+      },
+      {
+        "n": 19,
+        "texto": "Por fuera está cubierto de placas de queratina, lo mismo que tus uñas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "Y esas placas crecen con la tortuga durante toda su vida.",
+        "tono": "intriga"
+      },
+      {
+        "n": 21,
+        "texto": "Por eso un caparazón vacío en el suelo es siempre una mala noticia.",
+        "tono": "cercano"
+      },
+      {
+        "n": 22,
+        "texto": "Algunas tortugas viven más de cien años con el mismo caparazón.",
+        "tono": "contundente"
+      },
+      {
+        "n": 23,
+        "texto": "Crece con ellas, y repara solo sus pequeñas heridas.",
+        "tono": "cercano"
+      },
+      {
+        "n": 24,
+        "texto": "Una tortuga no vive dentro de su casa. Su casa es ella misma.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 21,
+    "publicacion_propuesta": "2026-11-08 15:00",
+    "palabras": 238,
+    "duracion_estimada_s": 98
+  },
+  {
+    "carpeta": "22_obstaculo_salida",
+    "titulo": "Poner un OBSTÁCULO delante de la salida hace que la gente salga antes",
+    "titulo_base": "Poner un OBSTÁCULO delante de la salida hace que la gente salga antes",
+    "titulo_alternativa": "La forma más rápida de evacuar una sala parece un ERROR",
+    "tesis": "Un obstáculo bien colocado delante de una salida reduce los atascos ('más rápido es más lento'); lo simularon en 2000 y físicos de la Universidad de Navarra lo comprobaron con ovejas.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_aitana",
+    "voice_id": "AxFLn9byyiDbMn5fmyqu",
+    "voz_nombre": "Aitana",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Maqueta tilt-shift",
+    "estilo": "Tilt-shift miniature photograph of a tiny handcrafted scale-model scene, shallow depth of field, bright daylight, vertical 9:16 composition",
+    "gancho": "Maqueta en miniatura vista desde arriba: una multitud de figuritas apelotonada ante una puerta estrecha, con una columna justo delante.",
+    "riesgo_monetizacion": "Ninguno. No se muestran avalanchas con heridos.",
+    "cultura_visual": "Actual; investigación española (Universidad de Navarra)",
+    "fuentes": [
+      {
+        "dato": "Helbing, Farkas y Vicsek, 'Simulating dynamical features of escape panic', Nature, 2000",
+        "fuente": "Helbing, Farkas y Vicsek, 'Simulating dynamical features of escape panic', Nature, 2000"
+      },
+      {
+        "dato": "Garcimartín, Zuriguel et al., 'Effect of obstacle position in the flow of sheep through a narrow door', Physical Review E, 2016",
+        "fuente": "Garcimartín, Zuriguel et al., 'Effect of obstacle position in the flow of sheep through a narrow door', Physical Review E, 2016"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Si quieres que una multitud salga más rápido, ponle un obstáculo delante.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Parece absurdo. Pero funciona.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Piensa en el final de un concierto, todos empujando hacia una puerta.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Cuanta más prisa tiene la gente, más se atasca la salida.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Se forman arcos de personas que se bloquean entre sí.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Los físicos lo llaman más rápido es más lento.",
+        "tono": "contundente"
+      },
+      {
+        "n": 7,
+        "texto": "En el año dos mil, unos científicos lo simularon por ordenador.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Probaron algo raro: una columna justo delante de la puerta.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Y la gente salía antes, no después.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "La columna rompe esos arcos antes de que se formen.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Reparte la presión y deja pasar a la gente con más orden.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "Faltaba probarlo con seres vivos.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Y aquí entra un grupo de físicos de la Universidad de Navarra.",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "Lo probaron con ovejas pasando por una puerta estrecha.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "Con el obstáculo en el sitio justo, los atascos se reducían.",
+        "tono": "contundente"
+      },
+      {
+        "n": 16,
+        "texto": "El mismo efecto se ha visto con hormigas, con granos de arena y con personas.",
+        "tono": "cercano"
+      },
+      {
+        "n": 17,
+        "texto": "En las pruebas con ovejas, el obstáculo estaba a muy poca distancia de la puerta.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Eso sí: el obstáculo tiene que estar en el lugar exacto.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Si está demasiado cerca o mal colocado, empeora las cosas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "Por eso los ingenieros lo estudian para diseñar estadios y estaciones.",
+        "tono": "contundente"
+      },
+      {
+        "n": 21,
+        "texto": "Algunos arquitectos ya lo tienen en cuenta.",
+        "tono": "cercano"
+      },
+      {
+        "n": 22,
+        "texto": "Aunque todavía se debate cómo aplicarlo con personas.",
+        "tono": "intriga"
+      },
+      {
+        "n": 23,
+        "texto": "A veces, para ir más rápido, lo mejor es que algo te frene.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 22,
+    "publicacion_propuesta": "2026-11-08 20:00",
+    "palabras": 235,
+    "duracion_estimada_s": 97
+  },
+  {
+    "carpeta": "23_estornudo_sol",
+    "titulo": "Una de cada cuatro personas ESTORNUDA al mirar al sol",
+    "titulo_base": "Una de cada cuatro personas ESTORNUDA al mirar al sol",
+    "titulo_alternativa": "Aristóteles ya se preguntó por qué el SOL nos hace estornudar",
+    "tesis": "El estornudo fótico afecta a entre el 18 y el 35 % de la población, se hereda y se explica por la cercanía entre el nervio óptico y el trigémino.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_david",
+    "voice_id": "Nh2zY9kknu6z4pZy6FhD",
+    "voz_nombre": "David Martin - Confident and Balanced",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_v4",
+    "estilo_clave": "D",
+    "estilo_nombre": "Línea de neón",
+    "estilo": "Glowing neon line art with luminous outlines on a deep night-blue background, vivid electric colours, vertical 9:16 composition",
+    "gancho": "Silueta de neón de una persona saliendo de un portal oscuro hacia un sol brillante, con una explosión de luz a punto de estornudar.",
+    "riesgo_monetizacion": "Ninguno.",
+    "cultura_visual": "Actual; menciones a Aristóteles y Francis Bacon sin escenas de época mezcladas",
+    "fuentes": [
+      {
+        "dato": "Aristóteles, 'Problemas', libro XXXIII",
+        "fuente": "Aristóteles, 'Problemas', libro XXXIII"
+      },
+      {
+        "dato": "Breitenbach et al., 'Photic sneeze reflex', revisión en Neurology, 1993",
+        "fuente": "Breitenbach et al., 'Photic sneeze reflex', revisión en Neurology, 1993"
+      },
+      {
+        "dato": "Collie et al., 1978 (herencia autosómica dominante)",
+        "fuente": "Collie et al., 1978 (herencia autosómica dominante)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Sales a la calle, miras al sol… y estornudas.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Si te pasa, no es casualidad: estás en un club enorme.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Le ocurre a entre dos y tres de cada diez personas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Y si a ti te pasa, probablemente le pase a tu padre o a tu madre.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "Porque se hereda.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Se llama estornudo fótico: fótico viene de luz.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Hace más de dos mil años, Aristóteles ya se preguntaba por qué.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "Pensaba que el calor del sol en la nariz provocaba el estornudo.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Siglos después, el filósofo inglés Francis Bacon lo puso a prueba.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Miró al sol con los ojos cerrados… y no estornudó.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Así que la culpa no era de la nariz. Era de los ojos.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "La teoría más aceptada hoy habla de cables cruzados.",
+        "tono": "neutro"
+      },
+      {
+        "n": 13,
+        "texto": "El nervio que lleva la luz del ojo pasa muy cerca del que controla la nariz.",
+        "tono": "cercano"
+      },
+      {
+        "n": 14,
+        "texto": "Un golpe de luz fuerte puede activar los dos a la vez.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Y tu cerebro lo interpreta como una orden de estornudar.",
+        "tono": "contundente"
+      },
+      {
+        "n": 16,
+        "texto": "Los científicos le pusieron un nombre en inglés cuyas iniciales suenan a achís.",
+        "tono": "neutro"
+      },
+      {
+        "n": 17,
+        "texto": "Para casi todos es solo una curiosidad.",
+        "tono": "cercano"
+      },
+      {
+        "n": 18,
+        "texto": "Pero para un piloto de combate puede ser un problema serio.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Un estornudo al salir de una nube, con el sol de frente, no es ninguna broma.",
+        "tono": "contundente"
+      },
+      {
+        "n": 20,
+        "texto": "Hay quien estornuda una sola vez, y quien encadena tres, cuatro o más.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "Y siempre, siempre, con el mismo culpable delante.",
+        "tono": "cercano"
+      },
+      {
+        "n": 22,
+        "texto": "La próxima vez que estornudes al sol, échale la culpa a tu familia.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 23,
+    "publicacion_propuesta": "2026-11-09 15:00",
+    "palabras": 244,
+    "duracion_estimada_s": 100
+  },
+  {
+    "carpeta": "24_patata_andes",
+    "titulo": "En los Andes comían TIERRA para poder comerse las patatas",
+    "titulo_base": "En los Andes comían TIERRA para poder comerse las patatas",
+    "titulo_alternativa": "La patata salvaje es VENENOSA. Así la domaron en los Andes",
+    "tesis": "Las patatas silvestres tienen glicoalcaloides tóxicos; los pueblos andinos las comían con arcilla que atrapa las toxinas, inventaron el chuño y seleccionaron variedades menos amargas.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_marina",
+    "voice_id": "GB7fZx4ubHWxbBE05abF",
+    "voz_nombre": "Marina",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Aerógrafo",
+    "estilo": "Airbrush illustration with smooth gradients, luminous saturated colours and fine painted detail, vertical 9:16 composition",
+    "gancho": "Unas manos andinas mojando una pequeña patata morada en un cuenco de barro con salsa de arcilla gris, con el altiplano y el lago Titicaca al fondo.",
+    "riesgo_monetizacion": "Ninguno.",
+    "cultura_visual": "Altiplano andino (Perú y Bolivia), pueblos aimara y quechua; una sola cultura",
+    "fuentes": [
+      {
+        "dato": "Johns, 'With Bitter Herbs They Shall Eat It', 1990 (geofagia y patata en los Andes)",
+        "fuente": "Johns, 'With Bitter Herbs They Shall Eat It', 1990 (geofagia y patata en los Andes)"
+      },
+      {
+        "dato": "Spooner et al., PNAS, 2005 (origen único de la patata cultivada en el sur de Perú)",
+        "fuente": "Spooner et al., PNAS, 2005 (origen único de la patata cultivada en el sur de Perú)"
+      },
+      {
+        "dato": "FAO, 'Año Internacional de la Papa', 2008 (chuño)",
+        "fuente": "FAO, 'Año Internacional de la Papa', 2008 (chuño)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "En los Andes, la gente comía tierra con las patatas.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y no por hambre. Era para no envenenarse.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Lo hicieron durante miles de años, y algunos todavía lo hacen.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "La patata nació alrededor del lago Titicaca, entre Perú y Bolivia.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Pero la patata salvaje no se parecía a la tuya.",
+        "tono": "cercano"
+      },
+      {
+        "n": 6,
+        "texto": "Era pequeña, amarga… y tóxica.",
+        "tono": "intriga"
+      },
+      {
+        "n": 7,
+        "texto": "Contiene unas sustancias que la planta fabrica para defenderse.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "En dosis altas, provocan vómitos, dolores y cosas peores.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "Aun así, era un alimento demasiado valioso para renunciar a él.",
+        "tono": "cercano"
+      },
+      {
+        "n": 10,
+        "texto": "Así que los pueblos andinos encontraron una solución.",
+        "tono": "intriga"
+      },
+      {
+        "n": 11,
+        "texto": "Preparaban una salsa con una arcilla especial y mojaban las patatas en ella.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "Esa arcilla atrapa las toxinas antes de que pasen a la sangre.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Todavía hoy, en algunos mercados del altiplano se vende esa arcilla.",
+        "tono": "cercano"
+      },
+      {
+        "n": 14,
+        "texto": "Y tenían otro truco: congelar y secar las patatas.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Las dejaban helarse de noche, y de día las pisaban para sacarles el agua.",
+        "tono": "neutro"
+      },
+      {
+        "n": 16,
+        "texto": "El resultado se llama chuño, y puede durar años.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "Con el agua se iba también buena parte del amargor.",
+        "tono": "cercano"
+      },
+      {
+        "n": 18,
+        "texto": "El chuño fue la reserva de comida de los incas para los años de mala cosecha.",
+        "tono": "neutro"
+      },
+      {
+        "n": 19,
+        "texto": "Generación tras generación, plantaron siempre las patatas menos amargas.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Poco a poco, las volvieron comestibles.",
+        "tono": "intriga"
+      },
+      {
+        "n": 21,
+        "texto": "Pero ese veneno nunca ha desaparecido del todo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Hoy hay más de cuatro mil variedades de patata en los Andes.",
+        "tono": "intriga"
+      },
+      {
+        "n": 23,
+        "texto": "Todas descienden de aquella planta amarga.",
+        "tono": "contundente"
+      },
+      {
+        "n": 24,
+        "texto": "Por eso, si una patata se pone verde, mejor no te comas esa parte.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 24,
+    "publicacion_propuesta": "2026-11-09 20:00",
+    "palabras": 241,
+    "duracion_estimada_s": 99
+  },
+  {
+    "carpeta": "25_perros_gatos_beben",
+    "titulo": "Tu gato bebe agua sin MOJARSE la lengua",
+    "titulo_base": "Tu gato bebe agua sin MOJARSE la lengua",
+    "titulo_alternativa": "Perros y gatos beben de forma totalmente distinta. Y uno es un GENIO",
+    "tesis": "El gato roza la superficie y levanta una columna de agua por inercia, cerrando la boca en el momento justo (Reis et al., 2010); el perro hace algo parecido pero con mucha más fuerza (Gart et al., 2015).",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_baldo",
+    "voice_id": "RnKqZYEeVQciORlpiCz0",
+    "voz_nombre": "Baldo - voz grave peninsular",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Fotorrealista",
+    "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+    "gancho": "Primer plano a cámara ultralenta de la lengua de un gato rozando el agua y levantando una columna de agua brillante.",
+    "riesgo_monetizacion": "Ninguno.",
+    "cultura_visual": "Hogar actual",
+    "fuentes": [
+      {
+        "dato": "Reis, Jung, Aristoff y Stocker, 'How cats lap: water uptake by Felis catus', Science, 2010",
+        "fuente": "Reis, Jung, Aristoff y Stocker, 'How cats lap: water uptake by Felis catus', Science, 2010"
+      },
+      {
+        "dato": "Gart, Socha, Vlachos y Jung, 'Dogs lap using acceleration-driven open pumping', PNAS, 2015",
+        "fuente": "Gart, Socha, Vlachos y Jung, 'Dogs lap using acceleration-driven open pumping', PNAS, 2015"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Tu gato bebe agua sin apenas mojarse la lengua.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y no descubrimos cómo lo hace hasta dos mil diez.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "A simple vista, parece que lame el agua como un perro.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Pero lo hace demasiado rápido para el ojo humano.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Unos ingenieros lo grabaron con cámaras de alta velocidad.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "La punta de la lengua apenas roza la superficie del agua.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Al subirla deprisa, arrastra hacia arriba una pequeña columna de agua.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "Y cierra la boca justo antes de que esa columna se caiga.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Lo hace unas cuatro veces por segundo, con una precisión increíble.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Los grandes felinos, como los leones, hacen lo mismo, pero más despacio.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Ahora mira a tu perro: el caos es total.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "El perro dobla la lengua hacia atrás, como un cucharón.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Durante años se pensó que así recogía el agua.",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "Pero en dos mil quince otro estudio vio que su truco se parece al del gato.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "El perro golpea el agua con fuerza y también saca una columna.",
+        "tono": "contundente"
+      },
+      {
+        "n": 16,
+        "texto": "Solo que con muchísima más energía, y salpica todo.",
+        "tono": "cercano"
+      },
+      {
+        "n": 17,
+        "texto": "El perro mueve la lengua con una aceleración de varias veces la gravedad.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "¿Por qué no beben como nosotros?",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Ni perros ni gatos pueden sorber: sus mejillas no cierran del todo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "Así que cada uno inventó su propia técnica.",
+        "tono": "contundente"
+      },
+      {
+        "n": 21,
+        "texto": "Y los perros grandes salpican más, porque levantan columnas más grandes.",
+        "tono": "intriga"
+      },
+      {
+        "n": 22,
+        "texto": "Así que el charco junto al cuenco tiene explicación científica.",
+        "tono": "contundente"
+      },
+      {
+        "n": 23,
+        "texto": "Mientras tu perro ataca el agua, tu gato la seduce.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 25,
+    "publicacion_propuesta": "2026-11-10 15:00",
+    "palabras": 240,
+    "duracion_estimada_s": 99
+  },
+  {
+    "carpeta": "26_palabras_desordenadas",
+    "titulo": "Tu cerebro lee esto aunque las letras estén DESORDENADAS",
+    "titulo_base": "Tu cerebro lee esto aunque las letras estén DESORDENADAS",
+    "titulo_alternativa": "El famoso estudio de Cambridge es FALSO. Pero el efecto es real",
+    "tesis": "El texto viral de las letras desordenadas atribuido a Cambridge no procede de ningún estudio; aun así el efecto existe porque el cerebro lee palabras enteras y usa el contexto, aunque con límites y más lento.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_eva",
+    "voice_id": "RgXx32WYOGrd7gFNifSf",
+    "voz_nombre": "Eva Dorado",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Collage surreal",
+    "estilo": "Surreal paper collage, torn paper pieces and hand-drawn patterned cut-outs layered with depth, warm lamplight, vertical 9:16 composition",
+    "gancho": "Un ojo de collage de papel enorme mirando un remolino de piezas de papel con dibujos y formas, sin letras legibles.",
+    "riesgo_monetizacion": "Ninguno. Ojo: imágenes SIN letras ni palabras legibles; se representan con formas y patrones.",
+    "cultura_visual": "Actual",
+    "fuentes": [
+      {
+        "dato": "Rawlinson, tesis doctoral, Universidad de Nottingham, 1976",
+        "fuente": "Rawlinson, tesis doctoral, Universidad de Nottingham, 1976"
+      },
+      {
+        "dato": "Rayner, White, Johnson y Liversedge, 'Raeding wrods with jubmled lettres', Psychological Science, 2006",
+        "fuente": "Rayner, White, Johnson y Liversedge, 'Raeding wrods with jubmled lettres', Psychological Science, 2006"
+      },
+      {
+        "dato": "Davis, MRC Cognition and Brain Sciences Unit (Cambridge), aclaración sobre el texto viral",
+        "fuente": "Davis, MRC Cognition and Brain Sciences Unit (Cambridge), aclaración sobre el texto viral"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Hay un texto que lleva veinte años dando vueltas por internet.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Tiene las letras de cada palabra desordenadas… y se lee sin esfuerzo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Seguro que lo has visto alguna vez.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Decía que lo había demostrado la Universidad de Cambridge.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Pues ese estudio nunca existió.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Lo curioso es que el efecto sí es real.",
+        "tono": "contundente"
+      },
+      {
+        "n": 7,
+        "texto": "Si la primera y la última letra están en su sitio, sueles entenderlo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Porque tu cerebro no lee letra a letra.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Mira la palabra entera, de golpe, casi como un dibujo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Y la compara con miles de palabras que ya conoce.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Además, adivina por el contexto lo que viene después.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "Por eso a veces no ves una errata aunque la tengas delante.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Un lector adulto reconoce una palabra conocida en una fracción de segundo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "Sin deletrearla, sin darse cuenta.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "Ahora bien, el truco tiene límites.",
+        "tono": "intriga"
+      },
+      {
+        "n": 16,
+        "texto": "Con palabras largas, o con las letras muy revueltas, falla.",
+        "tono": "neutro"
+      },
+      {
+        "n": 17,
+        "texto": "Y aunque lo entiendas, lees más despacio.",
+        "tono": "contundente"
+      },
+      {
+        "n": 18,
+        "texto": "Un estudio de dos mil seis midió que la lectura se frena alrededor de un diez por ciento.",
+        "tono": "neutro"
+      },
+      {
+        "n": 19,
+        "texto": "Y si mezclas letras entre palabras distintas, se vuelve casi imposible.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Tu cerebro no es un escáner perfecto. Es un experto en adivinar.",
+        "tono": "intriga"
+      },
+      {
+        "n": 21,
+        "texto": "Y casi siempre adivina bien.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Por eso algunos correctores profesionales leen el texto al revés.",
+        "tono": "neutro"
+      },
+      {
+        "n": 23,
+        "texto": "Así obligan al cerebro a mirar cada palabra, sin adivinar.",
+        "tono": "intriga"
+      },
+      {
+        "n": 24,
+        "texto": "Mientras lees, tu cerebro está rellenando huecos todo el tiempo. Sin avisarte.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 26,
+    "publicacion_propuesta": "2026-11-10 20:00",
+    "palabras": 233,
+    "duracion_estimada_s": 96
+  },
+  {
+    "carpeta": "27_regla_cero",
+    "titulo": "Por qué hay un espacio ANTES del cero en tu regla",
+    "titulo_base": "Por qué hay un espacio ANTES del cero en tu regla",
+    "titulo_alternativa": "Tu regla mediría MAL si el cero estuviera en el borde",
+    "tesis": "El cero se imprime hacia dentro para que el desgaste del borde y las imperfecciones de corte no alteren las medidas; las reglas de carpintero que empiezan en el borde están pensadas para apoyarse en una superficie.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_gonzalo",
+    "voice_id": "OMWmRY8slGlr6mHJSqwy",
+    "voz_nombre": "Gonzalo - Narrador documental de España",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Plano técnico azul (NUEVO)",
+    "estilo": "Technical blueprint drawing, crisp white line work on deep blue paper with dimension lines only, vertical 9:16 composition",
+    "gancho": "Plano técnico azul de una regla vista muy de cerca, con el borde gastado y una flecha luminosa señalando el hueco antes de la primera marca.",
+    "riesgo_monetizacion": "Ninguno. Imágenes sin números legibles: marcas de escala solo como rayas.",
+    "cultura_visual": "Objeto cotidiano actual",
+    "fuentes": [
+      {
+        "dato": "Normas de fabricación de instrumentos de medida lineal (reglas graduadas)",
+        "fuente": "Normas de fabricación de instrumentos de medida lineal (reglas graduadas)"
+      },
+      {
+        "dato": "Guías de metrología básica sobre error de borde",
+        "fuente": "Guías de metrología básica sobre error de borde"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Mira tu regla: el cero no está en el borde.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Hay un pequeño hueco antes. Y no es un fallo de fábrica.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Seguro que alguna vez mediste desde el borde. Y fallaste por poco.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "El borde de una regla es la parte que más sufre.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Se golpea, se cae, se roza contra la mesa y contra el estuche.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Con los años, se desgasta y pierde décimas de milímetro.",
+        "tono": "contundente"
+      },
+      {
+        "n": 7,
+        "texto": "Si el cero estuviera justo en el borde, se gastaría con él.",
+        "tono": "cercano"
+      },
+      {
+        "n": 8,
+        "texto": "Y todas tus medidas empezarían a salir mal.",
+        "tono": "neutro"
+      },
+      {
+        "n": 9,
+        "texto": "Con ese hueco, el cero queda protegido dentro de la regla.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Da igual cuánto se estropee el borde: la marca sigue intacta.",
+        "tono": "contundente"
+      },
+      {
+        "n": 11,
+        "texto": "Hay una segunda razón: fabricar un borde perfecto es muy difícil.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "Al cortar el plástico o el metal, siempre queda alguna imperfección.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Imprimir la escala un poco hacia dentro esquiva ese problema.",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "Por eso, para medir bien, se coloca el cero, no el borde, al inicio del objeto.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "Parece una tontería, pero en un plano puede ser la diferencia entre encajar o no.",
+        "tono": "contundente"
+      },
+      {
+        "n": 16,
+        "texto": "Ojo: algunas reglas de carpintero sí empiezan en el borde.",
+        "tono": "cercano"
+      },
+      {
+        "n": 17,
+        "texto": "Están pensadas para apoyarlas contra una pared o una esquina.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Ahí el borde es la referencia, y se fabrican con metales más duros.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Cada herramienta está diseñada para cómo se va a usar.",
+        "tono": "contundente"
+      },
+      {
+        "n": 20,
+        "texto": "Pasa lo mismo en muchos instrumentos de precisión: el borde nunca es la referencia.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "Y tu regla del colegio llevaba años avisándote, en silencio.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 27,
+    "publicacion_propuesta": "2026-11-11 15:00",
+    "palabras": 240,
+    "duracion_estimada_s": 99
+  },
+  {
+    "carpeta": "28_cerebro_congelado",
+    "titulo": "Por qué te DUELE la cabeza al comer helado muy rápido",
+    "titulo_base": "Por qué te DUELE la cabeza al comer helado muy rápido",
+    "titulo_alternativa": "El dolor del helado no está en tu boca. Está en tu CEREBRO",
+    "tesis": "El 'cerebro congelado' se debe al enfriamiento brusco del paladar, que dilata de golpe una arteria cerebral; el dolor se proyecta a la frente y dura segundos (Serrador et al., 2012).",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_elena",
+    "voice_id": "tXgbXPnsMpKXkuTgvE3h",
+    "voz_nombre": "Elena - cuentos y narraciones",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Aerógrafo",
+    "estilo": "Airbrush illustration with smooth gradients, luminous saturated colours and fine painted detail, vertical 9:16 composition",
+    "gancho": "Una persona en un día de verano con un cucurucho de helado, llevándose la mano a la frente con gesto de dolor, colores luminosos de aerógrafo.",
+    "riesgo_monetizacion": "Ninguno.",
+    "cultura_visual": "Verano actual",
+    "fuentes": [
+      {
+        "dato": "Serrador et al., Harvard Medical School, presentado en Experimental Biology 2012",
+        "fuente": "Serrador et al., Harvard Medical School, presentado en Experimental Biology 2012"
+      },
+      {
+        "dato": "Kaczorowski y Kaczorowski, 'Ice cream evoked headaches', BMJ, 2002",
+        "fuente": "Kaczorowski y Kaczorowski, 'Ice cream evoked headaches', BMJ, 2002"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Un bocado de helado demasiado rápido… y un pinchazo en la frente.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y el frío está en tu boca, no en tu cabeza.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Es el famoso cerebro congelado.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Le pasa a una de cada tres personas, más o menos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "Y durante mucho tiempo nadie sabía exactamente por qué.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Todo empieza en el paladar, justo encima de tu lengua.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Ahí hay muchos vasos sanguíneos que se enfrían de golpe.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "Tu cuerpo reacciona deprisa para proteger lo más importante: el cerebro.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "En dos mil doce, un equipo de Harvard lo midió.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Dieron a voluntarios agua helada con una pajita apuntando al paladar.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "En el momento del dolor, una arteria del cerebro se ensanchaba de repente.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "Llegaba de golpe más sangre caliente a la cabeza.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Cuando la arteria volvía a estrecharse, el dolor desaparecía.",
+        "tono": "intriga"
+      },
+      {
+        "n": 14,
+        "texto": "Ese cambio brusco de presión es lo que notas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "Y como el nervio que lo detecta también llega a la frente, ahí sientes el dolor.",
+        "tono": "contundente"
+      },
+      {
+        "n": 16,
+        "texto": "Por eso duele donde no está el frío.",
+        "tono": "cercano"
+      },
+      {
+        "n": 17,
+        "texto": "Los científicos creen que es una defensa ante un cambio brusco de temperatura.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "La buena noticia: dura segundos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Y hay un truco: apretar la lengua contra el paladar para calentarlo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "O beber algo templado.",
+        "tono": "contundente"
+      },
+      {
+        "n": 21,
+        "texto": "Curiosamente, no a todo el mundo le pasa igual: a algunos, nunca.",
+        "tono": "intriga"
+      },
+      {
+        "n": 22,
+        "texto": "Y a quien sufre migrañas suele pasarle más a menudo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 23,
+        "texto": "La próxima vez que te pase, recuerda: tu cerebro solo se está protegiendo del frío.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 28,
+    "publicacion_propuesta": "2026-11-11 20:00",
+    "palabras": 235,
+    "duracion_estimada_s": 97
+  },
+  {
+    "carpeta": "29_flor_de_la_mar",
+    "titulo": "El barco con uno de los mayores TESOROS perdidos sigue en el fondo del mar",
+    "titulo_base": "El barco con uno de los mayores TESOROS perdidos sigue en el fondo del mar",
+    "titulo_alternativa": "Se hundió en mil quinientos once con un botín legendario. Nadie lo ha ENCONTRADO",
+    "tesis": "La nao portuguesa Flor de la Mar se hundió en 1511 frente a Sumatra con el botín de la toma de Malaca; nunca se ha localizado y su propiedad la disputarían varios países.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_rafael",
+    "voice_id": "orF2qy9215xjwqqxqsWW",
+    "voz_nombre": "Rafael - Tales and Legends",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Fotorrealista",
+    "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+    "gancho": "Una nao portuguesa del siglo dieciséis inclinada entre olas negras de tormenta, con un relámpago iluminando las velas.",
+    "riesgo_monetizacion": "Ninguno. La toma de Malaca se menciona sin escenas de combate; naufragio sin víctimas visibles.",
+    "cultura_visual": "Portugal en el estrecho de Malaca, 1511; una sola cultura (marinos portugueses)",
+    "fuentes": [
+      {
+        "dato": "Gaspar Correia, 'Lendas da Índia' (siglo XVI)",
+        "fuente": "Gaspar Correia, 'Lendas da Índia' (siglo XVI)"
+      },
+      {
+        "dato": "Comentarios de Afonso de Albuquerque (Brás de Albuquerque, 1557)",
+        "fuente": "Comentarios de Afonso de Albuquerque (Brás de Albuquerque, 1557)"
+      },
+      {
+        "dato": "Noticias de prensa sobre reclamaciones de hallazgo (1989) no confirmadas",
+        "fuente": "Noticias de prensa sobre reclamaciones de hallazgo (1989) no confirmadas"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Hay un barco hundido con uno de los mayores tesoros de la historia.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Lleva más de quinientos años perdido. Y nadie sabe dónde está.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Se llamaba Flor de la Mar, una enorme nao portuguesa.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "En mil quinientos once volvía de Malaca, en el sudeste asiático.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "Era una de las naves más grandes de su tiempo, pero también de las más castigadas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 6,
+        "texto": "A bordo iba el temido Afonso de Albuquerque.",
+        "tono": "intriga"
+      },
+      {
+        "n": 7,
+        "texto": "Acababa de tomar la ciudad, uno de los puertos más ricos del mundo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Y había cargado el barco con lo mejor del botín.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "Oro, piedras preciosas y regalos destinados al rey de Portugal.",
+        "tono": "cercano"
+      },
+      {
+        "n": 10,
+        "texto": "Pero el barco ya era viejo, y hacía agua.",
+        "tono": "intriga"
+      },
+      {
+        "n": 11,
+        "texto": "Navegando junto a la costa de Sumatra, les sorprendió una tormenta.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "La nave chocó contra unos bajíos y se partió.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Albuquerque se salvó en una balsa improvisada.",
+        "tono": "cercano"
+      },
+      {
+        "n": 14,
+        "texto": "El tesoro se quedó en el fondo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Las crónicas de la época hablan de un tesoro nunca visto.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Cuentan que llevaba incluso estatuas cubiertas de piedras preciosas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 17,
+        "texto": "Desde entonces, muchos buscadores han ido tras él.",
+        "tono": "cercano"
+      },
+      {
+        "n": 18,
+        "texto": "Algunos dijeron haberlo encontrado, pero nunca lo demostraron.",
+        "tono": "contundente"
+      },
+      {
+        "n": 19,
+        "texto": "Las corrientes y el lodo del estrecho pueden haberlo enterrado.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Además, varios países podrían reclamarlo si apareciera.",
+        "tono": "intriga"
+      },
+      {
+        "n": 21,
+        "texto": "Indonesia, Malasia y Portugal.",
+        "tono": "neutro"
+      },
+      {
+        "n": 22,
+        "texto": "Así que encontrarlo sería solo el principio del problema.",
+        "tono": "contundente"
+      },
+      {
+        "n": 23,
+        "texto": "Hoy el estrecho de Malaca es una de las rutas marítimas con más tráfico del mundo.",
+        "tono": "cercano"
+      },
+      {
+        "n": 24,
+        "texto": "Miles de barcos pasan cada año por encima de donde podría estar.",
+        "tono": "contundente"
+      },
+      {
+        "n": 25,
+        "texto": "¿Seguirá ahí abajo, esperando a que alguien lo encuentre?",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 29,
+    "publicacion_propuesta": "2026-11-12 15:00",
+    "palabras": 248,
+    "duracion_estimada_s": 102
+  },
+  {
+    "carpeta": "30_metro_gancho",
+    "titulo": "El gancho de tu metro está SUELTO a propósito",
+    "titulo_base": "El gancho de tu metro está SUELTO a propósito",
+    "titulo_alternativa": "Si el gancho del metro se mueve, NO lo arregles",
+    "tesis": "El gancho de la cinta métrica se desliza exactamente su propio grosor para que la medida sea correcta tanto enganchando por fuera como empujando contra una pared ('cero verdadero').",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_sara",
+    "voice_id": "KHCvMklQZZo0O30ERnVn",
+    "voz_nombre": "Sara Martin 1",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Maqueta tilt-shift",
+    "estilo": "Tilt-shift miniature photograph of a tiny handcrafted scale-model scene, shallow depth of field, bright daylight, vertical 9:16 composition",
+    "gancho": "Una cinta métrica gigante en una maqueta de taller en miniatura, con figuritas de carpinteros señalando el gancho metálico.",
+    "riesgo_monetizacion": "Ninguno. Marcas de la cinta como rayas, sin números legibles.",
+    "cultura_visual": "Taller actual",
+    "fuentes": [
+      {
+        "dato": "Patentes y documentación de fabricantes sobre el 'true zero' del gancho de las cintas métricas",
+        "fuente": "Patentes y documentación de fabricantes sobre el 'true zero' del gancho de las cintas métricas"
+      },
+      {
+        "dato": "Guías de uso de flexómetros",
+        "fuente": "Guías de uso de flexómetros"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Si el gancho de tu metro se mueve un poco, no está roto.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Está diseñado así. Y es un truco muy ingenioso.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Seguro que alguna vez pensaste en apretarlo con unos alicates.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "No lo hagas: arruinarías todas tus medidas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "El secreto está en el grosor del propio gancho.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Ese trocito de metal mide más o menos un milímetro.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "Y ese milímetro cambia según cómo midas.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "Cuando enganchas el borde de una tabla y tiras, el gancho se estira.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Así el cero queda en la cara interior del gancho, justo en el borde de la tabla.",
+        "tono": "neutro"
+      },
+      {
+        "n": 10,
+        "texto": "Pero cuando empujas el metro contra una pared, pasa lo contrario.",
+        "tono": "intriga"
+      },
+      {
+        "n": 11,
+        "texto": "El gancho se mete hacia dentro, exactamente su propio grosor.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "Y el cero queda en la cara exterior, la que toca la pared.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "En los dos casos, la medida sale exacta.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Si el gancho estuviera fijo, una de las dos siempre fallaría por un milímetro.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Y en carpintería, un milímetro es la diferencia entre encajar o no.",
+        "tono": "cercano"
+      },
+      {
+        "n": 16,
+        "texto": "Los fabricantes lo llaman el cero verdadero.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "El gancho guarda más secretos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "Su agujero sirve para engancharlo a la cabeza de un clavo o un tornillo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Y en muchos metros, su borde dentado permite marcar sin lápiz.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Por eso muchos metros indican en la carcasa cuánto mide la propia caja.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "Así puedes medir el hueco de una ventana apoyando la caja en un lado.",
+        "tono": "cercano"
+      },
+      {
+        "n": 22,
+        "texto": "Así que la próxima vez que lo veas bailar, tranquilo: está trabajando.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 30,
+    "publicacion_propuesta": "2026-11-12 20:00",
+    "palabras": 239,
+    "duracion_estimada_s": 98
+  },
+  {
+    "carpeta": "31_monjes_momificados",
+    "titulo": "Hubo monjes que intentaron convertirse en MOMIAS estando vivos",
+    "titulo_base": "Hubo monjes que intentaron convertirse en MOMIAS estando vivos",
+    "titulo_alternativa": "Se preparaban durante años para que su cuerpo no se descompusiera JAMÁS",
+    "tesis": "El sokushinbutsu fue una práctica ascética de monjes de Yamagata (Japón) que, tras años de dieta extrema, se encerraban en una cámara hasta morir; muy pocos se conservaron y la práctica se prohibió en el siglo XIX.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_arconte",
+    "voice_id": "QtPMrakdgePQIUwOX7Ut",
+    "voz_nombre": "Arconte - Evocative & Magnetic",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Tinta japonesa sumi-e (NUEVO)",
+    "estilo": "Japanese sumi-e ink wash painting, flowing black ink strokes with soft grey washes on rice paper, vertical 9:16 composition",
+    "gancho": "Un monje japonés meditando en una cueva de montaña entre niebla, en tinta sumi-e, con una pequeña campana de bronce a su lado.",
+    "riesgo_monetizacion": "MEDIO: muerte voluntaria y restos humanos. Se narra con respeto, sin mostrar cuerpos momificados ni la muerte; solo monjes vivos, montañas, campana y templo. No programar seguido de otro short de riesgo medio.",
+    "cultura_visual": "Montañas Dewa Sanzan (Yamagata, Japón), budismo shingon; una sola cultura",
+    "fuentes": [
+      {
+        "dato": "Jeremiah, 'Living Buddhas: The Self-Mummified Monks of Yamagata, Japan', 2010",
+        "fuente": "Jeremiah, 'Living Buddhas: The Self-Mummified Monks of Yamagata, Japan', 2010"
+      },
+      {
+        "dato": "Templo Dainichibō y Churen-ji (Yamagata): momias veneradas",
+        "fuente": "Templo Dainichibō y Churen-ji (Yamagata): momias veneradas"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "En Japón hubo monjes que intentaron convertirse en momias… en vida.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y algunos lo consiguieron.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Lo llamaban sokushinbutsu: hacerse buda en el propio cuerpo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Ocurrió sobre todo en las montañas de Yamagata, en el norte de Japón.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "Seguían el ejemplo de un santo que, según la tradición, no murió: entró en meditación eterna.",
+        "tono": "neutro"
+      },
+      {
+        "n": 6,
+        "texto": "El proceso duraba años. Y empezaba en la comida.",
+        "tono": "intriga"
+      },
+      {
+        "n": 7,
+        "texto": "Durante unos mil días, solo comían frutos secos y semillas.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Así perdían casi toda la grasa del cuerpo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 9,
+        "texto": "Después, otros mil días comiendo corteza y raíces.",
+        "tono": "cercano"
+      },
+      {
+        "n": 10,
+        "texto": "Y al final, bebían un té hecho con la savia de un árbol.",
+        "tono": "intriga"
+      },
+      {
+        "n": 11,
+        "texto": "Esa savia se usa para fabricar laca, y es tóxica.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "Volvía el cuerpo desagradable para los insectos.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Cuando estaban listos, entraban en una pequeña cámara bajo tierra.",
+        "tono": "cercano"
+      },
+      {
+        "n": 14,
+        "texto": "Tenían un tubo para respirar y una campana.",
+        "tono": "neutro"
+      },
+      {
+        "n": 15,
+        "texto": "Cada día hacían sonar la campana para decir que seguían vivos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 16,
+        "texto": "El día que dejaba de sonar, los demás monjes sellaban la cámara.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "Mil días después, la abrían para ver el resultado.",
+        "tono": "neutro"
+      },
+      {
+        "n": 18,
+        "texto": "La mayoría no se conservaron. Muy pocos lo lograron.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "Los que se conservaron fueron vestidos con túnicas y llevados a templos.",
+        "tono": "contundente"
+      },
+      {
+        "n": 20,
+        "texto": "Hoy se conservan unas pocas decenas, veneradas en templos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 21,
+        "texto": "A finales del siglo diecinueve, el gobierno japonés prohibió la práctica.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Algunos de esos templos todavía pueden visitarse en las montañas de Yamagata.",
+        "tono": "neutro"
+      },
+      {
+        "n": 23,
+        "texto": "Allí se les considera budas vivientes, no cuerpos sin vida.",
+        "tono": "intriga"
+      },
+      {
+        "n": 24,
+        "texto": "Para ellos no era morir. Era quedarse para siempre.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 31,
+    "publicacion_propuesta": "2026-11-13 15:00",
+    "palabras": 240,
+    "duracion_estimada_s": 99
+  },
+  {
+    "carpeta": "32_zapato_areni",
+    "titulo": "Encontraron un zapato de cinco mil quinientos años… y aún tenía los CORDONES",
+    "titulo_base": "Encontraron un zapato de cinco mil quinientos años… y aún tenía los CORDONES",
+    "titulo_alternativa": "El zapato de cuero más antiguo del mundo podría ser de tu TALLA",
+    "tesis": "En la cueva Areni-1 (Armenia) apareció en 2008 un zapato de cuero de unos 5.500 años, de una sola pieza, con cordón y relleno de hierba, conservado bajo excrementos de oveja.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_aitana",
+    "voice_id": "AxFLn9byyiDbMn5fmyqu",
+    "voz_nombre": "Aitana",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Fotorrealista",
+    "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+    "gancho": "Un zapato de cuero antiguo y arrugado, con su cordón, sobre arena de una cueva, iluminado por una linterna de excavación.",
+    "riesgo_monetizacion": "Ninguno.",
+    "cultura_visual": "Cueva Areni-1, Armenia, hacia 3500 a. C.; arqueólogos actuales",
+    "fuentes": [
+      {
+        "dato": "Pinhasi et al., 'First Direct Evidence of Chalcolithic Footwear from the Near Eastern Highlands', PLOS ONE, 2010",
+        "fuente": "Pinhasi et al., 'First Direct Evidence of Chalcolithic Footwear from the Near Eastern Highlands', PLOS ONE, 2010"
+      },
+      {
+        "dato": "Barnard et al., Journal of Archaeological Science, 2011 (bodega de Areni-1)",
+        "fuente": "Barnard et al., Journal of Archaeological Science, 2011 (bodega de Areni-1)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "En una cueva de Armenia apareció un zapato de cinco mil quinientos años.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y todavía tenía el cordón puesto.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Lo encontró una arqueóloga en dos mil ocho, en la cueva de Areni.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Al principio pensaron que tendría unos pocos siglos.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "Pero las pruebas de datación dijeron otra cosa.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "Es más antiguo que Stonehenge y que las pirámides de Egipto.",
+        "tono": "contundente"
+      },
+      {
+        "n": 7,
+        "texto": "Está hecho de una sola pieza de piel de vaca.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Se ajustaba alrededor del pie y se ataba con un cordón de cuero.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Y por dentro estaba relleno de hierba.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Quizá para abrigar el pie, o para que no perdiera la forma.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "El cuero estaba curtido con aceites vegetales, una técnica bastante avanzada.",
+        "tono": "cercano"
+      },
+      {
+        "n": 12,
+        "texto": "Lo más sorprendente es su tamaño: un treinta y siete europeo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Podría quedarle bien a mucha gente hoy.",
+        "tono": "cercano"
+      },
+      {
+        "n": 14,
+        "texto": "¿Cómo aguantó tanto tiempo sin pudrirse?",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "La cueva era fresca y muy seca.",
+        "tono": "neutro"
+      },
+      {
+        "n": 16,
+        "texto": "Y una gruesa capa de excrementos de oveja lo selló como una tapa.",
+        "tono": "contundente"
+      },
+      {
+        "n": 17,
+        "texto": "Sin aire ni humedad, el cuero se conservó casi intacto.",
+        "tono": "cercano"
+      },
+      {
+        "n": 18,
+        "texto": "Se parece mucho a un calzado que se usaba en Irlanda hasta el siglo veinte.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "En esa misma cueva apareció después una bodega de vino antiquísima.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
+        "texto": "La más antigua que se conoce.",
+        "tono": "intriga"
+      },
+      {
+        "n": 21,
+        "texto": "Zapatos y vino: hace cinco mil años ya tenían lo básico.",
+        "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Hoy se guarda en el museo de historia de Armenia, en Ereván.",
+        "tono": "neutro"
+      },
+      {
+        "n": 23,
+        "texto": "Cinco milenios después, ese zapato podría ser de tu talla.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 32,
+    "publicacion_propuesta": "2026-11-13 20:00",
+    "palabras": 231,
+    "duracion_estimada_s": 95
+  },
+  {
+    "carpeta": "33_tiempo_mas_rapido",
+    "titulo": "Por qué los años pasan cada vez MÁS rápido",
+    "titulo_base": "Por qué los años pasan cada vez MÁS rápido",
+    "titulo_alternativa": "Un verano de niño duraba una eternidad. Ahora vuela. Hay una EXPLICACIÓN",
+    "tesis": "La sensación de que el tiempo se acelera con la edad tiene varias explicaciones: la proporcional (cada año es una fracción menor de la vida), la de la novedad y la memoria, y una hipótesis sobre el procesamiento visual.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_bosco",
+    "voice_id": "0vrPGvXHhDD3rbGURCk8",
+    "voz_nombre": "Bosco - Deep & Calm with gentle pauses",
+    "voz_genero": "M",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Línea de neón",
+    "estilo": "Glowing neon line art with luminous outlines on a deep night-blue background, vivid electric colours, vertical 9:16 composition",
+    "gancho": "Un reloj de arena de neón cuya arena cae cada vez más deprisa, con siluetas de un niño y un adulto a cada lado.",
+    "riesgo_monetizacion": "Ninguno. Las explicaciones se presentan como teorías.",
+    "cultura_visual": "Actual",
+    "fuentes": [
+      {
+        "dato": "Janet, 'Une illusion d'optique interne', Revue philosophique, 1877",
+        "fuente": "Janet, 'Une illusion d'optique interne', Revue philosophique, 1877"
+      },
+      {
+        "dato": "Wittmann y Lehnhoff, 'Age effects in perception of time', Psychological Reports, 2005",
+        "fuente": "Wittmann y Lehnhoff, 'Age effects in perception of time', Psychological Reports, 2005"
+      },
+      {
+        "dato": "Bejan, 'Why the days seem shorter as we get older', European Review, 2019 (hipótesis)",
+        "fuente": "Bejan, 'Why the days seem shorter as we get older', European Review, 2019 (hipótesis)"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Cuando eras niño, un verano duraba una eternidad.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Ahora parpadeas, y ya es Navidad otra vez.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "No te lo imaginas: le pasa a casi todo el mundo.",
+        "tono": "cercano"
+      },
+      {
+        "n": 4,
+        "texto": "Y la ciencia tiene varias explicaciones.",
+        "tono": "neutro"
+      },
+      {
+        "n": 5,
+        "texto": "La primera es pura matemática.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "A los diez años, un año es la décima parte de toda tu vida.",
+        "tono": "neutro"
+      },
+      {
+        "n": 7,
+        "texto": "A los cincuenta, es solo una parte entre cincuenta.",
+        "tono": "contundente"
+      },
+      {
+        "n": 8,
+        "texto": "Cada año pesa menos en tu historia, y por eso parece más corto.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Un filósofo francés lo propuso ya en el siglo diecinueve.",
+        "tono": "neutro"
+      },
+      {
+        "n": 10,
+        "texto": "Pero hay otra explicación, y tiene que ver con la memoria.",
+        "tono": "intriga"
+      },
+      {
+        "n": 11,
+        "texto": "Tu cerebro calcula el tiempo pasado por la cantidad de recuerdos nuevos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 12,
+        "texto": "De niño, todo era la primera vez: el mar, la nieve, el colegio.",
+        "tono": "contundente"
+      },
+      {
+        "n": 13,
+        "texto": "Cada semana estaba llena de recuerdos distintos.",
+        "tono": "cercano"
+      },
+      {
+        "n": 14,
+        "texto": "De adulto, muchos días se parecen entre sí.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Y cuando miras atrás, tu cerebro los comprime en uno solo.",
+        "tono": "contundente"
+      },
+      {
+        "n": 16,
+        "texto": "Poca novedad, pocos recuerdos, y el año parece encogido.",
+        "tono": "neutro"
+      },
+      {
+        "n": 17,
+        "texto": "Una tercera teoría dice que, al envejecer, procesamos menos imágenes por segundo.",
+        "tono": "intriga"
+      },
+      {
+        "n": 18,
+        "texto": "Como si la película de tu vida tuviera menos fotogramas.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "La buena noticia es que se puede engañar al reloj.",
+        "tono": "contundente"
+      },
+      {
+        "n": 20,
+        "texto": "Viajar, aprender algo nuevo o cambiar de rutina crea recuerdos distintos.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "En cambio, los momentos de miedo o de emoción parecen durar más.",
+        "tono": "intriga"
+      },
+      {
+        "n": 22,
+        "texto": "Tu cerebro graba más detalles, y al recordarlos se alargan.",
+        "tono": "neutro"
+      },
+      {
+        "n": 23,
+        "texto": "Por eso un susto de dos segundos se recuerda como si hubiera durado mucho más.",
+        "tono": "cercano"
+      },
+      {
+        "n": 24,
+        "texto": "Si quieres que este año dure más, llénalo de primeras veces.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 33,
+    "publicacion_propuesta": "2026-11-14 15:00",
+    "palabras": 246,
+    "duracion_estimada_s": 101
+  },
+  {
+    "carpeta": "34_ascensor_cable",
+    "titulo": "Qué pasa si se rompe el cable de un ASCENSOR",
+    "titulo_base": "Qué pasa si se rompe el cable de un ASCENSOR",
+    "titulo_alternativa": "Una mujer cayó setenta y cinco pisos en un ascensor… y SOBREVIVIÓ",
+    "tesis": "Desde el freno de seguridad de Elisha Otis (1854), los ascensores tienen varios cables, frenos automáticos y amortiguadores; la caída libre es casi imposible. En 1945, Betty Lou Oliver sobrevivió a una caída de 75 pisos.",
+    "formato": "short",
+    "canal": "El Porqué de las Cosas",
+    "serie": "",
+    "estructura": "explicativo",
+    "arranque": "contradiccion",
+    "voz": "eleven_marina",
+    "voice_id": "GB7fZx4ubHWxbBE05abF",
+    "voz_nombre": "Marina",
+    "voz_genero": "F",
+    "voz_acento": "españa",
+    "modelo_voz": "eleven_multilingual_v2",
+    "estilo_clave": "D",
+    "estilo_nombre": "Fotorrealista",
+    "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+    "gancho": "Un hombre del siglo diecinueve de pie sobre una plataforma elevada en una feria, mientras alguien corta con un hacha la única cuerda que la sostiene.",
+    "riesgo_monetizacion": "Bajo. El accidente de 1945 se narra sin imágenes del avión estrellado ni de víctimas; solo cables y hueco de ascensor.",
+    "cultura_visual": "Nueva York: feria de 1854 (escena principal); hueco de ascensor actual",
+    "fuentes": [
+      {
+        "dato": "Goodwin, 'Otis: Giving Rise to the Modern City', 2001 (demostración de 1854)",
+        "fuente": "Goodwin, 'Otis: Giving Rise to the Modern City', 2001 (demostración de 1854)"
+      },
+      {
+        "dato": "Guinness World Records: mayor caída en ascensor superada (Betty Lou Oliver, 1945)",
+        "fuente": "Guinness World Records: mayor caída en ascensor superada (Betty Lou Oliver, 1945)"
+      },
+      {
+        "dato": "EN 81-20, norma europea de seguridad de ascensores",
+        "fuente": "EN 81-20, norma europea de seguridad de ascensores"
+      }
+    ],
+    "personajes": [],
+    "bloques": [
+      {
+        "n": 1,
+        "texto": "Si se rompe el cable de un ascensor, no caes al vacío.",
+        "tono": "intriga"
+      },
+      {
+        "n": 2,
+        "texto": "Y esto se demostró de la forma más teatral posible.",
+        "tono": "contundente"
+      },
+      {
+        "n": 3,
+        "texto": "Nueva York, mil ochocientos cincuenta y cuatro, una gran feria.",
+        "tono": "neutro"
+      },
+      {
+        "n": 4,
+        "texto": "Un inventor llamado Elisha Otis sube a una plataforma muy alta.",
+        "tono": "cercano"
+      },
+      {
+        "n": 5,
+        "texto": "Delante del público, ordena cortar la única cuerda que la sujeta.",
+        "tono": "intriga"
+      },
+      {
+        "n": 6,
+        "texto": "La plataforma cae… unos centímetros, y se frena en seco.",
+        "tono": "contundente"
+      },
+      {
+        "n": 7,
+        "texto": "Había inventado un freno de seguridad que se clava en los raíles.",
+        "tono": "neutro"
+      },
+      {
+        "n": 8,
+        "texto": "Gracias a eso, la gente empezó a confiar en los ascensores.",
+        "tono": "cercano"
+      },
+      {
+        "n": 9,
+        "texto": "Y sin ascensores seguros, no existirían los rascacielos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 10,
+        "texto": "Hoy un ascensor no cuelga de un solo cable, sino de varios.",
+        "tono": "neutro"
+      },
+      {
+        "n": 11,
+        "texto": "Y cada uno, por sí solo, podría sostener la cabina llena.",
+        "tono": "contundente"
+      },
+      {
+        "n": 12,
+        "texto": "Si aun así bajara demasiado rápido, un sensor lo detecta.",
+        "tono": "cercano"
+      },
+      {
+        "n": 13,
+        "texto": "Y activa unos frenos que la sujetan contra los raíles.",
+        "tono": "neutro"
+      },
+      {
+        "n": 14,
+        "texto": "Al fondo del hueco, además, hay amortiguadores por si todo lo demás falla.",
+        "tono": "intriga"
+      },
+      {
+        "n": 15,
+        "texto": "Una caída libre es casi imposible.",
+        "tono": "contundente"
+      },
+      {
+        "n": 16,
+        "texto": "Casi. En mil novecientos cuarenta y cinco ocurrió en Nueva York.",
+        "tono": "neutro"
+      },
+      {
+        "n": 17,
+        "texto": "Un avión chocó contra el Empire State en plena niebla.",
+        "tono": "cercano"
+      },
+      {
+        "n": 18,
+        "texto": "Los cables de un ascensor se cortaron, y su ascensorista cayó setenta y cinco pisos.",
+        "tono": "intriga"
+      },
+      {
+        "n": 19,
+        "texto": "Sobrevivió. El cable amontonado en el fondo y el aire del hueco frenaron el golpe.",
+        "tono": "contundente"
+      },
+      {
+        "n": 20,
+        "texto": "Todavía tiene el récord de la mayor caída en ascensor superada.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "De hecho, es más seguro que bajar por las escaleras.",
+        "tono": "cercano"
+      },
+      {
+        "n": 22,
+        "texto": "El ascensor sigue siendo uno de los transportes más seguros que usas cada día.",
+        "tono": "cierre"
+      }
+    ],
+    "aprobacion_guion": true,
+    "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+    "lote": "LOTE_34_24oct",
+    "orden_publicacion": 34,
+    "publicacion_propuesta": "2026-11-14 20:00",
+    "palabras": 243,
+    "duracion_estimada_s": 100
+  }
+]

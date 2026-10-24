@@ -1,0 +1,158 @@
+{
+  "titulo": "Tu gato bebe agua sin MOJARSE la lengua",
+  "titulo_base": "Tu gato bebe agua sin MOJARSE la lengua",
+  "titulo_alternativa": "Perros y gatos beben de forma totalmente distinta. Y uno es un GENIO",
+  "tesis": "El gato roza la superficie y levanta una columna de agua por inercia, cerrando la boca en el momento justo (Reis et al., 2010); el perro hace algo parecido pero con mucha más fuerza (Gart et al., 2015).",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_baldo",
+  "voice_id": "RnKqZYEeVQciORlpiCz0",
+  "voz_nombre": "Baldo - voz grave peninsular",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Fotorrealista",
+  "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+  "gancho": "Primer plano a cámara ultralenta de la lengua de un gato rozando el agua y levantando una columna de agua brillante.",
+  "riesgo_monetizacion": "Ninguno.",
+  "cultura_visual": "Hogar actual",
+  "fuentes": [
+    {
+      "dato": "Reis, Jung, Aristoff y Stocker, 'How cats lap: water uptake by Felis catus', Science, 2010",
+      "fuente": "Reis, Jung, Aristoff y Stocker, 'How cats lap: water uptake by Felis catus', Science, 2010"
+    },
+    {
+      "dato": "Gart, Socha, Vlachos y Jung, 'Dogs lap using acceleration-driven open pumping', PNAS, 2015",
+      "fuente": "Gart, Socha, Vlachos y Jung, 'Dogs lap using acceleration-driven open pumping', PNAS, 2015"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Tu gato bebe agua sin apenas mojarse la lengua.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y no descubrimos cómo lo hace hasta dos mil diez.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "A simple vista, parece que lame el agua como un perro.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Pero lo hace demasiado rápido para el ojo humano.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Unos ingenieros lo grabaron con cámaras de alta velocidad.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "La punta de la lengua apenas roza la superficie del agua.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Al subirla deprisa, arrastra hacia arriba una pequeña columna de agua.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "Y cierra la boca justo antes de que esa columna se caiga.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Lo hace unas cuatro veces por segundo, con una precisión increíble.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Los grandes felinos, como los leones, hacen lo mismo, pero más despacio.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Ahora mira a tu perro: el caos es total.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "El perro dobla la lengua hacia atrás, como un cucharón.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Durante años se pensó que así recogía el agua.",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "Pero en dos mil quince otro estudio vio que su truco se parece al del gato.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "El perro golpea el agua con fuerza y también saca una columna.",
+      "tono": "contundente"
+    },
+    {
+      "n": 16,
+      "texto": "Solo que con muchísima más energía, y salpica todo.",
+      "tono": "cercano"
+    },
+    {
+      "n": 17,
+      "texto": "El perro mueve la lengua con una aceleración de varias veces la gravedad.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "¿Por qué no beben como nosotros?",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Ni perros ni gatos pueden sorber: sus mejillas no cierran del todo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "Así que cada uno inventó su propia técnica.",
+      "tono": "contundente"
+    },
+    {
+      "n": 21,
+      "texto": "Y los perros grandes salpican más, porque levantan columnas más grandes.",
+      "tono": "intriga"
+    },
+    {
+      "n": 22,
+      "texto": "Así que el charco junto al cuenco tiene explicación científica.",
+      "tono": "contundente"
+    },
+    {
+      "n": 23,
+      "texto": "Mientras tu perro ataca el agua, tu gato la seduce.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 25,
+  "publicacion_propuesta": "2026-11-10 15:00",
+  "palabras": 240,
+  "duracion_estimada_s": 99
+}

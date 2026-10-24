@@ -1,0 +1,163 @@
+{
+  "titulo": "El ASESINATO más antiguo del mundo ocurrió en España",
+  "titulo_base": "El ASESINATO más antiguo del mundo ocurrió en España",
+  "titulo_alternativa": "Un cráneo de cuatrocientos treinta mil años guarda la PRIMERA prueba de un crimen",
+  "tesis": "El cráneo 17 de la Sima de los Huesos (Atapuerca) presenta dos fracturas mortales hechas con el mismo objeto desde ángulos distintos: el caso de violencia letal más antiguo conocido (Sala et al., 2015).",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_sara",
+  "voice_id": "KHCvMklQZZo0O30ERnVn",
+  "voz_nombre": "Sara Martin 1",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Cómic de línea clara (NUEVO)",
+  "estilo": "Clean ligne-claire comic illustration, even outlines and flat soft colours, gentle and non-graphic, vertical 9:16 composition",
+  "gancho": "La entrada de una cueva en una sierra de Burgos al anochecer, con un pozo oscuro en su interior, en cómic de línea clara.",
+  "riesgo_monetizacion": "MEDIO: violencia y restos humanos. Se narra, no se dibuja: ni golpes, ni heridas, ni sangre, ni restos en primer plano. El cráneo solo como pieza de museo limpia, sin detalle de las fracturas. No programar seguido de otro short de riesgo medio.",
+  "cultura_visual": "Sierra de Atapuerca (Burgos), hace unos 430.000 años; científicos actuales",
+  "fuentes": [
+    {
+      "dato": "Sala et al., 'Lethal Interpersonal Violence in the Middle Pleistocene', PLOS ONE, 2015",
+      "fuente": "Sala et al., 'Lethal Interpersonal Violence in the Middle Pleistocene', PLOS ONE, 2015"
+    },
+    {
+      "dato": "Arsuaga et al., Science, 2014 (Sima de los Huesos)",
+      "fuente": "Arsuaga et al., Science, 2014 (Sima de los Huesos)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "El crimen más antiguo del que hay pruebas no ocurrió lejos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Ocurrió en Burgos, hace unos cuatrocientos treinta mil años.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Sierra de Atapuerca. Al fondo de una cueva hay un pozo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Un pozo vertical de trece metros.",
+      "tono": "contundente"
+    },
+    {
+      "n": 5,
+      "texto": "Lo llaman la Sima de los Huesos.",
+      "tono": "cercano"
+    },
+    {
+      "n": 6,
+      "texto": "Allí aparecieron restos de al menos veintiocho personas.",
+      "tono": "intriga"
+    },
+    {
+      "n": 7,
+      "texto": "No eran como nosotros: eran parientes antiguos de los neandertales.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Y entre los fragmentos, un cráneo reconstruido pieza a pieza: el diecisiete.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "En la frente tenía dos agujeros, uno al lado del otro.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Los investigadores los estudiaron con escáneres y modelos en tres dimensiones.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Primero descartaron una caída: no encajaba.",
+      "tono": "cercano"
+    },
+    {
+      "n": 12,
+      "texto": "Los dos golpes los dio el mismo objeto, con la misma forma.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Pero llegaron desde ángulos distintos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "Es decir: no fue un accidente. Alguien golpeó dos veces.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "Y cualquiera de los dos golpes habría sido mortal.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Después, el cuerpo acabó en el fondo del pozo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 17,
+      "texto": "Es el caso de violencia mortal entre humanos más antiguo que se conoce.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Para algunos expertos, eso apunta a algo todavía más sorprendente.",
+      "tono": "contundente"
+    },
+    {
+      "n": 19,
+      "texto": "Que esos humanos ya llevaban a sus muertos a un lugar concreto.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "Violencia y cuidado de los muertos, en la misma historia.",
+      "tono": "cercano"
+    },
+    {
+      "n": 21,
+      "texto": "El estudio se publicó en dos mil quince y dio la vuelta al mundo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 22,
+      "texto": "La sima se sigue excavando cada verano, y siguen apareciendo fragmentos.",
+      "tono": "cercano"
+    },
+    {
+      "n": 23,
+      "texto": "Atapuerca es hoy Patrimonio de la Humanidad.",
+      "tono": "contundente"
+    },
+    {
+      "n": 24,
+      "texto": "Cuatrocientos treinta mil años después… ¿quién lo hizo, y por qué?",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 10,
+  "publicacion_propuesta": "2026-11-02 20:00",
+  "palabras": 235,
+  "duracion_estimada_s": 97
+}

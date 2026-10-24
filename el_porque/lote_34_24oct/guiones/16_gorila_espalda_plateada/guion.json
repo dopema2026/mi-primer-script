@@ -1,0 +1,158 @@
+{
+  "titulo": "Casi NINGÚN depredador se atreve con un gorila espalda plateada",
+  "titulo_base": "Casi NINGÚN depredador se atreve con un gorila espalda plateada",
+  "titulo_alternativa": "El animal más temido de la selva… es casi siempre PACÍFICO",
+  "tesis": "El gorila espalda plateada casi no tiene depredadores; su exhibición (golpearse el pecho) disuade sin pelear y, según un estudio de 2021, revela su tamaño. Su gran amenaza son los humanos.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_eva",
+  "voice_id": "RgXx32WYOGrd7gFNifSf",
+  "voz_nombre": "Eva Dorado",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Aerógrafo",
+  "estilo": "Airbrush illustration with smooth gradients, luminous saturated colours and fine painted detail, vertical 9:16 composition",
+  "gancho": "Un enorme gorila espalda plateada de pie golpeándose el pecho en un claro de selva con luz entre la niebla.",
+  "riesgo_monetizacion": "Ninguno. Comportamiento animal sin violencia mostrada.",
+  "cultura_visual": "Montañas Virunga, Ruanda",
+  "fuentes": [
+    {
+      "dato": "Wright et al., 'Chest beats as an honest signal of body size in male mountain gorillas', Scientific Reports, 2021",
+      "fuente": "Wright et al., 'Chest beats as an honest signal of body size in male mountain gorillas', Scientific Reports, 2021"
+    },
+    {
+      "dato": "UICN, Lista Roja: gorila de montaña",
+      "fuente": "UICN, Lista Roja: gorila de montaña"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "En la selva hay un animal al que casi nadie ataca.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y lo curioso es que casi nunca busca pelea.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Es el gorila macho adulto: el espalda plateada.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Ese nombre viene del pelo gris que le sale en la espalda al madurar.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "Puede pesar cerca de doscientos kilos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Y su fuerza supera con mucho a la de cualquier persona.",
+      "tono": "contundente"
+    },
+    {
+      "n": 7,
+      "texto": "Solo el leopardo se atreve, muy de vez en cuando, con un gorila.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Y casi siempre con jóvenes o hembras, no con el gran macho.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Entonces, ¿por qué es tan temido si es tan pacífico?",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Porque su mejor arma no es pelear. Es convencerte de que ni lo intentes.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Se pone de pie, ruge y se golpea el pecho.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "Ese golpeteo se oye a casi un kilómetro.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "En dos mil veintiuno, unos científicos lo grabaron en Ruanda.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Descubrieron que el sonido revela su tamaño.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Cuanto más grande es el gorila, más grave suena su pecho.",
+      "tono": "contundente"
+    },
+    {
+      "n": 16,
+      "texto": "Es un aviso: mira lo grande que soy, no te compensa.",
+      "tono": "cercano"
+    },
+    {
+      "n": 17,
+      "texto": "Muchas de sus cargas son un farol: frena justo antes del choque.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Su grupo puede tener una decena de miembros, y él los protege a todos.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "El resto del tiempo come hojas y cuida de su grupo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 20,
+      "texto": "Su verdadero enemigo no está en la selva.",
+      "tono": "contundente"
+    },
+    {
+      "n": 21,
+      "texto": "Del gorila de montaña quedan poco más de mil ejemplares.",
+      "tono": "cercano"
+    },
+    {
+      "n": 22,
+      "texto": "Y su número ha empezado a crecer gracias a su protección.",
+      "tono": "contundente"
+    },
+    {
+      "n": 23,
+      "texto": "Somos nosotros: la caza y nuestras enfermedades son su mayor peligro.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 16,
+  "publicacion_propuesta": "2026-11-05 20:00",
+  "palabras": 242,
+  "duracion_estimada_s": 99
+}

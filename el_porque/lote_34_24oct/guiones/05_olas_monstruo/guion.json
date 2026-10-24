@@ -1,0 +1,163 @@
+{
+  "titulo": "Durante siglos, estas olas fueron una MENTIRA de marineros",
+  "titulo_base": "Durante siglos, estas olas fueron una MENTIRA de marineros",
+  "titulo_alternativa": "Una ola de veinticinco metros salió de la NADA en 1995",
+  "tesis": "Las olas gigantes se consideraban exageraciones hasta que la plataforma Draupner midió una de 25,6 m el 1 de enero de 1995; los satélites confirmaron que son frecuentes.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_gonzalo",
+  "voice_id": "OMWmRY8slGlr6mHJSqwy",
+  "voz_nombre": "Gonzalo - Narrador documental de España",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Fotorrealista",
+  "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+  "gancho": "Una ola gigantesca y vertical alzándose sobre una plataforma petrolífera en un mar gris y tormentoso.",
+  "riesgo_monetizacion": "Ninguno. Fenómeno natural medido; los naufragios se mencionan sin mostrar víctimas.",
+  "cultura_visual": "Mar del Norte, Noruega, 1995",
+  "fuentes": [
+    {
+      "dato": "Haver, 'A possible freak wave event measured at the Draupner jacket', 2004",
+      "fuente": "Haver, 'A possible freak wave event measured at the Draupner jacket', 2004"
+    },
+    {
+      "dato": "Agencia Espacial Europea, proyecto MaxWave (2001-2004)",
+      "fuente": "Agencia Espacial Europea, proyecto MaxWave (2001-2004)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Durante siglos, nadie creyó a los marineros.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Hablaban de olas como edificios, que salían de la nada.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Los científicos lo tenían claro: exageraciones de gente asustada.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Según sus cálculos, una ola así aparecería una vez cada diez mil años.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Hasta el uno de enero de mil novecientos noventa y cinco.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Plataforma petrolífera Draupner, en el mar del Norte.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Las olas de ese día rondaban los doce metros. Mucho, pero normal.",
+      "tono": "cercano"
+    },
+    {
+      "n": 8,
+      "texto": "Y de repente, un sensor midió una ola de veinticinco metros y medio.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "El doble que todas las de su alrededor.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Golpeó la plataforma, que por suerte resistió.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Por primera vez, una ola monstruo quedaba medida con instrumentos.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "Los marineros tenían razón desde el principio.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Años después, unos satélites europeos vigilaron los océanos durante tres semanas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Encontraron más de diez olas de más de veinticinco metros.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "No eran rarezas: estaban ahí todo el tiempo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 16,
+      "texto": "Se forman cuando varias olas coinciden y se suman en el mismo punto.",
+      "tono": "neutro"
+    },
+    {
+      "n": 17,
+      "texto": "O cuando una corriente las empuja en contra y las comprime.",
+      "tono": "cercano"
+    },
+    {
+      "n": 18,
+      "texto": "Una ola así golpea con una fuerza enorme, de muchas toneladas por metro cuadrado.",
+      "tono": "neutro"
+    },
+    {
+      "n": 19,
+      "texto": "Y los barcos se diseñaban para aguantar olas mucho más pequeñas.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Y se cree que explican barcos desaparecidos sin dejar rastro.",
+      "tono": "intriga"
+    },
+    {
+      "n": 21,
+      "texto": "Hoy los barcos y las plataformas se diseñan pensando en ellas.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "En el año dos mil, un barco científico británico registró olas de casi treinta metros cerca de Escocia.",
+      "tono": "intriga"
+    },
+    {
+      "n": 23,
+      "texto": "Y frente a la costa de Sudáfrica, una corriente muy fuerte las hace especialmente frecuentes.",
+      "tono": "neutro"
+    },
+    {
+      "n": 24,
+      "texto": "¿Cuántas historias de marineros habremos tomado por mentira?",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 5,
+  "publicacion_propuesta": "2026-10-31 15:00",
+  "palabras": 255,
+  "duracion_estimada_s": 105
+}

@@ -1,0 +1,167 @@
+{
+  "titulo": "Esa SACUDIDA justo cuando te estás durmiendo tiene nombre",
+  "titulo_base": "Esa SACUDIDA justo cuando te estás durmiendo tiene nombre",
+  "titulo_alternativa": "Te caes al dormirte… y tu cuerpo da un BOTE. ¿Por qué?",
+  "tesis": "La sacudida hípnica es una contracción involuntaria en la transición vigilia-sueño; su causa no está clara y hay varias teorías.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_bosco",
+  "voice_id": "0vrPGvXHhDD3rbGURCk8",
+  "voz_nombre": "Bosco - Deep & Calm with gentle pauses",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Collage surreal",
+  "estilo": "Surreal paper collage, torn paper pieces and hand-drawn patterned cut-outs layered with depth, warm lamplight, vertical 9:16 composition",
+  "gancho": "Una persona de collage de papel cayendo en el vacío sobre una cama, con su cuerpo dando un respingo.",
+  "riesgo_monetizacion": "Ninguno. Fenómeno de sueño común; las teorías se presentan como teorías.",
+  "cultura_visual": "Dormitorio actual; un plano de primates en un árbol para la teoría evolutiva",
+  "fuentes": [
+    {
+      "dato": "American Academy of Sleep Medicine, International Classification of Sleep Disorders (sacudidas hípnicas)",
+      "fuente": "American Academy of Sleep Medicine, International Classification of Sleep Disorders (sacudidas hípnicas)"
+    },
+    {
+      "dato": "Sander et al., revisión sobre hypnic jerks (prevalencia 60–70 %)",
+      "fuente": "Sander et al., revisión sobre hypnic jerks (prevalencia 60–70 %)"
+    },
+    {
+      "dato": "Coolidge, hipótesis del reflejo arbóreo de los primates (no demostrada)",
+      "fuente": "Coolidge, hipótesis del reflejo arbóreo de los primates (no demostrada)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Te estás quedando dormido… y de repente, sientes que caes.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Das un bote en la cama y te despiertas de golpe.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Tranquilo: le pasa a casi todo el mundo.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Se llama sacudida hípnica, y hasta siete de cada diez personas la han sentido.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Ocurre justo en la frontera entre estar despierto y dormido.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "En ese momento, tu cuerpo empieza a relajar los músculos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Tu respiración baja, tu pulso baja, tu temperatura baja.",
+      "tono": "cercano"
+    },
+    {
+      "n": 8,
+      "texto": "Y una parte de tu cerebro no se entera del cambio.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "Una teoría dice que confunde esa relajación con una caída.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Y responde como si fuera real: tensando todo el cuerpo de golpe.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Por eso muchas veces viene con la sensación de tropezar o caer.",
+      "tono": "cercano"
+    },
+    {
+      "n": 12,
+      "texto": "Otra teoría es todavía más curiosa.",
+      "tono": "intriga"
+    },
+    {
+      "n": 13,
+      "texto": "Podría ser un reflejo heredado de nuestros antepasados primates.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Dormían en los árboles, y caerse podía ser mortal.",
+      "tono": "contundente"
+    },
+    {
+      "n": 15,
+      "texto": "Un tirón a tiempo te hacía agarrarte a la rama.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Es una idea atractiva, pero nadie ha podido demostrarla.",
+      "tono": "neutro"
+    },
+    {
+      "n": 17,
+      "texto": "Lo que sí se sabe es qué la hace más frecuente.",
+      "tono": "intriga"
+    },
+    {
+      "n": 18,
+      "texto": "El café, el estrés y dormir poco.",
+      "tono": "contundente"
+    },
+    {
+      "n": 19,
+      "texto": "También hacer ejercicio intenso justo antes de acostarte.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "No es peligrosa, aunque te deje el corazón a cien.",
+      "tono": "cercano"
+    },
+    {
+      "n": 21,
+      "texto": "Y hay quien, además del bote, ve un destello o siente un chispazo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 22,
+      "texto": "Los médicos la consideran algo normal del sueño, no una enfermedad.",
+      "tono": "neutro"
+    },
+    {
+      "n": 23,
+      "texto": "Solo merece consulta si es tan frecuente que no te deja dormir.",
+      "tono": "contundente"
+    },
+    {
+      "n": 24,
+      "texto": "Esta noche puede pasarte. Ahora sabes que es tu cerebro dudando si dormirse.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 3,
+  "publicacion_propuesta": "2026-10-30 15:00",
+  "palabras": 245,
+  "duracion_estimada_s": 101
+}

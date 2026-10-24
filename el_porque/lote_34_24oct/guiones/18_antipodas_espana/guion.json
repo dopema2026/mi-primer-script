@@ -1,0 +1,162 @@
+{
+  "titulo": "Si cavas un agujero desde España, NO sales en China",
+  "titulo_base": "Si cavas un agujero desde España, NO sales en China",
+  "titulo_alternativa": "El agujero más profundo jamás hecho no llegó ni al UNO por ciento del camino",
+  "tesis": "Las antípodas de España están en Nueva Zelanda; atravesar el planeta es imposible (el pozo de Kola llegó a 12 km); caer por un túnel ideal duraría unos 42 minutos.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_elena",
+  "voice_id": "tXgbXPnsMpKXkuTgvE3h",
+  "voz_nombre": "Elena - cuentos y narraciones",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Línea de neón",
+  "estilo": "Glowing neon line art with luminous outlines on a deep night-blue background, vivid electric colours, vertical 9:16 composition",
+  "gancho": "Un corte del planeta Tierra en líneas de neón con un túnel recto que lo atraviesa de España a Nueva Zelanda.",
+  "riesgo_monetizacion": "Ninguno.",
+  "cultura_visual": "Geografía; pozo superprofundo de Kola (URSS, 1970-1989)",
+  "fuentes": [
+    {
+      "dato": "Cálculo de antípodas: España ↔ Nueva Zelanda",
+      "fuente": "Cálculo de antípodas: España ↔ Nueva Zelanda"
+    },
+    {
+      "dato": "Pozo superprofundo de Kola: 12.262 m (1989)",
+      "fuente": "Pozo superprofundo de Kola: 12.262 m (1989)"
+    },
+    {
+      "dato": "Klotz, 'The gravity tunnel in a non-uniform Earth', American Journal of Physics, 2015 (unos 38–42 min)",
+      "fuente": "Klotz, 'The gravity tunnel in a non-uniform Earth', American Journal of Physics, 2015 (unos 38–42 min)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Si cavaras un agujero recto desde España, no saldrías en China.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Saldrías en Nueva Zelanda.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Es el punto justo al otro lado del planeta: tus antípodas.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "España y Nueva Zelanda son de los pocos lugares con tierra firme en ambos extremos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Pero llegar allí es otra historia.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Tendrías que atravesar unos doce mil setecientos kilómetros de planeta.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Y en el centro, la temperatura ronda los cinco mil quinientos grados.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "Tanto como la superficie del Sol.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "¿Hasta dónde ha llegado el ser humano?",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "En la península de Kola, en el norte de Rusia, los soviéticos cavaron durante veinte años.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Llegaron a algo más de doce kilómetros. El agujero más profundo de la historia.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "Allí abajo, la roca estaba a unos ciento ochenta grados.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Y aun así, no recorrieron ni el uno por ciento del camino al centro.",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "Hoy ese agujero está cerrado con una tapa de metal oxidada.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "Y la mayor parte de la Tierra ni siquiera tiene tierra en sus antípodas.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Si cavas desde casi cualquier punto, sales en medio del océano.",
+      "tono": "neutro"
+    },
+    {
+      "n": 17,
+      "texto": "Ahora imagina un túnel perfecto, hasta Nueva Zelanda.",
+      "tono": "contundente"
+    },
+    {
+      "n": 18,
+      "texto": "Si saltaras dentro, caerías cada vez más rápido hasta el centro de la Tierra.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "Y luego frenarías poco a poco al subir por el otro lado.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "El viaje entero duraría unos cuarenta minutos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 21,
+      "texto": "Al llegar arriba, te quedarías quieto un instante.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Sería un columpio perfecto atravesando el planeta.",
+      "tono": "intriga"
+    },
+    {
+      "n": 23,
+      "texto": "Y si nadie te agarra… volverías a caer hasta España.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 18,
+  "publicacion_propuesta": "2026-11-06 20:00",
+  "palabras": 238,
+  "duracion_estimada_s": 98
+}

@@ -1,0 +1,158 @@
+{
+  "titulo": "Encontraron un zapato de cinco mil quinientos años… y aún tenía los CORDONES",
+  "titulo_base": "Encontraron un zapato de cinco mil quinientos años… y aún tenía los CORDONES",
+  "titulo_alternativa": "El zapato de cuero más antiguo del mundo podría ser de tu TALLA",
+  "tesis": "En la cueva Areni-1 (Armenia) apareció en 2008 un zapato de cuero de unos 5.500 años, de una sola pieza, con cordón y relleno de hierba, conservado bajo excrementos de oveja.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_aitana",
+  "voice_id": "AxFLn9byyiDbMn5fmyqu",
+  "voz_nombre": "Aitana",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Fotorrealista",
+  "estilo": "Photorealistic documentary photograph, natural light, real textures and true-to-life colour, vertical 9:16 composition",
+  "gancho": "Un zapato de cuero antiguo y arrugado, con su cordón, sobre arena de una cueva, iluminado por una linterna de excavación.",
+  "riesgo_monetizacion": "Ninguno.",
+  "cultura_visual": "Cueva Areni-1, Armenia, hacia 3500 a. C.; arqueólogos actuales",
+  "fuentes": [
+    {
+      "dato": "Pinhasi et al., 'First Direct Evidence of Chalcolithic Footwear from the Near Eastern Highlands', PLOS ONE, 2010",
+      "fuente": "Pinhasi et al., 'First Direct Evidence of Chalcolithic Footwear from the Near Eastern Highlands', PLOS ONE, 2010"
+    },
+    {
+      "dato": "Barnard et al., Journal of Archaeological Science, 2011 (bodega de Areni-1)",
+      "fuente": "Barnard et al., Journal of Archaeological Science, 2011 (bodega de Areni-1)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "En una cueva de Armenia apareció un zapato de cinco mil quinientos años.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Y todavía tenía el cordón puesto.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Lo encontró una arqueóloga en dos mil ocho, en la cueva de Areni.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Al principio pensaron que tendría unos pocos siglos.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "Pero las pruebas de datación dijeron otra cosa.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Es más antiguo que Stonehenge y que las pirámides de Egipto.",
+      "tono": "contundente"
+    },
+    {
+      "n": 7,
+      "texto": "Está hecho de una sola pieza de piel de vaca.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Se ajustaba alrededor del pie y se ataba con un cordón de cuero.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Y por dentro estaba relleno de hierba.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Quizá para abrigar el pie, o para que no perdiera la forma.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "El cuero estaba curtido con aceites vegetales, una técnica bastante avanzada.",
+      "tono": "cercano"
+    },
+    {
+      "n": 12,
+      "texto": "Lo más sorprendente es su tamaño: un treinta y siete europeo.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Podría quedarle bien a mucha gente hoy.",
+      "tono": "cercano"
+    },
+    {
+      "n": 14,
+      "texto": "¿Cómo aguantó tanto tiempo sin pudrirse?",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "La cueva era fresca y muy seca.",
+      "tono": "neutro"
+    },
+    {
+      "n": 16,
+      "texto": "Y una gruesa capa de excrementos de oveja lo selló como una tapa.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "Sin aire ni humedad, el cuero se conservó casi intacto.",
+      "tono": "cercano"
+    },
+    {
+      "n": 18,
+      "texto": "Se parece mucho a un calzado que se usaba en Irlanda hasta el siglo veinte.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "En esa misma cueva apareció después una bodega de vino antiquísima.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "La más antigua que se conoce.",
+      "tono": "intriga"
+    },
+    {
+      "n": 21,
+      "texto": "Zapatos y vino: hace cinco mil años ya tenían lo básico.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Hoy se guarda en el museo de historia de Armenia, en Ereván.",
+      "tono": "neutro"
+    },
+    {
+      "n": 23,
+      "texto": "Cinco milenios después, ese zapato podría ser de tu talla.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 32,
+  "publicacion_propuesta": "2026-11-13 20:00",
+  "palabras": 231,
+  "duracion_estimada_s": 95
+}

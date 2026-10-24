@@ -1,0 +1,178 @@
+{
+  "titulo": "Los astronautas oyeron MÚSICA donde nadie podía oírlos",
+  "titulo_base": "Los astronautas oyeron MÚSICA donde nadie podía oírlos",
+  "titulo_alternativa": "Detrás de la Luna, sin radio con la Tierra, sonó algo EXTRAÑO",
+  "tesis": "En 1969 la tripulación del Apolo 10 oyó un silbido 'musical' en la cara oculta de la Luna; era interferencia entre las radios de sus dos módulos.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_carmelo",
+  "voice_id": "5egO01tkUjEzu7xSSE8M",
+  "voz_nombre": "Carmelo - Mysterious & Deep",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Línea de neón",
+  "estilo": "Glowing neon line art with luminous outlines on a deep night-blue background, vivid electric colours, vertical 9:16 composition",
+  "gancho": "Una pequeña nave espacial detrás de una Luna enorme, con ondas de sonido luminosas saliendo de ella hacia el vacío.",
+  "riesgo_monetizacion": "Ninguno. Hecho documentado con transcripciones oficiales; se descarta expresamente la explicación extraterrestre.",
+  "cultura_visual": "Estados Unidos, 1969, programa Apolo",
+  "fuentes": [
+    {
+      "dato": "NASA, transcripciones de la misión Apolo 10 (mayo de 1969), publicadas en 2008",
+      "fuente": "NASA, transcripciones de la misión Apolo 10 (mayo de 1969), publicadas en 2008"
+    },
+    {
+      "dato": "NASA History Office, explicación de la interferencia VHF entre módulo lunar y módulo de mando (2016)",
+      "fuente": "NASA History Office, explicación de la interferencia VHF entre módulo lunar y módulo de mando (2016)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Tres astronautas oyeron música donde no podía haber nadie.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Estaban detrás de la Luna, sin ningún contacto con la Tierra.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Mayo de mil novecientos sesenta y nueve. Misión Apolo diez.",
+      "tono": "neutro"
+    },
+    {
+      "n": 4,
+      "texto": "Fue el ensayo general antes de pisar la Luna.",
+      "tono": "cercano"
+    },
+    {
+      "n": 5,
+      "texto": "Bajaron a solo quince kilómetros de su superficie.",
+      "tono": "contundente"
+    },
+    {
+      "n": 6,
+      "texto": "Al pasar por la cara oculta, la radio con Houston se cortó.",
+      "tono": "intriga"
+    },
+    {
+      "n": 7,
+      "texto": "Es lo normal: la propia Luna bloquea la señal.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Pero entonces, en sus cascos, empezó un silbido.",
+      "tono": "contundente"
+    },
+    {
+      "n": 9,
+      "texto": "Agudo, cambiante, casi como una melodía.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Uno de ellos dijo que sonaba a música del espacio exterior.",
+      "tono": "cercano"
+    },
+    {
+      "n": 11,
+      "texto": "Lo oyeron, de forma intermitente, durante cerca de una hora.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "Y entre ellos se preguntaron si debían contarlo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 13,
+      "texto": "Temían que nadie les creyera.",
+      "tono": "contundente"
+    },
+    {
+      "n": 14,
+      "texto": "La grabación quedó guardada durante décadas.",
+      "tono": "neutro"
+    },
+    {
+      "n": 15,
+      "texto": "Hasta que en dos mil ocho se publicaron las transcripciones.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Y en dos mil dieciséis, el audio dio la vuelta al mundo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 17,
+      "texto": "¿Extraterrestres? La explicación es mucho más terrestre.",
+      "tono": "contundente"
+    },
+    {
+      "n": 18,
+      "texto": "La nave llevaba dos módulos, y cada uno tenía su propia radio.",
+      "tono": "neutro"
+    },
+    {
+      "n": 19,
+      "texto": "Al estar tan cerca, sus señales se mezclaban.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Esa mezcla produce justo un silbido que sube y baja.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "Los ingenieros sabían que podía pasar.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Solo que nadie se lo había advertido a la tripulación.",
+      "tono": "intriga"
+    },
+    {
+      "n": 23,
+      "texto": "Imagina oír eso, solos, al otro lado de la Luna.",
+      "tono": "cercano"
+    },
+    {
+      "n": 24,
+      "texto": "En las grabaciones se les oye bromear, nerviosos, sobre lo que estaban oyendo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 25,
+      "texto": "Nadie más en el universo podía oírlos en ese momento.",
+      "tono": "contundente"
+    },
+    {
+      "n": 26,
+      "texto": "Ni siquiera Houston.",
+      "tono": "intriga"
+    },
+    {
+      "n": 27,
+      "texto": "¿Tú habrías contado lo que oíste?",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 1,
+  "publicacion_propuesta": "2026-10-29 15:00",
+  "palabras": 239,
+  "duracion_estimada_s": 98
+}

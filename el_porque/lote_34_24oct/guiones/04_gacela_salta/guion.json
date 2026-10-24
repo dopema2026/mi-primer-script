@@ -1,0 +1,163 @@
+{
+  "titulo": "Esta gacela SALTA delante del guepardo en vez de huir",
+  "titulo_base": "Esta gacela SALTA delante del guepardo en vez de huir",
+  "titulo_alternativa": "Huir sería lo lógico. Esta gacela hace justo lo CONTRARIO",
+  "tesis": "El 'stotting' de la gacela de Thomson es una señal honesta de buena forma física; los guepardos persiguen menos a las gacelas que saltan.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_marina",
+  "voice_id": "GB7fZx4ubHWxbBE05abF",
+  "voz_nombre": "Marina",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Aerógrafo",
+  "estilo": "Airbrush illustration with smooth gradients, luminous saturated colours and fine painted detail, vertical 9:16 composition",
+  "gancho": "Una gacela de Thomson suspendida en el aire con las cuatro patas rígidas, y un guepardo agazapado en la hierba al fondo.",
+  "riesgo_monetizacion": "Ninguno. Comportamiento animal sin violencia mostrada; no se dibuja la caza.",
+  "cultura_visual": "Llanuras del Serengeti, Tanzania",
+  "fuentes": [
+    {
+      "dato": "FitzGibbon y Fanshawe, Behavioral Ecology and Sociobiology, 1988 (stotting y guepardos)",
+      "fuente": "FitzGibbon y Fanshawe, Behavioral Ecology and Sociobiology, 1988 (stotting y guepardos)"
+    },
+    {
+      "dato": "Caro, 'Antipredator Defenses in Birds and Mammals', 2005",
+      "fuente": "Caro, 'Antipredator Defenses in Birds and Mammals', 2005"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Un guepardo se acerca. Y esta gacela, en vez de huir, salta.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Salta con las cuatro patas rígidas, casi sin avanzar.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Parece que se esté burlando del depredador.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "Es una gacela de Thomson, en las llanuras del Serengeti.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Y ese salto tiene nombre: los biólogos lo llaman stotting.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "Durante años nadie entendía por qué lo hacía.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Saltar en el sitio hace perder tiempo y llama la atención.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "¿No sería mejor salir corriendo sin más?",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "La respuesta llegó en los años ochenta, observando guepardos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Dos investigadores anotaron qué gacela perseguía cada guepardo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "Y los guepardos elegían, una y otra vez, a las que no saltaban.",
+      "tono": "contundente"
+    },
+    {
+      "n": 12,
+      "texto": "El salto es un mensaje: estoy en forma, no me vas a pillar.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Solo una gacela fuerte puede permitirse ese derroche de energía.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Es imposible de fingir. Y el guepardo lo sabe.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "Así que prefiere ahorrar fuerzas y buscar otra presa.",
+      "tono": "contundente"
+    },
+    {
+      "n": 16,
+      "texto": "Un guepardo solo aguanta su máxima velocidad unos pocos cientos de metros.",
+      "tono": "neutro"
+    },
+    {
+      "n": 17,
+      "texto": "Si elige mal, se queda sin cena y agotado.",
+      "tono": "cercano"
+    },
+    {
+      "n": 18,
+      "texto": "Por eso, para la gacela, presumir sale más barato que correr.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "Y no salta en cualquier momento: suele hacerlo cuando ya ha visto al depredador.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Es decir, el salto no es para escapar. Es para hablar.",
+      "tono": "contundente"
+    },
+    {
+      "n": 21,
+      "texto": "Le está diciendo al guepardo: te he visto, ya no me vas a sorprender.",
+      "tono": "neutro"
+    },
+    {
+      "n": 22,
+      "texto": "Y no es la única: también lo hacen otros antílopes y algunos ciervos.",
+      "tono": "cercano"
+    },
+    {
+      "n": 23,
+      "texto": "Los biólogos lo llaman una señal honesta.",
+      "tono": "contundente"
+    },
+    {
+      "n": 24,
+      "texto": "La próxima vez que veas a alguien presumir… quizá esté avisando de algo.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 4,
+  "publicacion_propuesta": "2026-10-30 20:00",
+  "palabras": 249,
+  "duracion_estimada_s": 102
+}

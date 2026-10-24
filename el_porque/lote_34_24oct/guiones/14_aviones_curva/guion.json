@@ -1,0 +1,153 @@
+{
+  "titulo": "Los aviones NO vuelan en línea recta. Y es la ruta más corta",
+  "titulo_base": "Los aviones NO vuelan en línea recta. Y es la ruta más corta",
+  "titulo_alternativa": "Por qué la ruta de tu avión parece un RODEO en el mapa",
+  "tesis": "La ruta más corta entre dos puntos de una esfera es un arco de círculo máximo; el mapa plano lo deforma y lo hace parecer un rodeo.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_marina",
+  "voice_id": "GB7fZx4ubHWxbBE05abF",
+  "voz_nombre": "Marina",
+  "voz_genero": "F",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_multilingual_v2",
+  "estilo_clave": "D",
+  "estilo_nombre": "Maqueta tilt-shift",
+  "estilo": "Tilt-shift miniature photograph of a tiny handcrafted scale-model scene, shallow depth of field, bright daylight, vertical 9:16 composition",
+  "gancho": "Un avión en miniatura volando sobre un globo terráqueo de maqueta, siguiendo un hilo curvo tendido entre dos ciudades.",
+  "riesgo_monetizacion": "Ninguno.",
+  "cultura_visual": "Actual; aviación y cartografía",
+  "fuentes": [
+    {
+      "dato": "Geodesia básica: ortodrómica o ruta de círculo máximo",
+      "fuente": "Geodesia básica: ortodrómica o ruta de círculo máximo"
+    },
+    {
+      "dato": "Proyección de Mercator (1569) y su deformación de superficies",
+      "fuente": "Proyección de Mercator (1569) y su deformación de superficies"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "En el mapa, la ruta de tu avión parece un rodeo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Pero en realidad está tomando el camino más corto.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "El que engaña no es el piloto. Es el mapa.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "La Tierra es una esfera, y los mapas son planos.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Y aplanar una esfera sin deformarla es imposible.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "El mapa que todos conocemos estira muchísimo las zonas del norte y del sur.",
+      "tono": "neutro"
+    },
+    {
+      "n": 7,
+      "texto": "Groenlandia parece casi tan grande como África.",
+      "tono": "contundente"
+    },
+    {
+      "n": 8,
+      "texto": "En realidad, África es unas catorce veces más grande.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Con las distancias pasa lo mismo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Coge un globo terráqueo y estira un hilo entre dos ciudades.",
+      "tono": "neutro"
+    },
+    {
+      "n": 11,
+      "texto": "El hilo no sigue la línea recta del mapa: se curva hacia el norte.",
+      "tono": "cercano"
+    },
+    {
+      "n": 12,
+      "texto": "Ese arco es la distancia más corta entre dos puntos de una esfera.",
+      "tono": "contundente"
+    },
+    {
+      "n": 13,
+      "texto": "Se llama ruta de círculo máximo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 14,
+      "texto": "Por eso un vuelo de Europa a California sobrevuela Canadá, y a veces Groenlandia.",
+      "tono": "intriga"
+    },
+    {
+      "n": 15,
+      "texto": "En el mapa parece absurdo. En el globo, es lo lógico.",
+      "tono": "cercano"
+    },
+    {
+      "n": 16,
+      "texto": "Y el ahorro es enorme: cientos de kilómetros y toneladas de combustible.",
+      "tono": "contundente"
+    },
+    {
+      "n": 17,
+      "texto": "Aun así, los pilotos no siempre siguen el arco perfecto.",
+      "tono": "neutro"
+    },
+    {
+      "n": 18,
+      "texto": "Los vientos de gran altura pueden empujarlos o frenarlos.",
+      "tono": "intriga"
+    },
+    {
+      "n": 19,
+      "texto": "A veces, un pequeño rodeo con viento a favor llega antes.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Los marinos lo sabían desde hace siglos, y trazaban sus rutas largas con la misma idea.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "Lo que funciona en el mar funciona también en el aire.",
+      "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "La próxima vez que mires la pantalla del avión, piensa: el mapa te está mintiendo.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 14,
+  "publicacion_propuesta": "2026-11-04 20:00",
+  "palabras": 237,
+  "duracion_estimada_s": 97
+}

@@ -1,0 +1,163 @@
+{
+  "titulo": "El déjà vu NO es un fallo de tu memoria. Es una ALARMA",
+  "titulo_base": "El déjà vu NO es un fallo de tu memoria. Es una ALARMA",
+  "titulo_alternativa": "Ya has vivido este momento… ¿o NO?",
+  "tesis": "El déjà vu es familiaridad sin recuerdo; un experimento de 2016 sugiere que es el cerebro detectando y corrigiendo un error de memoria.",
+  "formato": "short",
+  "canal": "El Porqué de las Cosas",
+  "serie": "",
+  "estructura": "explicativo",
+  "arranque": "contradiccion",
+  "voz": "eleven_david",
+  "voice_id": "Nh2zY9kknu6z4pZy6FhD",
+  "voz_nombre": "David Martin - Confident and Balanced",
+  "voz_genero": "M",
+  "voz_acento": "españa",
+  "modelo_voz": "eleven_v4",
+  "estilo_clave": "D",
+  "estilo_nombre": "Collage surreal",
+  "estilo": "Surreal paper collage, torn paper pieces and hand-drawn patterned cut-outs layered with depth, warm lamplight, vertical 9:16 composition",
+  "gancho": "Una persona de collage frente a una puerta, y detrás de ella, la misma escena repetida como un eco de papel.",
+  "riesgo_monetizacion": "Ninguno. Psicología con estudios publicados; se descarta lo paranormal sin burlarse.",
+  "cultura_visual": "Vida cotidiana actual y laboratorio",
+  "fuentes": [
+    {
+      "dato": "Brown, 'A review of the déjà vu experience', Psychological Bulletin, 2003",
+      "fuente": "Brown, 'A review of the déjà vu experience', Psychological Bulletin, 2003"
+    },
+    {
+      "dato": "O'Connor et al., Universidad de St Andrews, presentado en 2016 (déjà vu inducido con listas de palabras)",
+      "fuente": "O'Connor et al., Universidad de St Andrews, presentado en 2016 (déjà vu inducido con listas de palabras)"
+    }
+  ],
+  "personajes": [],
+  "bloques": [
+    {
+      "n": 1,
+      "texto": "Estás en un sitio nuevo… y sientes que ya has estado aquí.",
+      "tono": "intriga"
+    },
+    {
+      "n": 2,
+      "texto": "Sabes que es imposible. Pero tu cerebro insiste.",
+      "tono": "contundente"
+    },
+    {
+      "n": 3,
+      "texto": "Eso es el déjà vu. Dos de cada tres personas lo han sentido.",
+      "tono": "cercano"
+    },
+    {
+      "n": 4,
+      "texto": "En francés significa ya visto.",
+      "tono": "neutro"
+    },
+    {
+      "n": 5,
+      "texto": "Durante años se dijo que era un recuerdo de otra vida.",
+      "tono": "intriga"
+    },
+    {
+      "n": 6,
+      "texto": "La ciencia tiene otra explicación, mucho más curiosa.",
+      "tono": "contundente"
+    },
+    {
+      "n": 7,
+      "texto": "Tu memoria tiene dos sistemas: uno recuerda, y el otro solo dice esto me suena.",
+      "tono": "neutro"
+    },
+    {
+      "n": 8,
+      "texto": "Normalmente trabajan juntos.",
+      "tono": "cercano"
+    },
+    {
+      "n": 9,
+      "texto": "Pero a veces, el de esto me suena se enciende solo.",
+      "tono": "intriga"
+    },
+    {
+      "n": 10,
+      "texto": "Sientes familiaridad… sin ningún recuerdo detrás.",
+      "tono": "contundente"
+    },
+    {
+      "n": 11,
+      "texto": "En dos mil dieciséis, un equipo escocés lo provocó en un laboratorio.",
+      "tono": "neutro"
+    },
+    {
+      "n": 12,
+      "texto": "Leían a voluntarios palabras como cama, almohada, noche o soñar.",
+      "tono": "cercano"
+    },
+    {
+      "n": 13,
+      "texto": "Después les preguntaban si habían oído la palabra dormir.",
+      "tono": "intriga"
+    },
+    {
+      "n": 14,
+      "texto": "No la habían oído. Pero muchos sentían que sí.",
+      "tono": "contundente"
+    },
+    {
+      "n": 15,
+      "texto": "Sabían que era falso… y aun así les sonaba.",
+      "tono": "neutro"
+    },
+    {
+      "n": 16,
+      "texto": "Eso es exactamente un déjà vu.",
+      "tono": "cercano"
+    },
+    {
+      "n": 17,
+      "texto": "Y al mirar su cerebro, la zona de los recuerdos no se encendía.",
+      "tono": "intriga"
+    },
+    {
+      "n": 18,
+      "texto": "Se encendía la que toma decisiones y detecta errores.",
+      "tono": "contundente"
+    },
+    {
+      "n": 19,
+      "texto": "Por eso una teoría dice que el déjà vu es una revisión.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
+      "texto": "Tu cerebro detecta un recuerdo falso y te avisa.",
+      "tono": "cercano"
+    },
+    {
+      "n": 21,
+      "texto": "Y curiosamente, es más frecuente en gente joven y en quien viaja mucho.",
+      "tono": "intriga"
+    },
+    {
+      "n": 22,
+      "texto": "Además, se vuelve menos frecuente con la edad.",
+      "tono": "neutro"
+    },
+    {
+      "n": 23,
+      "texto": "Así que si todavía te pasa, tu cerebro sigue vigilando tus recuerdos.",
+      "tono": "contundente"
+    },
+    {
+      "n": 24,
+      "texto": "La próxima vez que lo sientas, no es magia: es tu cerebro corrigiéndose.",
+      "tono": "cierre"
+    }
+  ],
+  "aprobacion_guion": true,
+  "estado": "GUION_ESCRITO_24OCT_ORDEN_DOMINGO",
+  "lote": "LOTE_34_24oct",
+  "orden_publicacion": 7,
+  "publicacion_propuesta": "2026-11-01 15:00",
+  "palabras": 236,
+  "duracion_estimada_s": 97
+}
