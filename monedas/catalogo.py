@@ -51,6 +51,9 @@ def ficha(n, p):
     nombre = p["descripcion"].split(". ")[0]
     if p["origen"] == "subasta":
         procedencia = f"{p['casa']} · {p['subasta']} · lote {p['lote']} · {p.get('fecha_compra') or ''}"
+    elif p["origen"] == "compra directa":
+        procedencia = " · ".join(x for x in (p.get("casa"), p.get("factura") and
+                                            f"factura {p['factura']}", p.get("fecha_compra")) if x)
     else:
         procedencia = "Sin factura"
     coste = dinero(p["coste_total"], p["moneda"]) if p.get("coste_total") is not None else "—"
@@ -62,7 +65,8 @@ def ficha(n, p):
         Paragraph(escape(p["descripcion"]), TEXTO),
         Spacer(1, 4),
         Paragraph(f"<b>Procedencia:</b> {escape(procedencia)}", DATO),
-        Paragraph(f"<b>Coste total</b> (martillo + comisión + envío): {coste}", DATO),
+        Paragraph(f"<b>Coste total</b>{' (martillo + comisión + envío)' if p.get('martillo') else ''}:"
+                  f" {coste}", DATO),
         Paragraph(f"<b>Valor estimado:</b> {valor}", DATO),
     ]
     if p.get("notas"):
@@ -130,11 +134,17 @@ def main():
 
     grupos = defaultdict(list)
     for p in piezas:
-        grupos[p.get("subasta") or "Sin factura"].append(p)
+        if p.get("subasta"):
+            grupo = f"{p['casa']} · {p['subasta']}"
+        elif p["origen"] == "compra directa":
+            grupo = " · ".join(x for x in (p.get("casa"), p.get("factura") and
+                                          f"factura {p['factura']}") if x)
+        else:
+            grupo = "Sin factura"
+        grupos[grupo].append(p)
     n = 0
     for grupo, lista in grupos.items():
-        story.append(Paragraph(escape(f"{lista[0].get('casa', '')} · {grupo}"
-                                      if grupo != "Sin factura" else grupo), H2))
+        story.append(Paragraph(escape(grupo), H2))
         for p in lista:
             n += 1
             story.append(ficha(n, p))
