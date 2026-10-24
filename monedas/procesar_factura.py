@@ -71,7 +71,11 @@ def leer_lotes(pdf):
     en_tabla = False
     for n_pag, pag in enumerate(pdf.pages):
         palabras = pag.extract_words()
-        cab = next((w for w in palabras if w["text"] == "Lot" and w["x0"] < COL_LOTE_MAX_X), None)
+        # Cabecera de la tabla: "Lot" con "Description" en la misma línea
+        # (para no confundirla con el resumen "1 Lot").
+        cab = next((w for w in palabras if w["text"] == "Lot" and w["x0"] < COL_LOTE_MAX_X
+                    and any(d["text"] == "Description" and abs(d["top"] - w["top"]) < 2
+                            for d in palabras)), None)
         if cab:
             inicio, en_tabla = cab["top"], True
         elif en_tabla:
@@ -80,7 +84,7 @@ def leer_lotes(pdf):
         else:
             continue
         fin = next((w["top"] for w in palabras
-                    if w["text"] == "Lots" and w["top"] > inicio), None)
+                    if w["text"] in ("Lot", "Lots") and w["top"] > inicio + 2), None)
         if fin is None:
             # La tabla sigue en la página siguiente; acaba en la raya que separa el pie.
             rayas = [l["top"] for l in pag.lines + pag.rects
