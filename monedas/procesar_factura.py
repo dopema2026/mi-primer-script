@@ -37,7 +37,8 @@ def guardar_inventario(inv):
 
 
 def numero(texto):
-    return float(texto.replace(",", ""))
+    # Separador de miles: "1,176.00" o "1'176.00"
+    return float(re.sub(r"[,'’]", "", texto))
 
 
 def leer_cabecera(texto):
@@ -50,16 +51,16 @@ def leer_cabecera(texto):
     if m:
         cab["lugar"], cab["fecha"] = m.group(1).strip(), m.group(2)
     # "Buyer's premium (+16.50%)" o "Buyer's commission" con el porcentaje en otra línea
-    m = re.search(r"Buyer's (?:premium|commission).*?(\d[\d.,]*) ([A-Z]{3})", texto)
+    m = re.search(r"Buyer's (?:premium|commission).*?(\d[\d.,'’]*) ([A-Z]{3})", texto)
     if m:
         cab["comision"] = numero(m.group(1))
         cab["moneda"] = m.group(2)
     m = re.search(r"\(\+([\d.]+)%\)", texto)
     cab["comision_pct"] = numero(m.group(1)) if m else 0.0
-    for clave, patron in [("martillo_total", r"Total hammer\s+([\d.,]+)"),
-                          ("envio", r"Shipping costs.*?(\d[\d.,]*) [A-Z]{3}"),
-                          ("gastos_pago", r"Payment fees.*?(\d[\d.,]*) [A-Z]{3}"),
-                          ("total", r"^\s+Total\s+([\d.,]+)")]:
+    for clave, patron in [("martillo_total", r"Total hammer\s+(\d[\d.,'’]*)"),
+                          ("envio", r"Shipping costs.*?(\d[\d.,'’]*) [A-Z]{3}"),
+                          ("gastos_pago", r"Payment fees.*?(\d[\d.,'’]*) [A-Z]{3}"),
+                          ("total", r"^\s+Total\s+(\d[\d.,'’]*)")]:
         m = re.search(patron, texto, re.M)
         cab[clave] = numero(m.group(1)) if m else 0.0
     return cab
@@ -111,6 +112,8 @@ def leer_lotes(pdf):
                     lineas.setdefault(round(p["top"]), []).append(p["text"])
             desc = " ".join(" ".join(v) for _, v in sorted(lineas.items()))
             desc = re.sub(r"(\w)- (\w)", r"\1-\2", desc)  # guion al final de línea
+            desc = re.sub(r"\s*_{3,}\s*", " ", desc)  # separadores "_______"
+            desc = re.sub(r"\s+([:.,;])", r"\1", desc)
             precio = [p["text"] for p in fila if p["x0"] >= COL_PRECIO_X]
             img = next((im for im in pag.images
                         if arriba <= im["top"] < abajo and im["x0"] < COL_DESC_X[0]), None)
@@ -180,6 +183,11 @@ def main():
     if abs(suma - cab.get("martillo_total", suma)) > 0.01:
         sys.exit(f"La suma de lotes ({suma}) no cuadra con el total de la factura "
                  f"({cab['martillo_total']}); revisar la lectura.")
+
+    calculado = cab["martillo_total"] + cab["comision"] + cab["envio"] + cab["gastos_pago"]
+    if abs(calculado - cab["total"]) > 0.01:
+        sys.exit(f"Martillo + comisión + envío + gastos ({calculado:.2f}) no cuadra con el "
+                 f"total de la factura ({cab['total']:.2f}); revisar la lectura.")
 
     id_subasta = f"{cab['subasta']} / {cab['factura']}"
     inv = cargar_inventario()
