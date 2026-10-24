@@ -119,7 +119,7 @@
     },
     {
       "n": 18,
-      "texto": "Su grupo puede tener una decena de miembros, y él los protege a todos.",
+      "texto": "Un grupo puede tener una decena de miembros, y él los protege a todos.",
       "tono": "cercano"
     },
     {
@@ -129,18 +129,18 @@
     },
     {
       "n": 20,
-      "texto": "Su verdadero enemigo no está en la selva.",
-      "tono": "contundente"
-    },
-    {
-      "n": 21,
       "texto": "Del gorila de montaña quedan poco más de mil ejemplares.",
       "tono": "cercano"
     },
     {
-      "n": 22,
+      "n": 21,
       "texto": "Y su número ha empezado a crecer gracias a su protección.",
       "tono": "contundente"
+    },
+    {
+      "n": 22,
+      "texto": "Su verdadero enemigo no está en la selva.",
+      "tono": "neutro"
     },
     {
       "n": 23,

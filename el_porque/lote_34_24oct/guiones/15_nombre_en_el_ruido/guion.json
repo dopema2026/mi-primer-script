@@ -114,32 +114,32 @@
     },
     {
       "n": 17,
-      "texto": "Se cree que es un sistema de alerta muy antiguo.",
-      "tono": "neutro"
-    },
-    {
-      "n": 18,
-      "texto": "Si alguien te llama, puede ser importante. O peligroso.",
-      "tono": "intriga"
-    },
-    {
-      "n": 19,
-      "texto": "Por eso a veces crees oír tu nombre… y no te ha llamado nadie.",
-      "tono": "cercano"
-    },
-    {
-      "n": 20,
       "texto": "Se ha visto incluso en bebés de pocos meses, que ya reaccionan a su nombre.",
       "tono": "neutro"
     },
     {
-      "n": 21,
+      "n": 18,
       "texto": "Es de lo primero que aprendemos a reconocer.",
       "tono": "contundente"
     },
     {
-      "n": 22,
+      "n": 19,
       "texto": "Antes incluso de entender lo que significa.",
+      "tono": "cercano"
+    },
+    {
+      "n": 20,
+      "texto": "Se cree que es un sistema de alerta muy antiguo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 21,
+      "texto": "Si alguien te llama, puede ser importante. O peligroso.",
+      "tono": "intriga"
+    },
+    {
+      "n": 22,
+      "texto": "Por eso a veces crees oír tu nombre… y no te ha llamado nadie.",
       "tono": "cercano"
     },
     {

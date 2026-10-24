@@ -118,28 +118,28 @@
     },
     {
       "n": 17,
-      "texto": "Para casi todos es solo una curiosidad.",
-      "tono": "cercano"
+      "texto": "Hay quien estornuda una sola vez, y quien encadena tres, cuatro o más.",
+      "tono": "intriga"
     },
     {
       "n": 18,
+      "texto": "Y siempre, siempre, con el mismo culpable delante.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "Para casi todos es solo una curiosidad.",
+      "tono": "neutro"
+    },
+    {
+      "n": 20,
       "texto": "Pero para un piloto de combate puede ser un problema serio.",
       "tono": "intriga"
     },
     {
-      "n": 19,
+      "n": 21,
       "texto": "Un estornudo al salir de una nube, con el sol de frente, no es ninguna broma.",
       "tono": "contundente"
-    },
-    {
-      "n": 20,
-      "texto": "Hay quien estornuda una sola vez, y quien encadena tres, cuatro o más.",
-      "tono": "neutro"
-    },
-    {
-      "n": 21,
-      "texto": "Y siempre, siempre, con el mismo culpable delante.",
-      "tono": "cercano"
     },
     {
       "n": 22,

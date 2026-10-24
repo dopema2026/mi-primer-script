@@ -119,23 +119,23 @@
     },
     {
       "n": 18,
+      "texto": "Hay incluso personas que pueden provocarse la piel de gallina a voluntad.",
+      "tono": "cercano"
+    },
+    {
+      "n": 19,
+      "texto": "Son muy pocas, y la ciencia apenas ha empezado a estudiarlas.",
+      "tono": "contundente"
+    },
+    {
+      "n": 20,
       "texto": "Y luego está lo más raro: que se nos ponga con una canción.",
       "tono": "intriga"
     },
     {
-      "n": 19,
+      "n": 21,
       "texto": "Una emoción fuerte activa el mismo sistema que el miedo o el frío.",
       "tono": "cercano"
-    },
-    {
-      "n": 20,
-      "texto": "Hay incluso personas que pueden provocarse la piel de gallina a voluntad.",
-      "tono": "neutro"
-    },
-    {
-      "n": 21,
-      "texto": "Son muy pocas, y la ciencia apenas ha empezado a estudiarlas.",
-      "tono": "contundente"
     },
     {
       "n": 22,

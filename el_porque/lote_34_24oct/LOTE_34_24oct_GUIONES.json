@@ -1783,23 +1783,23 @@
       },
       {
         "n": 18,
+        "texto": "Hay incluso personas que pueden provocarse la piel de gallina a voluntad.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "Son muy pocas, y la ciencia apenas ha empezado a estudiarlas.",
+        "tono": "contundente"
+      },
+      {
+        "n": 20,
         "texto": "Y luego está lo más raro: que se nos ponga con una canción.",
         "tono": "intriga"
       },
       {
-        "n": 19,
+        "n": 21,
         "texto": "Una emoción fuerte activa el mismo sistema que el miedo o el frío.",
         "tono": "cercano"
-      },
-      {
-        "n": 20,
-        "texto": "Hay incluso personas que pueden provocarse la piel de gallina a voluntad.",
-        "tono": "neutro"
-      },
-      {
-        "n": 21,
-        "texto": "Son muy pocas, y la ciencia apenas ha empezado a estudiarlas.",
-        "tono": "contundente"
       },
       {
         "n": 22,
@@ -2408,32 +2408,32 @@
       },
       {
         "n": 17,
-        "texto": "Se cree que es un sistema de alerta muy antiguo.",
-        "tono": "neutro"
-      },
-      {
-        "n": 18,
-        "texto": "Si alguien te llama, puede ser importante. O peligroso.",
-        "tono": "intriga"
-      },
-      {
-        "n": 19,
-        "texto": "Por eso a veces crees oír tu nombre… y no te ha llamado nadie.",
-        "tono": "cercano"
-      },
-      {
-        "n": 20,
         "texto": "Se ha visto incluso en bebés de pocos meses, que ya reaccionan a su nombre.",
         "tono": "neutro"
       },
       {
-        "n": 21,
+        "n": 18,
         "texto": "Es de lo primero que aprendemos a reconocer.",
         "tono": "contundente"
       },
       {
-        "n": 22,
+        "n": 19,
         "texto": "Antes incluso de entender lo que significa.",
+        "tono": "cercano"
+      },
+      {
+        "n": 20,
+        "texto": "Se cree que es un sistema de alerta muy antiguo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 21,
+        "texto": "Si alguien te llama, puede ser importante. O peligroso.",
+        "tono": "intriga"
+      },
+      {
+        "n": 22,
+        "texto": "Por eso a veces crees oír tu nombre… y no te ha llamado nadie.",
         "tono": "cercano"
       },
       {
@@ -2572,7 +2572,7 @@
       },
       {
         "n": 18,
-        "texto": "Su grupo puede tener una decena de miembros, y él los protege a todos.",
+        "texto": "Un grupo puede tener una decena de miembros, y él los protege a todos.",
         "tono": "cercano"
       },
       {
@@ -2582,18 +2582,18 @@
       },
       {
         "n": 20,
-        "texto": "Su verdadero enemigo no está en la selva.",
-        "tono": "contundente"
-      },
-      {
-        "n": 21,
         "texto": "Del gorila de montaña quedan poco más de mil ejemplares.",
         "tono": "cercano"
       },
       {
-        "n": 22,
+        "n": 21,
         "texto": "Y su número ha empezado a crecer gracias a su protección.",
         "tono": "contundente"
+      },
+      {
+        "n": 22,
+        "texto": "Su verdadero enemigo no está en la selva.",
+        "tono": "neutro"
       },
       {
         "n": 23,
@@ -3017,13 +3017,13 @@
       },
       {
         "n": 10,
-        "texto": "Pero aquí viene lo inesperado.",
-        "tono": "intriga"
+        "texto": "Si le dicen un año, recuerda casi cualquier día de él.",
+        "tono": "neutro"
       },
       {
         "n": 11,
-        "texto": "Si le dicen un año, recuerda casi cualquier día de él.",
-        "tono": "neutro"
+        "texto": "Pero aquí viene lo inesperado.",
+        "tono": "intriga"
       },
       {
         "n": 12,
@@ -3072,28 +3072,28 @@
       },
       {
         "n": 21,
-        "texto": "Para el resto de nosotros, olvidar no es un fallo.",
-        "tono": "neutro"
+        "texto": "Lo extraño es que no usan ningún truco de memoria.",
+        "tono": "cercano"
       },
       {
         "n": 22,
-        "texto": "Es lo que nos permite seguir adelante.",
-        "tono": "contundente"
-      },
-      {
-        "n": 23,
-        "texto": "Lo extraño es que no usan ningún truco de memoria.",
-        "tono": "intriga"
-      },
-      {
-        "n": 24,
         "texto": "Simplemente, sus recuerdos no se apagan.",
         "tono": "neutro"
       },
       {
-        "n": 25,
+        "n": 23,
         "texto": "Ella ha contado que su memoria es a la vez un regalo y una carga.",
         "tono": "cercano"
+      },
+      {
+        "n": 24,
+        "texto": "Para el resto de nosotros, olvidar no es un fallo.",
+        "tono": "neutro"
+      },
+      {
+        "n": 25,
+        "texto": "Es lo que nos permite seguir adelante.",
+        "tono": "contundente"
       },
       {
         "n": 26,
@@ -3206,18 +3206,18 @@
       },
       {
         "n": 13,
-        "texto": "Su dueño lo llevó a una universidad de Utah para que lo examinaran.",
+        "texto": "Llegó a pesar más de tres kilos y medio.",
         "tono": "neutro"
       },
       {
         "n": 14,
-        "texto": "Los científicos confirmaron que no había ningún truco.",
-        "tono": "contundente"
+        "texto": "Su dueño lo llevó a una universidad de Utah para que lo examinaran.",
+        "tono": "cercano"
       },
       {
         "n": 15,
-        "texto": "Llegó a pesar más de tres kilos y medio.",
-        "tono": "neutro"
+        "texto": "Los científicos confirmaron que no había ningún truco.",
+        "tono": "contundente"
       },
       {
         "n": 16,
@@ -3727,28 +3727,28 @@
       },
       {
         "n": 17,
-        "texto": "Para casi todos es solo una curiosidad.",
-        "tono": "cercano"
+        "texto": "Hay quien estornuda una sola vez, y quien encadena tres, cuatro o más.",
+        "tono": "intriga"
       },
       {
         "n": 18,
+        "texto": "Y siempre, siempre, con el mismo culpable delante.",
+        "tono": "cercano"
+      },
+      {
+        "n": 19,
+        "texto": "Para casi todos es solo una curiosidad.",
+        "tono": "neutro"
+      },
+      {
+        "n": 20,
         "texto": "Pero para un piloto de combate puede ser un problema serio.",
         "tono": "intriga"
       },
       {
-        "n": 19,
+        "n": 21,
         "texto": "Un estornudo al salir de una nube, con el sol de frente, no es ninguna broma.",
         "tono": "contundente"
-      },
-      {
-        "n": 20,
-        "texto": "Hay quien estornuda una sola vez, y quien encadena tres, cuatro o más.",
-        "tono": "neutro"
-      },
-      {
-        "n": 21,
-        "texto": "Y siempre, siempre, con el mismo culpable delante.",
-        "tono": "cercano"
       },
       {
         "n": 22,
@@ -5348,28 +5348,28 @@
       },
       {
         "n": 19,
-        "texto": "La buena noticia es que se puede engañar al reloj.",
-        "tono": "contundente"
-      },
-      {
-        "n": 20,
-        "texto": "Viajar, aprender algo nuevo o cambiar de rutina crea recuerdos distintos.",
-        "tono": "neutro"
-      },
-      {
-        "n": 21,
         "texto": "En cambio, los momentos de miedo o de emoción parecen durar más.",
         "tono": "intriga"
       },
       {
-        "n": 22,
+        "n": 20,
         "texto": "Tu cerebro graba más detalles, y al recordarlos se alargan.",
         "tono": "neutro"
       },
       {
-        "n": 23,
+        "n": 21,
         "texto": "Por eso un susto de dos segundos se recuerda como si hubiera durado mucho más.",
         "tono": "cercano"
+      },
+      {
+        "n": 22,
+        "texto": "La buena noticia es que se puede engañar al reloj.",
+        "tono": "contundente"
+      },
+      {
+        "n": 23,
+        "texto": "Viajar, aprender algo nuevo o cambiar de rutina crea recuerdos distintos.",
+        "tono": "neutro"
       },
       {
         "n": 24,

@@ -10,7 +10,8 @@ Cuenta como **aprobación de los 34 guiones** y como **«adelante»** para narra
 **Riesgo de monetización:** medio en 3 shorts (10 Atapuerca, 20 pollo Mike, 31 monjes momificados). Están separados en el orden de publicación y llevan reglas visuales en su campo `riesgo_monetizacion`: se narra, no se dibuja. Los otros 31 no tienen riesgo. Todos van con la etiqueta de IA de siempre.
 
 ## Qué hay en esta carpeta de Drive
-- `LOTE_34_24oct_GUIONES.json`: los 34 `guion.json` en una lista. Cada elemento lleva `carpeta` (p. ej. `01_apolo10_musica`) y el resto de campos que exige la fábrica: títulos A/B, tesis, voz con su `voice_id`, estilo y bloque de estilo, gancho, riesgo, cultura visual, fuentes y bloques con tono.
+- `GUIONES_01-17.md` y `GUIONES_18-34.md`: los 34 guiones completos. Cada uno lleva títulos A/B, tesis, voz con su `voice_id` y modelo, estilo y bloque de estilo, gancho, riesgo, cultura visual, fecha, fuentes y bloques con tono.
+- `md_a_guiones.py`: convierte esos dos MD en los 34 `guion.json` de la fábrica, con todos los campos.
 - `CALENDARIO.md`: el orden, las fechas propuestas y el reparto de estilos y voces.
 - Este fichero.
 
@@ -29,7 +30,7 @@ Cuenta como **aprobación de los 34 guiones** y como **«adelante»** para narra
    Si una cifra no se sostiene, corrige la frase y apúntalo.
 
 ### 1 · Carpetas y guion
-Crea `F:\ProyectoYoutube\porque\LOTE_34_24oct\NN_slug\` para cada short, con el `guion.json` sacado del JSON combinado (cada elemento sin el campo `carpeta`). Mantén `aprobacion_guion: true` (orden de Domingo).
+Descarga los dos MD y `md_a_guiones.py` en una misma carpeta y ejecuta `python md_a_guiones.py F:\ProyectoYoutube\porque\LOTE_34_24oct`. Crea `NN_slug\guion.json` para los 34. Mantén `aprobacion_guion: true` (orden de Domingo). Si corriges una frase en el paso 0, corrígela en el `guion.json`.
 
 ### 2 · Narración (ElevenLabs por MCP, nunca por API)
 - Un texto por short **en una sola línea**, con `<break time="1.2s" />` entre bloques. Usa la voz y el modelo de cada `guion.json`.

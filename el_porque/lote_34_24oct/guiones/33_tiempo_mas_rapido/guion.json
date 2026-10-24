@@ -128,28 +128,28 @@
     },
     {
       "n": 19,
-      "texto": "La buena noticia es que se puede engañar al reloj.",
-      "tono": "contundente"
-    },
-    {
-      "n": 20,
-      "texto": "Viajar, aprender algo nuevo o cambiar de rutina crea recuerdos distintos.",
-      "tono": "neutro"
-    },
-    {
-      "n": 21,
       "texto": "En cambio, los momentos de miedo o de emoción parecen durar más.",
       "tono": "intriga"
     },
     {
-      "n": 22,
+      "n": 20,
       "texto": "Tu cerebro graba más detalles, y al recordarlos se alargan.",
       "tono": "neutro"
     },
     {
-      "n": 23,
+      "n": 21,
       "texto": "Por eso un susto de dos segundos se recuerda como si hubiera durado mucho más.",
       "tono": "cercano"
+    },
+    {
+      "n": 22,
+      "texto": "La buena noticia es que se puede engañar al reloj.",
+      "tono": "contundente"
+    },
+    {
+      "n": 23,
+      "texto": "Viajar, aprender algo nuevo o cambiar de rutina crea recuerdos distintos.",
+      "tono": "neutro"
     },
     {
       "n": 24,

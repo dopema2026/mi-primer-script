@@ -83,13 +83,13 @@
     },
     {
       "n": 10,
-      "texto": "Pero aquí viene lo inesperado.",
-      "tono": "intriga"
+      "texto": "Si le dicen un año, recuerda casi cualquier día de él.",
+      "tono": "neutro"
     },
     {
       "n": 11,
-      "texto": "Si le dicen un año, recuerda casi cualquier día de él.",
-      "tono": "neutro"
+      "texto": "Pero aquí viene lo inesperado.",
+      "tono": "intriga"
     },
     {
       "n": 12,
@@ -138,28 +138,28 @@
     },
     {
       "n": 21,
-      "texto": "Para el resto de nosotros, olvidar no es un fallo.",
-      "tono": "neutro"
+      "texto": "Lo extraño es que no usan ningún truco de memoria.",
+      "tono": "cercano"
     },
     {
       "n": 22,
-      "texto": "Es lo que nos permite seguir adelante.",
-      "tono": "contundente"
-    },
-    {
-      "n": 23,
-      "texto": "Lo extraño es que no usan ningún truco de memoria.",
-      "tono": "intriga"
-    },
-    {
-      "n": 24,
       "texto": "Simplemente, sus recuerdos no se apagan.",
       "tono": "neutro"
     },
     {
-      "n": 25,
+      "n": 23,
       "texto": "Ella ha contado que su memoria es a la vez un regalo y una carga.",
       "tono": "cercano"
+    },
+    {
+      "n": 24,
+      "texto": "Para el resto de nosotros, olvidar no es un fallo.",
+      "tono": "neutro"
+    },
+    {
+      "n": 25,
+      "texto": "Es lo que nos permite seguir adelante.",
+      "tono": "contundente"
     },
     {
       "n": 26,
