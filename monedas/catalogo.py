@@ -5,7 +5,7 @@ Uso:
 """
 import json
 from collections import defaultdict
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -78,6 +78,16 @@ def ficha(n, p):
     return KeepTogether([t, Spacer(1, 6)])
 
 
+def orden(p):
+    """Por fecha de compra y número de lote; lo que no tiene factura, al final."""
+    try:
+        fecha = datetime.strptime(p.get("fecha_compra") or "", "%d %b %Y")
+    except ValueError:
+        fecha = datetime.max
+    lote = p.get("lote") or ""
+    return (fecha, p.get("subasta") or "", int(lote) if lote.isdigit() else 0, lote)
+
+
 def pie(c, doc):
     c.saveState()
     c.setFont("Helvetica", 7.5)
@@ -88,7 +98,7 @@ def pie(c, doc):
 
 def main():
     inv = json.loads(INVENTARIO.read_text(encoding="utf-8"))
-    piezas = inv["piezas"]
+    piezas = sorted(inv["piezas"], key=orden)
     DESTINO.parent.mkdir(exist_ok=True)
 
     por_moneda = defaultdict(float)
