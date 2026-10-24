@@ -154,3 +154,10 @@ Primero se gasta lo ya hecho; solo entran **4 nuevos de temporada**, que habría
 | Lun 3 nov | 21 Venus (por montar) | primer nuevo del plan general |
 
 A partir del 3 nov, el plan general (sección 2) ya filtrado.
+
+---
+
+## 7. Corrección de Domingo (24/10)
+**Hormigón romano (15), agujero negro (18), dodecaedro romano (19) y Venus (21) YA ESTÁN PUBLICADOS.** Salen de la cola para siempre. No se montan, no se programan y no se vuelven a proponer. El ESTADO.md de Drive los da como "sin montar": está mal y lo corrige Claude en el PC.
+
+La cola desde el 29 oct queda en **37 Shorts**: los 3 montados (Göbekli Tepe, Neandertal Bruniquel, Sábana Santa) más los 34 temas nuevos filtrados. Son unos 18–19 días a 2 al día.
