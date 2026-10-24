@@ -50,15 +50,15 @@ def leer_cabecera(texto):
     if m:
         cab["lugar"], cab["fecha"] = m.group(1).strip(), m.group(2)
     # "Buyer's premium (+16.50%)" o "Buyer's commission" con el porcentaje en otra línea
-    m = re.search(r"Buyer's (?:premium|commission).*?([\d.,]+) ([A-Z]{3})", texto)
+    m = re.search(r"Buyer's (?:premium|commission).*?(\d[\d.,]*) ([A-Z]{3})", texto)
     if m:
         cab["comision"] = numero(m.group(1))
         cab["moneda"] = m.group(2)
     m = re.search(r"\(\+([\d.]+)%\)", texto)
     cab["comision_pct"] = numero(m.group(1)) if m else 0.0
     for clave, patron in [("martillo_total", r"Total hammer\s+([\d.,]+)"),
-                          ("envio", r"Shipping costs[^\d]*?([\d.,]+) \w+"),
-                          ("gastos_pago", r"Payment fees[^\d]*?([\d.,]+) \w+"),
+                          ("envio", r"Shipping costs.*?(\d[\d.,]*) [A-Z]{3}"),
+                          ("gastos_pago", r"Payment fees.*?(\d[\d.,]*) [A-Z]{3}"),
                           ("total", r"^\s+Total\s+([\d.,]+)")]:
         m = re.search(patron, texto, re.M)
         cab[clave] = numero(m.group(1)) if m else 0.0
@@ -82,8 +82,11 @@ def leer_lotes(pdf):
         fin = next((w["top"] for w in palabras
                     if w["text"] == "Lots" and w["top"] > inicio), None)
         if fin is None:
-            # La tabla sigue en la página siguiente; acaba en el pie con los datos del vendedor.
-            fin = min((w["top"] for w in palabras if w["text"] == "•"), default=pag.height)
+            # La tabla sigue en la página siguiente; acaba en la raya que separa el pie.
+            rayas = [l["top"] for l in pag.lines + pag.rects
+                     if l["x1"] - l["x0"] > pag.width / 2 and l["bottom"] - l["top"] < 2
+                     and l["top"] > pag.height * 0.75]
+            fin = min(rayas, default=pag.height)
         else:
             en_tabla = False
         inicios = [w for w in palabras
@@ -103,7 +106,7 @@ def leer_lotes(pdf):
                 if COL_DESC_X[0] <= p["x0"] < COL_DESC_X[1]:
                     lineas.setdefault(round(p["top"]), []).append(p["text"])
             desc = " ".join(" ".join(v) for _, v in sorted(lineas.items()))
-            desc = re.sub(r"(\w)- (\w)", r"\1\2", desc)
+            desc = re.sub(r"(\w)- (\w)", r"\1-\2", desc)  # guion al final de línea
             precio = [p["text"] for p in fila if p["x0"] >= COL_PRECIO_X]
             img = next((im for im in pag.images
                         if arriba <= im["top"] < abajo and im["x0"] < COL_DESC_X[0]), None)
