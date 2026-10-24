@@ -101,3 +101,22 @@ Prueba = el vídeo más parecido que está funcionando ahora mismo (vistas · br
 - 1 Short al día con la fórmula de 90–120 s y título con giro. Publica el **n.º 29 (Halloween) hoy o mañana**.
 - 1 largo cada semana: L3, luego L1, L4, L2 y L5. Empieza por L3 porque recicla tu mejor Short.
 - Cada Short de un tema enlaza (vídeo relacionado) al largo de ese tema.
+
+---
+
+## 5. Calendario combinado 24/10 – 2/11 (plan principal + 6 Shorts de temporada)
+
+El foco sigue siendo el plan general. Solo se cuelan **6 Shorts de Halloween / Día de Muertos** (🎃), los que tienen mejores datos. El resto de ideas de temporada queda como reserva en `temporada-halloween-dia-de-muertos-2026.md`.
+
+| Día | 13:00 | 18:00 |
+|---|---|---|
+| Sáb 24 | 🎃 ¿Qué significa REALMENTE la palabra "Halloween"? (121 K en 1 día, 3,8 K VPH) | #1 Dedos arrugados en el agua |
+| Dom 25 | #30 Espacio antes del cero en la regla | 🎃 Las calabazas de Halloween eran NABOS (keyword con competencia 13) |
+| Lun 26 | #25 El veneno de la papa andina | #21 El asesinato más antiguo, en Atapuerca |
+| Mar 27 | 🎃 El gato negro da mala suerte… salvo en Reino Unido y Japón ("el gato negro" +400 %) | #12 Gorila espalda plateada |
+| Mié 28 | #31 La cuchara del McFlurry | 🎃 Europa se comía a las MOMIAS como medicina |
+| Jue 29 | **LARGO L3: Tu cerebro te ENGAÑA todos los días** | #3 Ventana de Ames |
+| Vie 30 | 🎃 El Día de Muertos NO es el "Halloween mexicano" ("día de muertos" +239 %) | #34 La trampa de los supermercados |
+| Sáb 31 | #16 Hipopótamos que "sudan sangre" | 🎃 Por qué la ofrenda está llena de flores NARANJAS ("altar de muertos" +255 %) |
+| Dom 1/11 | #10 Morir justo después de jubilarse | #11 REMAKE del bostezo |
+| Lun 2/11 | #15 La gacela que salta en vez de correr | #23 El zapato de 5.500 años |

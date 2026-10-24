@@ -1,5 +1,7 @@
 # Temporada Halloween, Todos los Santos y Día de Muertos (24/10 – 2/11/2026)
 
+> **Reserva.** El plan activo es el calendario combinado de `ideas-virales-el-porque-de-las-cosas-2026-10-24.md` (sección 5), con solo 6 Shorts de temporada. Este archivo queda como banco de ideas extra.
+
 Investigación vidIQ del 24/10/2026 (unos 50 créditos más; total de la sesión: unos 150 de 200).
 **Ventana:** estos temas mueren después del 2 de noviembre. Hay que publicar ya.
 
