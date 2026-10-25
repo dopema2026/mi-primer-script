@@ -1,0 +1,11 @@
+# Los medios generados no se suben al repo
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.srt
+productos/*/finales/
+!productos/_plantilla/
