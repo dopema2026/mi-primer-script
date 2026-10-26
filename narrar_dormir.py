@@ -20,6 +20,7 @@ AWS_DEFAULT_REGION). Necesita boto3 y ffmpeg.
 import argparse
 import glob
 import html
+import json
 import os
 import re
 import subprocess
@@ -71,28 +72,45 @@ def recortar(capitulos, palabras):
     return [parrafos]
 
 
+def titulos(ruta):
+    """Títulos de capítulo de la sección GUION, en el mismo orden que leer_guion."""
+    texto = open(ruta, encoding="utf-8").read()
+    guion = texto[texto.index("## GUION") + len("## GUION"):texto.index("## FUENTES")]
+    return re.findall(r"^#+\s*(.+)$", guion, re.M)
+
+
 def trozos_ssml(capitulos, velocidad):
-    """Agrupa párrafos en peticiones SSML de menos de MAX_CARACTERES de texto."""
-    trozos, partes, largo = [], [], 0
+    """Agrupa párrafos en peticiones SSML de menos de MAX_CARACTERES de texto.
+
+    Cada capítulo empieza en un trozo nuevo, para poder medir dónde empieza en el audio.
+    Devuelve pares (ssml, número de capítulo que empieza en ese trozo o None).
+    """
+    trozos = []
     for i, capitulo in enumerate(capitulos):
+        partes, largo, inicio = [], 0, i
         for j, parrafo in enumerate(capitulo):
             ultimo_del_capitulo = j == len(capitulo) - 1
             pausa = PAUSA_CAPITULO if ultimo_del_capitulo and i < len(capitulos) - 1 else PAUSA_PARRAFO
             if partes and largo + len(parrafo) > MAX_CARACTERES:
-                trozos.append(partes)
-                partes, largo = [], 0
+                trozos.append((partes, inicio))
+                partes, largo, inicio = [], 0, None
             partes.append((parrafo, pausa))
             largo += len(parrafo)
-    if partes:
-        trozos.append(partes)
+        trozos.append((partes, inicio))
 
     ssml = []
-    for partes in trozos:
+    for partes, inicio in trozos:
         cuerpo = "".join(f'{html.escape(p, quote=False)}<break time="{b}"/>' for p, b in partes)
         if velocidad:
             cuerpo = f'<prosody rate="{velocidad}">{cuerpo}</prosody>'
-        ssml.append(f"<speak>{cuerpo}</speak>")
+        ssml.append((f"<speak>{cuerpo}</speak>", inicio))
     return ssml
+
+
+def duracion(ruta):
+    salida = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                             "-of", "csv=p=0", ruta], capture_output=True, text=True, check=True)
+    return float(salida.stdout)
 
 
 def capitulos_a_narrar(ruta, args):
@@ -107,9 +125,10 @@ def narrar(ruta, args, polly):
     if os.path.exists(salida):
         print(f"ya existe, lo salto: {salida}")
         return
+    nombres = titulos(ruta)
     with tempfile.TemporaryDirectory() as tmp:
-        lista = []
-        for n, trozo in enumerate(ssml):
+        lista, marcas, segundos = [], [], 0.0
+        for n, (trozo, inicio) in enumerate(ssml):
             respuesta = polly.synthesize_speech(
                 Text=trozo, TextType="ssml", OutputFormat="mp3",
                 VoiceId=args.voz, Engine=args.motor, SampleRate="24000",
@@ -117,6 +136,9 @@ def narrar(ruta, args, polly):
             parte = os.path.join(tmp, f"{n:04d}.mp3")
             with open(parte, "wb") as f:
                 f.write(respuesta["AudioStream"].read())
+            if inicio is not None and not args.prueba_2min:
+                marcas.append({"capitulo": inicio, "titulo": nombres[inicio], "inicio_s": round(segundos, 2)})
+            segundos += duracion(parte)
             lista.append(parte)
             print(f"\r{os.path.basename(ruta)}: {n + 1}/{len(ssml)}", end="", flush=True)
         indice = os.path.join(tmp, "lista.txt")
@@ -124,6 +146,9 @@ def narrar(ruta, args, polly):
             f.writelines(f"file '{p}'\n" for p in lista)
         subprocess.run(["ffmpeg", "-loglevel", "error", "-f", "concat", "-safe", "0",
                         "-i", indice, "-c", "copy", salida], check=True)
+    if marcas:
+        with open(salida.replace(".mp3", "_capitulos.json"), "w", encoding="utf-8") as f:
+            json.dump(marcas, f, ensure_ascii=False, indent=1)
     print(f"\n-> {salida}")
 
 
