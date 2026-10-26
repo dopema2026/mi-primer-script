@@ -958,7 +958,7 @@ Buenas noches.
 - Epicteto (Arriano), *Enquiridión*, 1, 5, 15 y 17; *Disertaciones*, I, 18 y I, 29 (la lámpara).
 - Luciano de Samósata, *Contra un ignorante que compraba muchos libros*, 13 (la lámpara de barro vendida tras la muerte de Epicteto).
 - Marco Aurelio, *Meditaciones*, libros I (gratitudes y nota del Granua), II (Carnunto; el presente), IV (el refugio interior, el río, el promontorio), V, 1 (al amanecer), VII y IX (la vista desde arriba).
-- *Historia Augusta*, Vida de Marco Aurelio (infancia, la estera y la piel; «ve hacia el sol que sale»).
+- *Historia Augusta*, Vida de Marco Aurelio (infancia, la estera y la piel; «ve hacia el sol que sale») y Vida de Antonino Pío, 12 (la contraseña «aequanimitas»).
 - Pierre Hadot, *La ciudadela interior* y *¿Qué es la filosofía antigua?*
 
 **Nota de rigor:** todas las citas son paráfrasis fieles, no traducciones literales. Este vídeo es divulgación filosófica y no sustituye la ayuda profesional ante el insomnio o la ansiedad (conviene ponerlo también en la descripción).

@@ -537,7 +537,7 @@ A esa situación se la ha llamado muchas veces convivencia. Los historiadores de
 
 Lo que es indudable es que de ese encuentro de culturas, de lenguas, de tradiciones, salieron cosas extraordinarias. Traducciones, ciencia, poesía, filosofía, arquitectura, música, cocina. Y muchas de ellas llegaron, a través de al-Ándalus, al resto de Europa.
 
-Imagina un viernes por la tarde en Córdoba. En la gran mezquita, miles de personas acuden a la oración del mediodía.
+Imagina un viernes en Córdoba. A mediodía, en la gran mezquita, miles de personas acuden a la oración.
 
 Al ponerse el sol, en el barrio judío, las familias encienden las velas del sabbat. En una casa, una madre cubre sus ojos con las manos y murmura una bendición en hebreo.
 

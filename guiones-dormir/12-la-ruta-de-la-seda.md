@@ -295,7 +295,7 @@ Y uno de ellos, sentado en el borde de la muralla, con las piernas colgando, toc
 
 Nanai la escucha desde su tienda. Conoce esa canción. Habla de los sauces de casa. De la primavera que no llega.
 
-Se tapa con su manta. Mañana cruzarán la puerta.
+Se tapa con su manta. Mañana irán al oasis de Dunhuang, a descansar antes del desierto. Y después cruzarán la puerta.
 
 ### Capítulo 11. El oasis de Dunhuang
 
@@ -351,7 +351,7 @@ Imagina ahora la cueva vacía, de noche. La luz de una sola lámpara de aceite, 
 
 ### Capítulo 13. Escala en el tiempo: la biblioteca escondida
 
-Hagamos otra escala en el tiempo. Unos ciento cincuenta años después de que la caravana de Nanai pasara por Dunhuang, alguien escondió en una de las cuevas de Mogao un tesoro.
+Hagamos otra escala en el tiempo. Unos doscientos cincuenta años después de que la caravana de Nanai pasara por Dunhuang, alguien escondió en una de las cuevas de Mogao un tesoro.
 
 No sabemos exactamente quién, ni por qué. Pero hacia el año mil, en una pequeña cueva lateral, alguien guardó decenas de miles de manuscritos, rollos, pinturas sobre seda, documentos, textos en muchas lenguas. Y luego tapió la entrada y la cubrió con una pintura mural, para que nadie supiera que estaba allí.
 

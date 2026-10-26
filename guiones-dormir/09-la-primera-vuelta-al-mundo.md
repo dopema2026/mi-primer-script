@@ -543,7 +543,7 @@ No vamos a contar esa batalla. Solo diremos que, tras la muerte de Magallanes, l
 
 Eran tan pocos que no tenían marineros suficientes para manejar tres naos. Así que decidieron quemar una de ellas, la Concepción, la que estaba en peor estado, después de sacar todo lo que pudiera servir. Y repartirse entre las dos que quedaban: la Trinidad y la Victoria.
 
-Durante los meses siguientes, vagaron por las islas del sudeste asiático, sin rumbo muy claro, buscando las Molucas. Pasaron por Borneo, donde fueron recibidos en la corte del sultán de Brunéi, una ciudad grande construida sobre el agua, con casas sobre pilotes. Pigafetta cuenta que les recibieron montados en elefantes, y que en el palacio vio porcelana china, tejidos de seda, joyas de oro.
+Durante los meses siguientes, vagaron por las islas del sudeste asiático, sin rumbo muy claro, buscando las Molucas.
 
 En esos meses, poco a poco, Juan Sebastián Elcano, el maestre vasco que había sido perdonado en San Julián, fue ganando autoridad entre los supervivientes. Y acabó siendo nombrado capitán de la Victoria.
 

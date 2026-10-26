@@ -582,7 +582,7 @@ Pero eso será mañana. Esta noche, solo hay lluvia.
 
 ### Capítulo 24. Un cuento junto al fuego
 
-Para terminar nuestra noche medieval, antes del amanecer, vamos a escuchar un cuento. Un cuento de verdad, de los que se escribieron en la Edad Media.
+Antes de que llegue el amanecer, vamos a escuchar un cuento. Un cuento de verdad, de los que se escribieron en la Edad Media.
 
 En el siglo catorce, un noble castellano, don Juan Manuel, sobrino del rey Alfonso el Sabio, escribió un libro llamado El conde Lucanor. En él, un conde le pide consejo a su sabio consejero, Patronio, y este le responde siempre con un cuento. Es una de las grandes obras de la prosa medieval en castellano. Uno de sus cuentos más famosos ocurre, precisamente, en Toledo.
 
@@ -650,7 +650,7 @@ Los carros pasan, uno detrás de otro, y su ruido se va perdiendo en dirección 
 
 ### Capítulo 26. La vigilia de los peregrinos
 
-Terminemos nuestro viaje en el lugar donde terminaban muchos viajes medievales: la catedral de Santiago de Compostela.
+Vayamos ahora al lugar donde terminaban muchos viajes medievales: la catedral de Santiago de Compostela.
 
 Durante la Edad Media, miles y miles de peregrinos caminaron hasta allí desde toda Europa. Venían de Francia, de Alemania, de Italia, de Inglaterra, de los reinos hispánicos. Algunos tardaban meses. Muchos lo hacían por fe, otros por promesa, otros para pedir un favor, otros como penitencia.
 

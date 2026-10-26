@@ -435,7 +435,7 @@ No cualquier diente. Los ciervos tienen, en la mandíbula superior, dos pequeño
 
 Los arqueólogos han encontrado muchísimos dientes de ciervo perforados en yacimientos de esta época, en la península ibérica y en toda Europa. Se perforaban por la raíz y se ensartaban en collares, o se cosían a la ropa como adornos. Como cada animal solo tenía dos, un collar con muchos de ellos era una pieza muy valiosa, que quizá mostraba la habilidad de su dueño como cazador o la riqueza de sus contactos.
 
-También se usaban conchas marinas perforadas, como las que la niña recibió en la reunión; cuentas de piedra y de hueso; dientes de otros animales; pequeñas esculturas. Algunas conchas aparecen a cientos de kilómetros del mar, lo que nos dice que se intercambiaban de grupo en grupo.
+También se usaban conchas marinas perforadas, que traían los grupos de la costa; cuentas de piedra y de hueso; dientes de otros animales; pequeñas esculturas. Algunas conchas aparecen a cientos de kilómetros del mar, lo que nos dice que se intercambiaban de grupo en grupo.
 
 Y en algunas tumbas de esta época, en Europa, se han encontrado personas enterradas con su ropa cubierta de miles de pequeñas cuentas cosidas, que debieron de llevar muchísimas horas de trabajo.
 
