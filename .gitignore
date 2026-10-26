@@ -1,2 +1,4 @@
 .dur.py
 .ins.py
+audios/
+__pycache__/
