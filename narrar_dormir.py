@@ -5,9 +5,14 @@ Lee solo la sección GUION (sin títulos de capítulo), mete 1,5 s entre párraf
 4 s entre capítulos, y une los trozos con ffmpeg.
 
 Uso:
-  python3 narrar.py --dry-run                 # cuenta caracteres y coste, sin llamar a Polly
-  python3 narrar.py --voz Raul --motor generative guiones-dormir/04-*.md
-  python3 narrar.py                           # todos los guiones
+  python3 narrar_dormir.py --dry-run                      # cuenta caracteres y coste, sin llamar a Polly
+  python3 narrar_dormir.py --prueba-2min guiones-dormir/01-*.md                         # Sergio generativa
+  python3 narrar_dormir.py --prueba-2min --voz Lucia guiones-dormir/01-*.md
+  python3 narrar_dormir.py --prueba-2min --voz Raul --motor long-form guiones-dormir/01-*.md
+  python3 narrar_dormir.py --voz Sergio guiones-dormir/01-*.md                          # guion completo
+
+Voces de España: Raúl y Alba solo existen en long-form; Sergio y Lucía, en generativa.
+Si Polly rechaza la etiqueta de velocidad con algún motor, repetir con --velocidad "".
 
 Credenciales: las normales de AWS (AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY,
 AWS_DEFAULT_REGION). Necesita boto3 y ffmpeg.
@@ -25,6 +30,13 @@ PAUSA_PARRAFO = "1.5s"
 PAUSA_CAPITULO = "4s"
 MAX_CARACTERES = 2800  # Polly factura hasta 3000 caracteres de texto por petición
 PRECIO_POR_MILLON = {"standard": 4, "neural": 16, "long-form": 100, "generative": 30}
+MOTORES_POR_VOZ = {
+    "Raul": {"long-form"},
+    "Alba": {"long-form"},
+    "Sergio": {"neural", "generative"},
+    "Lucia": {"standard", "neural", "generative"},
+}
+PALABRAS_PRUEBA = 240  # unos 2 minutos a ritmo de dormir
 
 
 def leer_guion(ruta):
@@ -46,6 +58,17 @@ def leer_guion(ruta):
     if actual:
         capitulos.append(actual)
     return capitulos
+
+
+def recortar(capitulos, palabras):
+    """Primeros párrafos del guion hasta sumar al menos `palabras` palabras."""
+    parrafos, total = [], 0
+    for parrafo in (p for c in capitulos for p in c):
+        parrafos.append(parrafo)
+        total += len(parrafo.split())
+        if total >= palabras:
+            break
+    return [parrafos]
 
 
 def trozos_ssml(capitulos, velocidad):
@@ -72,9 +95,15 @@ def trozos_ssml(capitulos, velocidad):
     return ssml
 
 
+def capitulos_a_narrar(ruta, args):
+    capitulos = leer_guion(ruta)
+    return recortar(capitulos, PALABRAS_PRUEBA) if args.prueba_2min else capitulos
+
+
 def narrar(ruta, args, polly):
-    ssml = trozos_ssml(leer_guion(ruta), args.velocidad)
-    salida = os.path.join(args.salida, os.path.basename(ruta).replace(".md", ".mp3"))
+    ssml = trozos_ssml(capitulos_a_narrar(ruta, args), args.velocidad)
+    sufijo = f"_prueba_{args.voz}_{args.motor}.mp3" if args.prueba_2min else ".mp3"
+    salida = os.path.join(args.salida, os.path.basename(ruta).replace(".md", sufijo))
     if os.path.exists(salida):
         print(f"ya existe, lo salto: {salida}")
         return
@@ -101,20 +130,25 @@ def narrar(ruta, args, polly):
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("guiones", nargs="*")
-    parser.add_argument("--voz", default="Raul")
+    parser.add_argument("--voz", default="Sergio", choices=sorted(MOTORES_POR_VOZ))
     parser.add_argument("--motor", default="generative", choices=sorted(PRECIO_POR_MILLON))
     parser.add_argument("--velocidad", default="90%", help="prosody rate; vacío para no usarlo")
-    parser.add_argument("--region", default=os.environ.get("AWS_DEFAULT_REGION", "eu-west-1"))
+    parser.add_argument("--region", default=os.environ.get("AWS_DEFAULT_REGION", "us-east-1"),
+                        help="long-form y generativa están en us-east-1")
     parser.add_argument("--salida", default="audios")
+    parser.add_argument("--prueba-2min", action="store_true",
+                        help="narra solo los primeros ~2 minutos, para comparar voces")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
+    if args.motor not in MOTORES_POR_VOZ[args.voz]:
+        parser.error(f"la voz {args.voz} solo existe con el motor: {', '.join(sorted(MOTORES_POR_VOZ[args.voz]))}")
 
     rutas = args.guiones or sorted(glob.glob("guiones-dormir/[01][0-9]-*.md"))
     rutas = [r for r in rutas if not os.path.basename(r).startswith("00")]
 
     total = 0
     for ruta in rutas:
-        caracteres = sum(len(p) for c in leer_guion(ruta) for p in c)
+        caracteres = sum(len(p) for c in capitulos_a_narrar(ruta, args) for p in c)
         total += caracteres
         print(f"{os.path.basename(ruta)}: {caracteres:,} caracteres")
     print(f"TOTAL: {total:,} caracteres ≈ {total / 1e6 * PRECIO_POR_MILLON[args.motor]:.0f} USD con el motor {args.motor}")
