@@ -6,7 +6,7 @@ Lee solo la sección GUION (sin títulos de capítulo), mete 1,5 s entre párraf
 
 Uso:
   python3 narrar.py --dry-run                 # cuenta caracteres y coste, sin llamar a Polly
-  python3 narrar.py --voz Sergio --motor neural guiones-dormir/04-*.md
+  python3 narrar.py --voz Raul --motor generative guiones-dormir/04-*.md
   python3 narrar.py                           # todos los guiones
 
 Credenciales: las normales de AWS (AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY,
@@ -101,8 +101,8 @@ def narrar(ruta, args, polly):
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("guiones", nargs="*")
-    parser.add_argument("--voz", default="Sergio")
-    parser.add_argument("--motor", default="neural", choices=sorted(PRECIO_POR_MILLON))
+    parser.add_argument("--voz", default="Raul")
+    parser.add_argument("--motor", default="generative", choices=sorted(PRECIO_POR_MILLON))
     parser.add_argument("--velocidad", default="90%", help="prosody rate; vacío para no usarlo")
     parser.add_argument("--region", default=os.environ.get("AWS_DEFAULT_REGION", "eu-west-1"))
     parser.add_argument("--salida", default="audios")
