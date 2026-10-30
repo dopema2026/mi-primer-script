@@ -1,0 +1,96 @@
+#	herramienta	creditos	proposito
+1	get_channels_by_ids	5	Dopema + Time Runners (ID de Time Runners no resuelto)
+2	channel_search	5	@ElPorqueCosas
+3	channel_search	5	Time Runners por título (sin resultado)
+4	youtube_search	5	vídeo CDMX Time Runners -> canal real UCbiRvoZcXGYLSiznFQITeCw
+-	metricool (8 llamadas)	0	analíticas, horas, cola programada (sin coste vidIQ)
+5	channel_analytics	5	Dopema top vídeos 90 días (vista media, % visto, subs)
+6	user_videos	5	Dopema privados/programados
+7-10	keyword_research x4	20	Earhart, especias, plata Potosí, vida Edad Media
+11-13	outliers x3	15	Earhart / especias / plata (ES; ruido por coincidencia de título)
+14-21	score_title x8	40	títulos programados vs alternativas
+22-23	score_title x2	10	Alarico pimienta (78), Earhart avión 89 años (78)
+24	outliers	5	arqueología hallazgo ES <25k subs >20x
+25	outliers	5	historia para dormir ES <25k subs >20x
+26-28	outliers x3	15	misterio histórico / antigua Roma vida / naufragio (ES)
+29-30	outliers x2	10	EN arqueología vida cotidiana / EN historia para dormir medieval
+31-34	keyword_research x4	20	piratas / pompeya / documental para dormir / antiguo egipto
+35	trending_videos	5	Shorts ES historia/arqueología más rápidos (vph) desde 15-sep
+36	video_transcript	5	Portales al Pasado — diligencias 1816 (2I_0DQGFelc)
+37	channel_videos	5	Portales Al Pasado — populares (largos)
+38	channel_videos	5	El Último Hallazgo — populares (largos)
+39	keyword_research	5	cómo vivían los romanos
+40	channel_stats	5	El Porqué — evolución diaria subs/vistas desde creación
+41	channel_videos	5	El Porqué — Shorts populares (breakout)
+42	channel_videos	5	El Porqué — largos populares
+43	similar_channels	5	competidores semánticos de El Porqué
+44-45	outliers x2	10	evolución humana por qué / origen cosas cotidianas (ES)
+46-48	outliers x3	15	EN evolución rasgos / EN historia objetos cotidianos / EN Shorts hábitos cotidianos
+49	video_transcript	5	Mango Explica — parto (devuelve pista árabe: canal con doblaje)
+50	video_transcript	5	Donno — Why Are Humans So Much Weaker (EN, 1,1M)
+51	video_transcript	5	Curiosamente Graficado — cerdos por accidente (ES, 358k)
+52-55	keyword_research x4	20	por qué los humanos / evolución humana / curiosidades cuerpo / origen objetos
+56	channel_stats	5	Time Runners (ID real UCbiRvoZcXGYLSiznFQITeCw)
+57-58	channel_videos x2	10	Time Runners Shorts / largos (0 largos)
+59	video_stats	5	CDMX curva horaria
+60	video_comments	5	CDMX 60 hilos por relevancia
+61	video_comments	5	Alejandría
+62-63	outliers x2	10	EN Shorts city through time / EN largos city evolution timelapse
+64	outliers	5	EN POV primera persona historia
+65	outliers	5	ES evolución de ciudad
+66	keyword_research	5	city evolution timelapse (EN)
+67-69	earnings_calculate x3	15	con 500 subs devuelve 0 (no monetizado) — cálculo desperdiciado
+70-72	earnings_calculate x3	15	RPM hipotético canal 5.000 subs: largo US/EN, largo MX/ES, Shorts US
+73	subscriber_insights	5	Dopema solapamiento de suscriptores + ventanas de publicación
+74	channel_performance_trends	5	Dopema curva típica de vistas
+75	similar_channels	5	Dopema competidores semánticos (resultado: FINANZAS)
+76	channel_videos	5	@RelatosparaDormir (handle no resuelto, 0 resultados)
+77	channel_videos	5	Garabatos de la Historia — populares
+78	channel_videos	5	Legio Maxima — populares
+79	outliers	5	Pompeya Herculano Vesubio (ES, 1 año)
+80	outliers	5	aztecas mexicas Tenochtitlan (ES, 1 año)
+81-83	keyword_research x3	15	aztecas / naufragios históricos / cómo dormían
+84	trending_videos	5	largos ES historia más rápidos desde 1-oct
+85-88	channel_videos x4	20	Mango Explica / Curiosamente Graficado / Donno / Knowing Noah — populares
+89-90	keyword_research x2	10	por qué no comemos / primeros humanos
+91-94	watch_shortform x4	40	El Porqué: faro (top) y pirámides (flop); Time Runners: CDMX y Alejandría
+95	channel_videos	5	Humanity Timeline — populares
+96	channel_videos	5	One Square — Shorts populares
+97	similar_channels	5	Time Runners (vidIQ lo clasifica como canal de historia en ESPAÑOL)
+98	channel_videos	5	Calles de Antes — populares
+99	channel_videos	5	EraLapse — populares
+100	channel_videos	5	TIMELINE RUNNER — populares
+101	keyword_research	5	historia de la ciudad de méxico
+102	trending_videos	0	Shorts through time (sin resultados, sin coste)
+103	channel_videos	5	Cosas Simples y Curiosas — populares
+104	channel_videos	5	EyToby — Shorts populares
+105-106	comment_insights x2	10	discover: evolución/orígenes (ES) y vida cotidiana Roma/Edad Media (ES)
+107-109	keyword_research x3	15	historia de buenos aires / tenochtitlan reconstrucción / city through time (EN)
+110	outliers	5	ES "a través del tiempo ciudad"
+111	outliers	5	"every city through time compilation" (salió en ES por defecto: resultado inútil, City Tour Chile)
+112-113	outliers x2	10	EN cities through time compilation / EN fixed camera timelapse
+114-115	keyword_research x2	10	evolución de la ciudad de méxico / historia de madrid
+116-117	channel_videos x2	10	Restored Timeline (64,8k) — largos · Álbum Mexicano (3,8k) — largos
+118	video_comments	5	Restored Timeline — Evolution of Mexico City (comentarios)
+119-142	score_title x24	120	Dopema largos: 15 títulos + 9 variantes
+143-160	score_title x18	90	Dopema Shorts: 15 títulos + 3 variantes
+161-199	score_title x39	195	El Porqué: 15 largos + 4 variantes, 15 Shorts + 5 variantes
+200-232	score_title x33	165	Time Runners: 15 largos, 15 Shorts, 1 variante, 2 traducciones ES
+233-236	outliers x4	20	pruebas: teotihuacan túnel / galeón san josé / momias chinchorro / galeón de manila
+237-240	outliers x4	20	pruebas: por qué los perros / volver a la luna / cómo dormían primeros humanos / piratas cómo vivían
+241-244	outliers x4	20	pruebas: amnesia infantil / dormir dos turnos / pompeya víctimas / tlaxcaltecas cortés
+245	subscriber_insights x2	0	El Porqué y Time Runners: sin acceso (no son canales conectados), sin coste
+246	channel_performance_trends	5	El Porqué curva típica
+247-286	score_title x40	200	Títulos B para prueba A/B de los 40 largos que no tenían variante
+287-311	score_title x25	125	Auditoría cola Dopema (22 programados + Bubastis variante + 2 pruebas de cifras/oro)
+312-343	score_title x32	160	Auditoría cola El Porqué (30 programados + 2 variantes)
+344-349	score_title x6	30	Propuestas para los títulos programados más flojos
+350-353	keyword_research x4	20	galeón de manila / teotihuacan / historia de guadalajara / bogotá antigua
+354	user_videos	5	Dopema: últimos 25 vídeos con IDs y vistas
+355-356	keyword_research x2	10	momias chinchorro / caral
+357-358	watch_shortform x2	20	Dopema: Pakal tubo (ganador) vs barco romano Neuchâtel (perdedor)
+359-365	score_title x7	35	Time Runners: traducciones ES de 7 Shorts (comparación EN/ES)
+366-368	outliers x3	15	EN: dogs eyes / human chins / how pirates lived
+369	comment_insights x3	5	EN city evolution (completado); ES ciudades y ES dormir sin datos: reembolsados
+370	youtube_search	5	One Square: localizar el Short del Coliseo
+371	watch_shortform	10	One Square: Coliseo (34 s, 700k)

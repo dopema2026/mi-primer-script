@@ -1,0 +1,92 @@
+:root {
+  --tinta: #1d2230;
+  --suave: #5b6272;
+  --linea: #d9dce3;
+  --fondo-tabla: #f5f6f9;
+  --dopema: #b5462e;
+  --elporque: #1f6f8b;
+  --timerunners: #6b4fa0;
+  --comun: #2f3a4f;
+  --anexo: #6f7480;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #fff; }
+body {
+  font-family: "Inter", "DejaVu Sans", sans-serif;
+  color: var(--tinta);
+  font-size: 9.2pt;
+  line-height: 1.45;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+h1, h2, h3 { font-family: "Inter Display", "Inter", sans-serif; line-height: 1.2; }
+h1 { font-size: 20pt; font-weight: 800; margin: 0 0 10pt; padding-bottom: 6pt; border-bottom: 3px solid var(--color, var(--comun)); break-before: page; color: var(--color, var(--comun)); }
+h1.sin-salto { break-before: avoid; }
+h2 { font-size: 13pt; font-weight: 750; margin: 16pt 0 6pt; color: var(--color, var(--comun)); break-after: avoid; }
+h3 { font-size: 10.5pt; font-weight: 700; margin: 12pt 0 4pt; break-after: avoid; }
+p { margin: 0 0 6pt; orphans: 3; widows: 3; }
+ul, ol { margin: 0 0 6pt 14pt; padding: 0; }
+li { margin: 0 0 3pt; }
+hr { border: 0; border-top: 1px solid var(--linea); margin: 10pt 0; }
+strong { color: #000; }
+code { font-family: "JetBrains Mono", monospace; font-size: 7.8pt; background: #eef0f4; padding: 0 2px; border-radius: 2px; }
+pre { background: #1d2230; color: #f2f4f8; padding: 6pt 8pt; border-radius: 4px; white-space: pre-wrap; word-break: break-all; font-size: 7.4pt; break-inside: avoid; }
+pre code { background: none; color: inherit; padding: 0; }
+
+table { width: 100%; border-collapse: collapse; margin: 6pt 0 10pt; font-size: 7.6pt; line-height: 1.32; table-layout: auto; }
+thead { display: table-header-group; }
+tr { break-inside: avoid; page-break-inside: avoid; }
+th { background: var(--color, var(--comun)); color: #fff; font-weight: 700; text-align: left; padding: 4pt 5pt; vertical-align: bottom; }
+td { padding: 3.5pt 5pt; border-bottom: 1px solid var(--linea); vertical-align: top; overflow-wrap: anywhere; hyphens: auto; }
+tbody tr:nth-child(even) td { background: var(--fondo-tabla); }
+
+.canal.dopema { --color: var(--dopema); }
+.canal.elporque { --color: var(--elporque); }
+.canal.timerunners { --color: var(--timerunners); }
+.canal.comun { --color: var(--comun); }
+.canal.anexo { --color: var(--anexo); }
+.canal.anexo table { font-size: 7pt; }
+.canal > h1:first-child { break-before: avoid; }
+
+/* Portada */
+.portada { height: 265mm; position: relative; padding: 28mm 6mm 0; break-after: page; }
+.portada-banda { position: absolute; top: 0; left: 0; right: 0; height: 9mm; background: linear-gradient(90deg, var(--dopema) 0 33.3%, var(--elporque) 33.3% 66.6%, var(--timerunners) 66.6% 100%); }
+.portada-antetitulo { letter-spacing: .18em; font-size: 8.5pt; color: var(--suave); font-weight: 700; margin-top: 20mm; }
+.portada-titulo { font-size: 38pt; border: 0; color: var(--tinta); margin: 4mm 0 6mm; break-before: avoid; line-height: 1.05; }
+.portada-sub { font-size: 12pt; color: var(--suave); max-width: 150mm; }
+.insignias { display: flex; gap: 5mm; margin-top: 16mm; }
+.insignia { flex: 1; border-top: 5px solid; padding: 4mm 3mm; background: var(--fondo-tabla); min-height: 34mm; }
+.insignia b { display: block; font-size: 12pt; margin-bottom: 2mm; }
+.insignia span { font-size: 8.5pt; color: var(--suave); }
+.insignia.dopema { border-color: var(--dopema); } .insignia.dopema b { color: var(--dopema); }
+.insignia.elporque { border-color: var(--elporque); } .insignia.elporque b { color: var(--elporque); }
+.insignia.timerunners { border-color: var(--timerunners); } .insignia.timerunners b { color: var(--timerunners); }
+.portada-pie { position: absolute; bottom: 10mm; left: 6mm; right: 6mm; font-size: 9pt; color: var(--suave); border-top: 1px solid var(--linea); padding-top: 4mm; display: grid; grid-template-columns: 1fr 1fr; gap: 2mm 8mm; }
+.portada-pie .riesgo { grid-column: 1 / -1; color: #1b6b3a; font-weight: 700; }
+
+/* Índice */
+.indice { break-after: page; padding-top: 6mm; }
+.lista-indice { list-style: none; margin: 8mm 0 0; }
+.lista-indice li { display: flex; gap: 6mm; padding: 4mm 0; border-bottom: 1px solid var(--linea); font-size: 11pt; }
+.lista-indice .num { font-weight: 800; width: 10mm; font-size: 14pt; }
+.lista-indice li.dopema .num { color: var(--dopema); }
+.lista-indice li.elporque .num { color: var(--elporque); }
+.lista-indice li.timerunners .num { color: var(--timerunners); }
+.lista-indice li.comun .num { color: var(--comun); }
+.lista-indice li.anexo .num { color: var(--anexo); }
+
+/* Separadores de canal */
+.separador { height: 260mm; break-before: page; break-after: page; position: relative; padding: 80mm 8mm 0; }
+.separador .sep-banda { position: absolute; top: 0; bottom: 0; left: 0; width: 12mm; }
+.separador p { letter-spacing: .25em; font-weight: 700; color: var(--suave); margin-left: 10mm; }
+.separador h1 { font-size: 40pt; border: 0; margin-left: 10mm; }
+.separador h3 { margin-left: 10mm; color: var(--suave); font-weight: 500; font-size: 13pt; max-width: 140mm; }
+.separador.dopema .sep-banda { background: var(--dopema); } .separador.dopema h1 { color: var(--dopema); }
+.separador.elporque .sep-banda { background: var(--elporque); } .separador.elporque h1 { color: var(--elporque); }
+.separador.timerunners .sep-banda { background: var(--timerunners); } .separador.timerunners h1 { color: var(--timerunners); }
+
+/* Ajustes tras la revisión visual */
+.canal.comun h1 { break-before: auto; margin-top: 14pt; }
+.canal.comun > h1:first-child { margin-top: 0; }
+.canal.anexo > h1:first-child { break-before: page; }
+.nw { white-space: nowrap; }

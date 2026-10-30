@@ -1,0 +1,122 @@
+id	tipo	titulo	score
+D-L01	long	El túnel sellado bajo Teotihuacan: 50.000 objetos y mercurio líquido al final	84
+D-L02	long	La computadora griega del naufragio: 2.000 años después nadie sabe quién la hizo	83
+D-L03	long	Así era un día normal en Tenochtitlan: 200.000 personas viviendo sobre un lago	91
+D-L04	long	Por qué nadie quería vivir en el último piso en la Antigua Roma	95
+D-L05a	long	Cortés no conquistó México con 500 españoles: la alianza que lo cambió todo	77
+D-L05b	long	Cortés no tomó Tenochtitlan con 500 españoles. Lo hizo con miles de aliados indígenas	78
+D-L06a	long	El galeón San José: por qué nadie ha sacado su tesoro en 300 años	79
+D-L07	long	Caral: la ciudad de 5.000 años que nunca construyó una muralla	82
+D-L08a	long	Un láser descubrió 6.674 edificios mayas escondidos bajo la selva de Campeche	77
+D-L09	long	Cómo sobrevivían de verdad los piratas en alta mar	82
+D-L10a	long	Pompeya: lo que llevaban encima los que intentaron huir	75
+D-L11	long	Las momias Chinchorro: momificaban a sus muertos 2.000 años antes que Egipto	81
+D-L12	long	Una noche en una ínsula romana: así dormía la gente corriente | Historia para dormir 2 horas	87
+D-L13	long	Una noche en el Galeón de Manila: seis meses rumbo a Acapulco | Historia para dormir 2 horas	91
+D-L14	long	Una noche en un barco de emigrantes rumbo a América en 1910 | Historia para dormir 2 horas	90
+D-L15	long	Una noche en Tenochtitlan en 1519: así dormía la ciudad sobre el lago | Historia para dormir 2 horas	92
+D-L05c	long	La verdad sobre cómo cayó Tenochtitlan (no fueron 500 españoles)	83
+D-L06b	long	El galeón San José: un tesoro de 300 años que sigue en el fondo del Caribe	83
+D-L08b	long	Encontraron una ciudad maya entera escondida bajo la selva de México	83
+D-L10b	long	Pompeya: qué se llevaron los que intentaron huir del Vesubio	79
+D-L10c	long	Los últimos minutos de Pompeya: lo que llevaban los que intentaron huir	76
+D-L02b	long	La computadora de 2.000 años que encontraron dentro de un naufragio griego	83
+D-L10d	long	Lo que apretaban en las manos las víctimas de Pompeya	79
+D-S01	short	La queja más antigua del mundo: un cliente furioso por un cobre malo	80
+D-S02	short	Este chicle tiene 5.700 años y guardó el ADN de quien lo masticó	81
+D-S03	short	La Piedra del Sol pasó más de 200 años enterrada bajo el Zócalo	84
+D-S04	short	El acueducto de Segovia lleva casi 2.000 años en pie sin una gota de argamasa	83
+D-S05	short	Los guerreros de terracota no eran grises: estaban pintados	83
+D-S06	short	Roma pagó a Alarico con 3.000 libras de pimienta. Dos años después la saqueó igual	80
+D-S07	short	La moneda española que fue dinero legal en Estados Unidos hasta 1857	87
+D-S08	short	La última frase que transmitió Amelia Earhart antes de desaparecer	80
+D-S09	short	Bubastis: la ciudad egipcia donde enterraban gatos por miles	81
+D-S10	short	Este pan salió del horno en Pompeya hace casi 2.000 años	80
+D-S11	short	Los mexicas cultivaban encima del agua (y todavía funciona)	85
+D-S12	short	El barco vikingo que enterraron con dos mujeres dentro	83
+D-S13a	short	Derinkuyu: la ciudad bajo tierra donde podían esconderse 20.000 personas	76
+D-S14a	short	El Templo Mayor estuvo enterrado bajo el centro de México hasta 1978	78
+D-S15	short	Los incas llevaban las cuentas de un imperio con nudos	84
+D-S13b	short	Una ciudad entera bajo tierra: 18 pisos excavados a mano en Turquía	68
+D-S14b	short	Unos obreros de la luz encontraron el Templo Mayor bajo la calle en 1978	82
+D-L10e	long	Pompeya: lo que tenían en las manos cuando llegó la nube del Vesubio	80
+D-S13c	short	La frase más antigua escrita con alfabeto está en un peine contra los piojos	81
+E-L01	long	¿Por qué empezamos a usar ropa? Lo descubrieron gracias a los piojos	84
+E-L02	long	¿Qué hacían los primeros humanos durante 12 horas de oscuridad?	86
+E-L03	long	Un chimpancé no es 5 veces más fuerte que tú: el error de 1923	83
+E-L04	long	¿Por qué no comemos carne de león si comemos cerdo?	84
+E-L05	long	¿Por qué no recuerdas nada de antes de los 3 años?	86
+E-L06	long	¿Por qué los aviones no vuelan en línea recta?	87
+E-L07	long	¿Por qué los años pasan más rápido cuando te haces mayor?	86
+E-L08	long	3 objetos de tu casa que parecen defectuosos y están hechos así a propósito	81
+E-L09a	long	¿Cómo descubrieron los primeros humanos la sal?	73
+E-L09b	long	¿Por qué necesitamos sal si beber agua de mar nos mata?	76
+E-L09c	long	Hace 8.000 años ya hervían agua para sacar sal: ¿cómo la descubrimos?	72
+E-L09d	long	¿Por qué tenemos barbilla si ningún otro animal la tiene?	84
+E-L10a	long	¿Por qué tu perro entiende cuando señalas y un chimpancé no?	76
+E-L10b	long	¿Por qué los perros nos miran a los ojos y los lobos no?	91
+E-L11	long	Antes de la luz eléctrica dormíamos en dos turnos: ¿qué pasó?	86
+E-L12	long	¿Por qué somos el único animal que llora de tristeza?	84
+E-L13	long	¿Cómo dormían los primeros humanos sin que se los comieran?	81
+E-L14	long	¿Por qué el Atlántico es más salado que el Pacífico?	87
+E-L15	long	¿Por qué nadie ha vuelto a pisar la Luna desde 1972?	84
+E-S01	short	El Coloso de Rodas estuvo en pie solo 54 años	83
+E-S02a	short	La biblioteca de Alejandría no ardió en un solo día	77
+E-S02b	short	La biblioteca de Alejandría no ardió en un día: murió durante siglos	77
+E-S03	short	La Gran Pirámide fue lo más alto del mundo durante 3.800 años	80
+E-S04	short	Cleopatra vivió más cerca del iPhone que de la Gran Pirámide	83
+E-S05	short	Por qué se te arrugan los dedos en el agua (no es por el agua)	78
+E-S06	short	Por qué los atletas muerden las medallas	85
+E-S07	short	El hombre que sobrevivió a las dos bombas atómicas	87
+E-S08	short	Los vikingos nunca llevaron cuernos en el casco	83
+E-S09a	short	Napoleón no era bajito: el error de las pulgadas francesas	78
+E-S09b	short	Napoleón medía lo normal: el mito de su altura nació de un error de medidas	78
+E-S10	short	Los romanos lavaban la ropa con orina (y pagaban impuestos por ella)	81
+E-S11a	short	Este árbol ya estaba vivo cuando se construían las pirámides	62
+E-S11b	short	Matusalén: el árbol de 4.800 años que ya vivía cuando se alzaban las pirámides	69
+E-S11c	short	Esta medusa puede volver a ser joven una y otra vez	86
+E-S12a	short	Bajo este lago hay una ciudad entera de más de 1.300 años	62
+E-S12b	short	Shi Cheng: la ciudad china que lleva más de 60 años bajo un lago	84
+E-S13	short	Por qué los flamencos son rosas si nacen grises	83
+E-S14	short	La Torre Eiffel crece hasta 15 centímetros en verano	78
+E-S15	short	Por qué los botones de la camisa de mujer están al otro lado	84
+T-L01	long	Mexico City Through Time: 12,000 Years in First Person (Full Version)	91
+T-L02	long	Los Angeles Through Time: From a Tongva Village to Hollywood | First Person	93
+T-L03	long	New York Through Time: From a Lenape Island to Times Square | First Person	93
+T-L04	long	Rome Through Time: 3,000 Years in First Person	86
+T-L05	long	Madrid Through Time: From a Moorish Fortress to Puerta del Sol | First Person	95
+T-L06	long	Buenos Aires Through Time: 500 Years in First Person	86
+T-L07	long	Lima Through Time: From Huaca Pucllana to the City of Kings | First Person	93
+T-L08	long	Havana Through Time: 500 Years in First Person	87
+T-L09	long	Cusco Through Time: Walking the Inca Capital for 1,000 Years | First Person	88
+T-L10	long	Dubai Through Time: From a Fishing Village to the Burj Khalifa | First Person	93
+T-L11	long	Tokyo Through Time: From Edo to Shibuya | First Person	87
+T-L12	long	Seville Through Time: The City That Sent Ships to the New World | First Person	96
+T-L13	long	London Through Time: 2,000 Years in First Person	88
+T-L14	long	Latin American Cities Through Time | 1 Hour in First Person	87
+T-L15	long	Ancient Capitals Through Time: Rome, Tenochtitlan, Cusco | 1 Hour in First Person	84
+T-S01	short	Guadalajara Through Time: From the Atemajac Valley to the World Cup	87
+T-S02	short	Monterrey Through Time: From the Santa Lucía Springs to the World Cup	89
+T-S03	short	Bogotá Through Time: From Bacatá to Today	86
+T-S04a	short	Buenos Aires Through Time: From 1536 to Today	79
+T-S04b	short	Buenos Aires Through Time: From a Mud Fort to the Obelisk	82
+T-S05	short	Lima Through Time: 500 Years in 3 Minutes	87
+T-S06	short	The Zócalo Through Time: One Square, 700 Years	86
+T-S07	short	Puerta del Sol Through Time: Madrid's Kilometre Zero	90
+T-S08	short	Machu Picchu Through Time: Built, Abandoned, Found	81
+T-S09	short	Chichén Itzá Through Time: 1,500 Years in One Minute	86
+T-S10	short	Seville Cathedral: The Mosque Tower That Became a Bell Tower	83
+T-S11	short	Santiago de Chile Through Time: From Huelén Hill to Today	85
+T-S12	short	Puebla Through Time: The City Built by Angels	83
+T-S13	short	Teotihuacan Through Time: The City of the Gods in One Minute	84
+T-S14	short	The Alamo Through Time: From Spanish Mission to Texas Icon	87
+T-S15	short	Los Angeles Through Time: One Corner, 250 Years	92
+T-ES1	short	Guadalajara a través del tiempo: del valle de Atemajac al Mundial (traducción ES)	86
+T-ES2	long	La Ciudad de México a través del tiempo: 12.000 años en primera persona (traducción ES)	92
+T-ES3	short	Monterrey a través del tiempo: de los ojos de agua de Santa Lucía al Mundial (traducción ES)	90
+T-ES4	short	Bogotá a través del tiempo: de Bacatá a hoy (traducción ES)	88
+T-ES5	short	Buenos Aires a través del tiempo: del fuerte de barro al Obelisco (traducción ES)	81
+T-ES6	short	Lima a través del tiempo: 500 años en 3 minutos (traducción ES)	84
+T-ES7	short	El Zócalo a través del tiempo: una plaza, 700 años (traducción ES)	81
+T-ES8	short	Santiago de Chile a través del tiempo: del cerro Huelén a hoy (traducción ES)	79
+T-ES9	short	Puebla a través del tiempo: la ciudad de los ángeles (traducción ES)	83
