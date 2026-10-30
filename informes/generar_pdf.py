@@ -19,8 +19,19 @@ import markdown
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 DATOS = os.path.join(BASE, "datos")
-SALIDA_HTML = os.path.join(BASE, "HOJA_DE_RUTA_MAESTRA_3_CANALES_2026.html")
-SALIDA_PDF = os.path.join(BASE, "HOJA_DE_RUTA_MAESTRA_3_CANALES_2026.pdf")
+# Con --completo se añade el anexo E (cuaderno de investigación con todas las notas en bruto)
+COMPLETO = "--completo" in sys.argv
+SUFIJO = "_COMPLETO" if COMPLETO else ""
+SALIDA_HTML = os.path.join(BASE, "HOJA_DE_RUTA_MAESTRA_3_CANALES_2026%s.html" % SUFIJO)
+SALIDA_PDF = os.path.join(BASE, "HOJA_DE_RUTA_MAESTRA_3_CANALES_2026%s.pdf" % SUFIJO)
+
+NOTAS = [
+    ("Dopema Web — Metricool (YouTube, TikTok y colas programadas)", "notas_dopema_metricool.md"),
+    ("Dopema Web — investigación vidIQ", "notas_vidiq_dopema.md"),
+    ("El Porqué de las Cosas — investigación vidIQ", "notas_vidiq_elporque.md"),
+    ("Time Runners — investigación vidIQ", "notas_vidiq_timerunners.md"),
+    ("Pruebas de outlier por pieza", "notas_pruebas_piezas.md"),
+]
 
 CANALES = [
     ("dopema", "Dopema Web", "informe_dopema_extremo.md", "Arqueología, vida cotidiana e historia para dormir · público 70 % LatAm"),
@@ -86,6 +97,7 @@ def indice():
         ("B", "Anexo B — Títulos B para la prueba A/B de los 45 largos", "anexo"),
         ("C", "Anexo C — Auditoría de las colas programadas en Metricool", "anexo"),
         ("D", "Anexo D — Registro de créditos de vidIQ llamada a llamada", "anexo"),
+    ] + ([("E", "Anexo E — Cuaderno de investigación completo (todas las notas en bruto de vidIQ y Metricool)", "anexo")] if COMPLETO else []) + [
     ]
     li = "".join('<li class="%s"><span class="num">%s</span><span>%s</span></li>' % (c, n, html.escape(t)) for n, t, c in filas)
     return '<section class="indice"><h1 class="sin-salto">Índice</h1><ol class="lista-indice">%s</ol></section>' % li
@@ -113,6 +125,16 @@ def main():
     anexos.append("<h1>Anexo D — Registro de créditos de vidIQ</h1>")
     anexos.append("<p>Total gastado: 1.880 créditos (comprobado con vidiq_balance: 6.469 → 4.589).</p>")
     anexos.append(tabla_tsv(os.path.join(DATOS, "ledger.tsv"), titulos=["#", "Herramienta", "Créditos", "Propósito"]))
+    if COMPLETO:
+        anexos.append("<h1>Anexo E — Cuaderno de investigación completo</h1>")
+        anexos.append("<p>Notas tal como se tomaron durante la investigación (vidIQ y Metricool, 30-oct-2026). Son la fuente de todas las cifras del informe.</p>")
+        for titulo, archivo in NOTAS:
+            with open(os.path.join(DATOS, archivo), encoding="utf-8") as f:
+                texto = f.read()
+            # bajar dos niveles los títulos para que no fuercen salto de página
+            texto = re.sub(r"^(#{1,4}) ", lambda m: "#" * min(len(m.group(1)) + 2, 6) + " ", texto, flags=re.M)
+            anexos.append('<h2 class="cuaderno">%s</h2>' % html.escape(titulo))
+            anexos.append(md(texto))
     anexos.append("</section>")
     partes.append("".join(anexos))
 

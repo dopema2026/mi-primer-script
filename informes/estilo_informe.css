@@ -90,3 +90,5 @@ tbody tr:nth-child(even) td { background: var(--fondo-tabla); }
 .canal.comun > h1:first-child { margin-top: 0; }
 .canal.anexo > h1:first-child { break-before: page; }
 .nw { white-space: nowrap; }
+h2.cuaderno { break-before: page; font-size: 15pt; border-bottom: 2px solid var(--color); padding-bottom: 4pt; }
+.canal.anexo > h1 + p + h2.cuaderno { break-before: avoid; }
