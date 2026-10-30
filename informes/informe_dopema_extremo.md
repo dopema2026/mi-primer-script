@@ -346,8 +346,8 @@ Supuesto: la fábrica empieza la producción ya. Si una pieza no está aprobada 
 
 | Semana | Lunes | Miércoles | Viernes | Domingo | Shorts de esta lista |
 |---|---|---|---|---|---|
-| 1 (2–8 nov) | — | — | — | Amelia (programado, 18:00) | D-S08 vie 6 · 15:00 |
-| 2 (9–15 nov) | Bubastis (programado, 18:00) | Plata (programado, 18:00) | — | Pimienta (programado sáb 14, 18:00) | D-S09 sáb 7 · D-S07 lun 9 · D-S06 jue 12 |
+| 1 (2–8 nov) | — | — | — | Amelia (programado, 18:00) | D-S08 vie 6 · D-S09 sáb 7 (15:00) |
+| 2 (9–15 nov) | Bubastis (programado, 18:00) | Plata (programado, 18:00) | — | Pimienta (programado sáb 14, 18:00) | D-S07 lun 9 · D-S06 jue 12 |
 | 3 (16–22 nov) | D-S04 (puente de D-L04) · 15:00 | D-L04 Último piso · 16:00 | D-S14 (puente de D-L03) · 15:00 | D-L13 Galeón de Manila 2 h · 22:00 | D-S04 lun 16 · D-S14 vie 20 · D-S11 sáb 21 |
 | 4 (23–29 nov) | D-L03 Tenochtitlan día · 18:00 | — | — | — | D-S03 vie 27 (puente de D-L15) |
 | 5 (30 nov–6 dic) | — | D-L09 Piratas · 16:00 | — | D-L15 Tenochtitlan noche 2 h · 22:00 | D-S05 sáb 5 · D-S13 dom 6 (puentes de D-L02) |

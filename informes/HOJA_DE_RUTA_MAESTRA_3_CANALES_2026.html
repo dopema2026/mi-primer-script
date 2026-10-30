@@ -90,6 +90,8 @@ tbody tr:nth-child(even) td { background: var(--fondo-tabla); }
 .canal.comun > h1:first-child { margin-top: 0; }
 .canal.anexo > h1:first-child { break-before: page; }
 .nw { white-space: nowrap; }
+h2.cuaderno { break-before: page; font-size: 15pt; border-bottom: 2px solid var(--color); padding-bottom: 4pt; }
+.canal.anexo > h1 + p + h2.cuaderno { break-before: avoid; }
 </style></head><body>
 <section class="portada">
   <div class="portada-banda"></div>
@@ -1473,7 +1475,7 @@ tbody tr:nth-child(even) td { background: var(--fondo-tabla); }
 <td>—</td>
 <td>—</td>
 <td>Amelia (programado, 18:00)</td>
-<td><span class="nw">D-S08</span> vie 6 · 15:00</td>
+<td><span class="nw">D-S08</span> vie 6 · <span class="nw">D-S09</span> sáb 7 (15:00)</td>
 </tr>
 <tr>
 <td>2 (9–15 nov)</td>
@@ -1481,7 +1483,7 @@ tbody tr:nth-child(even) td { background: var(--fondo-tabla); }
 <td>Plata (programado, 18:00)</td>
 <td>—</td>
 <td>Pimienta (programado sáb 14, 18:00)</td>
-<td><span class="nw">D-S09</span> sáb 7 · <span class="nw">D-S07</span> lun 9 · <span class="nw">D-S06</span> jue 12</td>
+<td><span class="nw">D-S07</span> lun 9 · <span class="nw">D-S06</span> jue 12</td>
 </tr>
 <tr>
 <td>3 (16–22 nov)</td>
